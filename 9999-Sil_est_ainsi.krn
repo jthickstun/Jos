@@ -1,0 +1,259 @@
+!!!COM: Le Gendre
+!!!OTL: S'il est ainsi
+!!!SMS: CESR.  Du Chemin Book XII, No. 9.  
+!!!COM2: Freedman, Richard
+!!!ONB1: Reconstruction of Contratenor and Bassus 
+!!!ONB2: parts by Richard Freedman, October 2011.
+**kern	**kern	**text	**kern	**kern	**text
+*staff4	*staff3	*staff3	*staff2	*staff1	*staff1
+*I"Bassus	*I"Contratenor	*I"Contratenor	*I"Altus	*I"Superius	*I"Superius
+*I'B	*I'CT	*I'CT	*I'A	*I'S	*I'S
+*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]
+*>norep[A,B,B2]	*>norep[A,B,B2]	*>norep[A,B,B2]	*>norep[A,B,B2]	*>norep[A,B,B2]	*>norep[A,B,B2]
+*clefF4	*clefGv2	*	*clefG2	*clefG2	*
+*>A	*>A	*>A	*>A	*>A	*>A
+*k[]	*k[]	*	*k[]	*k[]	*
+*d:dor	*d:dor	*d:dor	*d:dor	*d:dor	*d:dor
+*met(c|)	*met(c|)	*	*met(c|)	*met(c|)	*
+*M4/2	*M4/2	*	*M4/2	*M4/2	*
+=1-	=1-	=1-	=1-	=1-	=1-
+0r	0r	.	1d/	1dd\	S'il
+.	.	.	2a/	2cc\	est
+.	.	.	2g/	[2dd\	ain-
+=2	=2	=2	=2	=2	=2
+1D\	1d\	Sil	4f/	4dd\]	.
+.	.	.	4e/	4cc\	.
+.	.	.	4f/	4a\	.
+.	.	.	4g/	4b\	.
+2A\	2c\	est	2e/	2cc\	.
+2G\	[2d\	ain-	2g/	[2b\	.
+=3	=3	=3	=3	=3	=3
+2D\	4d\]	.	2f/	4b\]	.
+.	4c\	.	.	4a\	.
+2F\	4B\	.	2d/	1a/	.
+.	4A\	.	.	.	.
+1E\	1B\	.	[1e/	.	.
+.	.	.	.	2g#i/	.
+=4	=4	=4	=4	=4	=4
+!!linebreak:default
+1AA/	2A/	-si	1e/]	[0a/	-si
+.	2e\	qu'ail-	.	.	.
+2r	2e\	-leurs	1r	.	.
+2A\	2e\	vous	.	.	.
+=5	=5	=5	=5	=5	=5
+2A\	1c\	pre-	0r	0a/]	.
+2A\	.	.	.	.	.
+1F\	1f\	-ten-	.	.	.
+=6	=6	=6	=6	=6	=6
+1C/	2.e\	-d&eacute;s,	1r	2r	.
+.	.	.	.	2ee\	qu'ail-
+.	4d\	.	.	.	.
+4A\	4c\	.	2r	2ee\	-leurs
+4G\	4B\	.	.	.	.
+4F\	[2c\	.	2a/	2ee\	vous
+4E\	.	.	.	.	.
+=7	=7	=7	=7	=7	=7
+1F\	4c\]	.	4a/	1cc\	pre-
+.	4B\	.	4g/	.	.
+.	4A\	.	4f/	.	.
+.	4G\	.	4e/	.	.
+1D\	1A/	.	1d/	1ff\	-ten-
+=8	=8	=8	=8	=8	=8
+!!pagebreak:default
+1AA/	2r	.	1e/	1ee\	-d&eacute;s,
+.	2e\	qu'ail-	.	.	.
+2r	2e\	-leurs	1r	2r	.
+2A\	2e\	vous	.	2cc\	qu'ail-
+=9	=9	=9	=9	=9	=9
+2A\	1c\	pre-	2r	2cc\	-leurs
+2A\	.	.	2f/	2cc\	tu
+2F\	1f\	-ten-	4f/	4a\	pre-
+.	.	.	4g/	4b\	.
+2F\	.	.	4a/	4cc\	.
+.	.	.	4f/	4dd\	.
+=10	=10	=10	=10	=10	=10
+1C/	4e\	.	4g/	4ee\	.
+.	4d\	.	4a/	4ff\	.
+.	4e\	.	4b/	4gg\	.
+.	4f\	.	4a/	4ff\	.
+2G\	4g\	.	2b/	4ee\	.
+.	4f\	.	.	4dd\	.
+2B-\	4e\	.	2g/	[2dd\	.
+.	4d\	.	.	.	.
+=11	=11	=11	=11	=11	=11
+1A\	1e\	.	1g/	2dd\]	.
+.	.	.	.	2cc#i\	-ten-
+1D\	1d\	-d&eacute;s,	1a/	1dd\	-d&eacute;s,
+=12	=12	=12	=12	=12	=12
+!!linebreak:default
+1D\	2r	.	1r	1r	.
+.	1d\	Pour	.	.	.
+2F\	.	.	1a/	2r	.
+2E\	2c\	mon	.	2ee\	Pour
+=13	=13	=13	=13	=13	=13
+1D\	1d\	A-	2a/	2ff\	mon
+.	.	.	1dd\	2ff\	A-
+2r	2A/	-mour,	.	1ee\	-mour,
+2AA/	2e\	Pour	2cc\	.	.
+=14	=14	=14	=14	=14	=14
+4D\	2f\	mon	1dd\	2r	.
+4E\	.	.	.	.	.
+4F\	2f\	A-	.	1dd\	Pour
+4G\	.	.	.	.	.
+1A\	1e\	-mour	2a/	.	.
+.	.	.	2a/	2cc\	mon
+=15	=15	=15	=15	=15	=15
+1D\	1r	.	2r	1dd\	A-
+.	.	.	2d/	.	.
+1r	2r	.	2f/	2a/	-mour
+.	2A/	de	2f/	2a/]	de
+=16	=16	=16	=16	=16	=16
+!!linebreak:default
+2r	2c\	la	2e/	2g/	la
+2AA/	2c\	vos-	2c/	2a/	vos-
+2GG/	2B\	-tre	2d/	2b\	-tre
+2AA/	2A/	dis-	2e/	2cc\	dis-
+=17	=17	=17	=17	=17	=17
+4BB/	4d\	-trai-	2d/	4b/	-trai-
+4C/	4c\	.	.	4a/	.
+2D\	4B\	.	2f/	1a/	.
+.	4A\	.	.	.	.
+1E\	1B\	.	1e/	.	.
+.	.	.	.	2g#i/	.
+=18	=18	=18	=18	=18	=18
+1AA/	[0A/	-re,	2e/	0a/	-re,
+.	.	.	2ee\	.	.
+2r	.	.	2.cc\	.	.
+2A\	.	.	.	.	.
+.	.	.	4b\	.	.
+=19	=19	=19	=19	=19	=19
+2.F\	1A/]	.	2a/	1r	.
+.	.	.	2a/	.	.
+4F\	.	.	.	.	.
+1E\	1r	.	1g/	2r	.
+.	.	.	.	2ee\	Je
+=20	=20	=20	=20	=20	=20
+!!pagebreak:default
+1A\	2r	.	1r	2.cc\	ne
+.	2a\	Je	.	.	.
+.	.	.	.	4b\	s&ccedil;ay
+2r	2.f\	ne	2r	2a/	pas
+2D\	.	.	2f/	2a/	com-
+.	4f\	s&ccedil;ay	.	.	.
+=21	=21	=21	=21	=21	=21
+2.C/	2e\	pas	2g/	1.ee\	-ment
+.	2e\	com-	4a/	.	.
+4BB/	.	.	4b/	.	.
+1AA/	[1a\	-ment	1cc\	.	.
+.	.	.	.	[2ff\	vous
+=22	=22	=22	=22	=22	=22
+1C/	2a\]	.	1cc\	2ff\]	.
+.	2g\	vous	.	1ee\	l'en-
+1D\	2f\	l'en-	1a/	.	.
+.	2f\	-ten-	.	2dd\	-ten-
+=23	=23	=23	=23	=23	=23
+1AA/	2e\	-d&eacute;s:	0a/	1ee\	-d&eacute;s:
+.	2e\	Mal	.	.	.
+2r	2f\	ai-	.	1r	.
+2D\	2f\	-s&eacute;	.	.	.
+=24	=24	=24	=24	=24	=24
+!!linebreak:default
+2C/	2e\	.	0r	1r	.
+2C/	1a\	.	.	.	.
+1BB/	.	.	.	1dd\	Mal
+.	2g\	.	.	.	.
+=25!|:	=25!|:	=25!|:	=25!|:	=25!|:	=25!|:
+*>B	*>B	*>B	*>B	*>B	*>B
+1AA/	1a\	est,	2e/	2cc\	ai-
+.	.	.	2.f/	2.dd\	-s&eacute;
+1D\	1d\	Mal	.	.	.
+.	.	.	4e/	4cc\	.
+.	.	.	4f/	4a\	.
+.	.	.	4g/	4b\	.
+=26	=26	=26	=26	=26	=26
+2A\	2c\	ai-	2e/	2cc\	.
+2G\	2.d\	-s&eacute;	2g/	2.b\	.
+2D\	.	.	2f/	.	.
+.	4c\	.	.	4a/	.
+2F\	4B\	.	2d/	[2a/	.
+.	4A\]	.	.	.	.
+=27	=27	=27	=27	=27	=27
+1E\	1B\	.	1e/	2a/]	.
+.	.	.	.	2g#i/	.
+1AA/	2A/	est	1e/	[1a/	est
+.	2e\	&agrave;	.	.	.
+=28	=28	=28	=28	=28	=28
+!!linebreak:default
+2r	2e\	deux	0r	0a/_	.
+2A\	2e\	ay-	.	.	.
+2A\	2c\	-mans	.	.	.
+2A\	2c\	com-	.	.	.
+=29	=29	=29	=29	=29	=29
+2F\	1f\	-plai-	0r	1a/]	.
+2F\	.	.	.	.	.
+1C/	2.e\	-re	.	2r	.
+.	.	.	.	2ee\	&agrave;
+.	4d\	.	.	.	.
+=30	=30	=30	=30	=30	=30
+4A\	4c\	.	2r	2ee\	deux
+4G\	4B\	.	.	.	.
+4F\	2.c\	.	2a/	2ee\	ay-
+4E\	.	.	.	.	.
+1F\	.	.	4a/	1cc\	-mans
+.	4B/	.	4g/	.	.
+.	4A/	.	4f/	.	.
+.	4G/	.	4e/]	.	.
+=31	=31	=31	=31	=31	=31
+1D\	1A/	.	1d/	1ff\	com-
+1AA/	2r	.	1e/	1ee\	-plaire,
+.	2e\	&agrave;	.	.	.
+=32	=32	=32	=32	=32	=32
+!!pagebreak:default
+2r	2e\	deux	1r	2r	.
+2A\	2e\	ay-	.	2cc\	&agrave;
+2A\	1c\	-mans	2r	2cc\	deux
+2A\	.	.	2f/	2cc\	ay-
+=33	=33	=33	=33	=33	=33
+2F\	1f\	com-	4f/	4a\	-mans
+.	.	.	4g/	4b\	.
+2F\	.	.	4a/	4cc\	.
+.	.	.	4f/	4dd\	.
+1C/	4e\	-plai-	4g/	4ee\	.
+.	4d\	.	4a/	4ff\	.
+.	4e\	.	4b/	4gg\	.
+.	4f\	.	4a/	4ff\	.
+=34	=34	=34	=34	=34	=34
+2G\	4g\	.	2b\	4ee\	.
+.	4f\	.	.	4dd\	.
+2B-\	4e\	.	2g/	1dd\	com-
+.	4d\	.	.	.	.
+1A\	1e\	.	1a/	.	.
+.	.	.	.	2cc#i\	-plai-
+!!LO:REP:start=1
+=35	=35	=35	=35	=35	=35
+*>B1	*>B1	*>B1	*>B1	*>B1	*>B1
+1D\	2d\	-re.	0a/	0dd\	-re.
+.	2d\	Mal	.	.	.
+2r	2f\	ai-	.	.	.
+2D\	2f\	-s&eacute;	.	.	.
+=36	=36	=36	=36	=36	=36
+2C/	2e\	.	0r	1r	.
+2C/	1a\	.	.	.	.
+1BB/	.	.	.	1dd\	Mal
+.	2g\	.	.	.	.
+!!LO:REP:stop=1:start=2
+=37:|!	=37:|!	=37:|!	=37:|!	=37:|!	=37:|!
+*>B2	*>B2	*>B2	*>B2	*>B2	*>B2
+00D\	00d\	-re.	00dd\	00dd\	-re.
+!!LO:REP:stop=2
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: i=musica ficta
+!!!ENC: Richard Freedman
+!!!END: 2011/10/18/
+!!!EED:	Richard Freedman
+!!!EEV:	2011/11/08/
+!!!ONB:	Translated from MusicXML and edited on 2011/11/06/ by Craig Sapp
+!!muse2ps: Fjc80s^[(.)(.)(.)(.)]^v120,100,120,170i2I160u^@{SMS}^Q4
+!!xmuse2ps: jc80s^[(.)(.)(.)(.)]^v100,85,105,125i2I160u^@{SMS}^Q4
+!!muse2ps: C^@{COM}\nCT & B by R. Freedman, 2011^
