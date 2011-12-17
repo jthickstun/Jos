@@ -1,12 +1,16 @@
 !!!COM: Faugues, Guillaume
+!!!CDT: <1460-1475
 !!!OPR: Missa Vinnus vina
-!!!OTL: Kyrie
-!!!AGN: Faugues
 !!!SMS: VatS 51, fols. 68v-81r
+!!!ONM:	1
+!!!OTL:	Kyrie
+!!!AGN:	Mass; Kyrie
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Discantus	*
+*I'B	*	*I'T	*	*I'A	*	*I'D	*
 *>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-e-]	*	*k[b-]	*	*k[b-e-]	*	*k[b-e-]	*
@@ -787,4 +791,10 @@
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=musica ficta
+!!!ENC: Jesse Rodin; Victoria Chang 2011/11/21/
+!!!END: 2011/11/21/
+!!!SMS: Eakins, IMM 17-2
+!!!EED:	Victoria Chang
+!!!EEV:	2011/11/23/
+!!!ONB:	Translated from MusicXML and edited on 2011/11/22/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n(unicum in VatS 51, fols. 68v-81r)^i2I100v120,120,120,160c100Q4

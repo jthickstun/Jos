@@ -8,8 +8,8 @@
 **kern	**kern	**kern	**kern	**kern
 *staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
-*I"Bassus	*I"Quintus	*I"Tenor	*I"Superius2	*I"Superius1
-*I'B	*I'Q	*I'T	*I'S2	*I'S1
+*I"Bassus	*I"Quintus	*I"Tenor	*I"Contratenor	*I"Superius
+*I'B	*I'Q	*I'T	*I'Ct	*I'S
 *clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
@@ -405,6 +405,6 @@
 !!!ENC: Will Watson 22/08/2011
 !!!END: 2011/08/22/
 !!!EED: Jesse Rodin
-!!!EEV: 2011/09/30/
+!!!EEV: 2011/12/06/
 !!!ONB: Translated from MusicXML and edited on 2011/09/21/ by Craig Sapp
 !!muse2ps:  C^@{COA}?\n@{SCT}^v90,90,90,90,90,120Q16
