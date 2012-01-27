@@ -1,6 +1,7 @@
 !!!COA:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
-!!!OTL@@LAT:	De profundis
+!!!OTL@@LAT:	De profundis clamavi
+!!!OTL2@@LAT:	A custodia
 !!!AGN:	Motet
 !!!SCT:	NJE 15.14
 !!!SCA:	New Josquin Edition 15.14
@@ -1013,4 +1014,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2011/10/24/
 !!!ONB:	Translated from MusicXML and edited on 2011/10/24/ by Craig Sapp
-!!muse2ps: C^@{COA}?\n@{SCT}^i2I150v90,90,90,90,120Q16
+!!muse2ps: C^@{COA}?\n@{SCT}^u^(2) @{OTL2}^i2I150v90,90,90,90,120Q16

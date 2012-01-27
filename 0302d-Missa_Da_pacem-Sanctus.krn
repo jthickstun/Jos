@@ -284,8 +284,8 @@
 !!LO:LB:i:g=z
 =34||	=34||	=34||	=34||
 *>B	*>B	*>B	*>B
-!!section: Pleni sun celi
-!!!OMD: Pleni sun celi
+!!section: Pleni sunt celi
+!!!OMD: Pleni sunt celi
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 0r	1G	0r	0r
@@ -586,7 +586,7 @@
 !!section: Osanna
 !!!OMD: Osanna
 *M3/1	*M3/1	*M3/1	*M3/1
-*met(O)	*met(O)	*met(O)	*met(O)
+*met(3)	*met(3)	*met(3)	*met(3)
 1.GG	[0.G	0d	1.g
 2AA/	.	.	2f/
 1BB-	.	1d	1d
@@ -1213,4 +1213,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2011/12/26/
 !!!ONB:	Translated from MusicXML and edited on 2011/12/26/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}{/}@{COA}?\n@{SCT}^i2I100v85,90,85,100c100Q4
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}{/}@{COA}?\n@{SCT}^i2I100v85,90,85,100c100Q8
