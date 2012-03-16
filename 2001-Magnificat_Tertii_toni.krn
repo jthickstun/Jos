@@ -1,12 +1,12 @@
 !!!COA:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
 !!!OTL@@LAT: Magnificat tertii toni
-!!!OTL1@@LAT: Prima pars: Et exsultavit spiritus me
-!!!OTL2@@LAT: Secunda pars: Quia fecit mihi magna
-!!!OTL3@@LAT: Tertia pars: Fecit potentiam
-!!!OTL4@@LAT: Quarta pars: Esurientes implevit boni
-!!!OTL5@@LAT: Quinta pars: Sicut locutus est
-!!!OTL6@@LAT: Sexta pars: Sicut erat in principi
+!!!OTL1@@LAT: Et exsultavit spiritus me
+!!!OTL2@@LAT: Quia fecit mihi magna
+!!!OTL3@@LAT: Fecit potentiam
+!!!OTL4@@LAT: Esurientes implevit boni
+!!!OTL5@@LAT: Sicut locutus est
+!!!OTL6@@LAT: Sicut erat in principi
 !!!AGN:	Motet
 !!!SCT:	NJE 20.1
 !!!SCA:	New Josquin Edition 20.1
@@ -28,8 +28,8 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *>A	*>A	*>A	*>A
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Prima pars: Et exsultavit spiritus meus
-!!!OMD: Prima pars: Et exsultavit spiritus meus
+!!section: Et exsultavit spiritus meus
+!!!OMD: Et exsultavit spiritus meus
 =1-	=1-	=1-	=1-
 0r	2.G/	0r	[0d
 .	4A/	.	.
@@ -270,8 +270,8 @@
 *>B	*>B	*>B	*>B
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Secunda pars: Quia fecit mihi magna
-!!!OMD: Secunda pars: Quia fecit mihi magna
+!!section: Quia fecit mihi magna
+!!!OMD: Quia fecit mihi magna
 0r	0r	1G	0r
 .	.	2A/	.
 .	.	2c\	.
@@ -461,8 +461,8 @@
 *>C	*>C	*>C	*>C
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Tertia pars: Fecit potentiam
-!!!OMD: Tertia pars: Fecit potentiam
+!!section: Fecit potentiam
+!!!OMD: Fecit potentiam
 0r	0r	2G/	0g
 .	.	4A/	.
 .	.	4B\	.
@@ -640,8 +640,8 @@
 *>D	*>D	*>D	*>D
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Quarta pars: Esurientes implevit bonis
-!!!OMD: Quarta pars: Esurientes implevit bonis
+!!section: Esurientes implevit bonis
+!!!OMD: Esurientes implevit bonis
 1C	0r	0r	0r
 2D\	.	.	.
 [2F\	.	.	.
@@ -781,8 +781,8 @@
 *>E	*>E	*>E	*>E
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Quinta pars: Sicut locutus est
-!!!OMD: Quinta pars: Sicut locutus est
+!!section: Sicut locutus est
+!!!OMD: Sicut locutus est
 0r	1r	0r	0r
 .	1G	.	.
 =124	=124	=124	=124
@@ -984,8 +984,8 @@
 *>F	*>F	*>F	*>F
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Sexta pars: Sicut erat in principio
-!!!OMD: Sexta pars: Sicut erat in principio
+!!section: Sicut erat in principio
+!!!OMD: Sicut erat in principio
 0r	0D	0r	1.d
 .	.	.	2d/
 =158	=158	=158	=158
