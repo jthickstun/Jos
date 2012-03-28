@@ -26,6 +26,8 @@
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
 =1-	=1-	=1-	=1-
+!!section: Sanctus
+!!!OMD: Sanctus
 0.r	0.r	0.d	2r
 .	.	.	2.d/
 .	.	.	4e/

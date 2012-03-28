@@ -3,7 +3,7 @@
 !!!OPR:	Missa Da pacem
 !!!ONM:	5
 !!!OTL:	Agnus Dei
-!!!AGN:	Mass; Sanctus
+!!!AGN:	Mass; Agnus Dei
 !!!SCT:	NJE 3.2
 !!!SCA:	New Josquin Edition 3.2
 !!!voices: 4
@@ -17,6 +17,8 @@
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)	*met(O)	*met(O)
 =1-	=1-	=1-	=1-	=1-	=1-
+!!section: Agnus Dei I
+!!!OMD: Agnus Dei I
 0.r	0.r	0.r	0G	0.r	0.r
 .	.	.	1F	.	.
 =2	=2	=2	=2	=2	=2

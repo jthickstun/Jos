@@ -3,7 +3,7 @@
 !!!OPR:	Missa Gaudeamus
 !!!ONM:	5
 !!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus
+!!!AGN:	Mass; Agnus Dei
 !!!SCT:	NJE 4.2
 !!!SCA:	New Josquin Edition 4.2
 !!!voices: 4
@@ -23,9 +23,9 @@
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met()	*met(O)
 !!primary-mensuration: met(O)
+=1-	=1-	=1-	=1-	=1-
 !!!OMD: Agnus Dei I
 !!section: Agnue Dei I
-=1-	=1-	=1-	=1-	=1-
 1G	0.r	0.r	0.r	0.r
 1A	.	.	.	.
 1A	.	.	.	.

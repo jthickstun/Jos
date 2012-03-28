@@ -22,8 +22,9 @@
 *k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
-!!!OMD: Sanctus
 =1-	=1-	=1-	=1-
+!!section: Sanctus
+!!!OMD: Sanctus
 0.r	0.r	0.r	0e
 .	.	.	1e
 =2	=2	=2	=2

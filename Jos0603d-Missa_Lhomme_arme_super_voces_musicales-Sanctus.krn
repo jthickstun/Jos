@@ -27,9 +27,10 @@
 *met()	*met(O)	*met(O.)	*met()	*met(O)	*met()	*met(O)
 !!primary-mensuration: met(O)
 *	*	*rscale:1/2	*	*	*	*
-!!!OMD: Sanctus
 !LO:HIDE	!LO:SHOW	!LO:SHOW	!LO:HIDE	!LO:SHOW	!LO:HIDE	!LO:SHOW
 =1-	=1-	=1-	=1-	=1-	=1-	=1-
+!!section: Sanctus
+!!!OMD: Sanctus
 0.r	0.r	0.r	0.r	2.D/	0.r	0.d
 .	.	.	.	4E/	.	.
 .	.	.	.	2F/	.	.

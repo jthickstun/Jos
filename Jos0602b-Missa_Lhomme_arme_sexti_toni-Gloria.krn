@@ -18,11 +18,11 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *>A	*>A	*>A	*>A
-!!section: Gloria
-!!!OMD: Gloria
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
 =1-	=1-	=1-	=1-
+!!section: Et in terra pax
+!!!OMD: Et in terra pax
 0.r	0.r	0F	0F
 .	.	1F	2A/
 .	.	.	2B-/

@@ -25,9 +25,10 @@
 *>A	*>A	*>A	*>A
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
-!!!OMD: Sanctus
 =1-	=1-	=1-	=1-
+!!section: Et in terra pax
 !LO:TX:Y=30:X=-50:t=[B add E-flat below staff to key sig.]	!	!	!
+!!!OMD: Et in terra pax
 0FF	0.r	0.r	[0.f
 1FF	.	.	.
 =2	=2	=2	=2

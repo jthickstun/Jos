@@ -18,11 +18,11 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *>A	*>A	*>A	*>A
-!!section: Gloria
-!!!OMD: Gloria
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-
+!!section: Et in terra pax
+!!!OMD: Et in terra pax
 !	!LO:TX:Y=22:t=[Tenor&colon; segmentation technique throughout]	!	!
 !	!LO:TX:Z=8:t=T by Malcort	!	!
 0r	0r	0E	0r

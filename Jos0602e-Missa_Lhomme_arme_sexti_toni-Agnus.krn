@@ -3,7 +3,7 @@
 !!!OPR:	Missa L'homme arm&eacute; sexti toni
 !!!ONM:	5
 !!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus
+!!!AGN:	Mass; Agnus Dei
 !!!SCT:	NJE 6.2
 !!!SCA:	New Josquin Edition 6.2
 !!!voices: 4
@@ -23,9 +23,9 @@
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met()	*met(O)	*met()	*met(O)
 !!primary-mensuration: met(O)
+=1-	=1-	=1-	=1-	=1-	=1-
 !!section: Agnus Dei I
 !!!OMD: Agnus Dei I
-=1-	=1-	=1-	=1-	=1-	=1-
 0.r	0.r	0.r	0F	0.r	0.r
 .	.	.	1F	.	.
 =2	=2	=2	=2	=2	=2

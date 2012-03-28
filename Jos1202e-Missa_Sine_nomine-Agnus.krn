@@ -4,7 +4,7 @@
 !!!OTA:	Missa Ad fugam
 !!!ONM:	5
 !!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus
+!!!AGN:	Mass; Agnus Dei
 !!!SCT:	NJE 12.2
 !!!SCA:	New Josquin Edition 12.2
 !!!voices: 4
@@ -22,9 +22,9 @@
 *>A	*>A	*>A	*>A
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
+=1-	=1-	=1-	=1-
 !!section: Agnus Dei I
 !!!OMD: Agnus Dei I
-=1-	=1-	=1-	=1-
 !LO:TX:Z=10:t=Tenor in diapente	!	!	!
 0.r	0.r	2.A/	0a
 .	.	4B\	.

@@ -20,9 +20,9 @@
 *>A	*>A	*>A	*>A
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
-!!section: Agnus I
-!!!OMD: Agnus I
 =1-	=1-	=1-	=1-
+!!section: Agnus Dei I
+!!!OMD: Agnus Dei I
 0.r	0.r	1G	0.r
 .	.	1.d	.
 .	.	4c\	.
@@ -226,8 +226,8 @@
 =24||	=24||	=24||	=24||
 !!linebreak:default
 *>B	*>B	*>B	*>B
-!!section: Agnus II
-!!!OMD: Agnus II
+!!section: Agnus Dei II
+!!!OMD: Agnus Dei II
 *M2/1	*M2/1	*M2/1	*M2/1
 *met()	*met()	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
@@ -421,8 +421,8 @@
 !!LO:PB:i:g=z
 =56||	=56||	=56||	=56||
 *>C	*>C	*>C	*>C
-!!section: Agnus III
-!!!OMD: Agnus III
+!!section: Agnus Dei III
+!!!OMD: Agnus Dei III
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 1G	0r	0r	0r

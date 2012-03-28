@@ -13,14 +13,16 @@
 *I"Bassus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'A	*I'S
 *>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
-*>Credo[A]	*>Credo[A]	*>Credo[A]	*>Credo[A]
-*>EtIncarnatusEst[B]	*>EtIncarnatusEst[B]	*>EtIncarnatusEst[B]	*>EtIncarnatusEst[B]
+*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]
+*>Et_incarnatus_est[B]	*>Et_incarnatus_est[B]	*>Et_incarnatus_est[B]	*>Et_incarnatus_est[B]
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
 *>A	*>A	*>A	*>A
 =1-	=1-	=1-	=1-
+!!section: Patrem
+!!!OMD: Patrem
 0.r	0.r	1G	0.r
 .	.	1d	.
 .	.	1d	.
