@@ -328,13 +328,13 @@
 .	.	.	.	4B/
 =49	=49	=49	=49	=49
 !!linebreak:original
-2F\	0D	2A/	1.f	1d
+3.F\V	0D	2A/	1.f	1d
 6G\	.	2D/	.	.
-3A\	.	.	.	.
-3D\	.	2.d\	.	1r
+3A\Z	.	.	.	.
+3D\V	.	2.d\	.	1r
 3E\	.	.	.	.
 .	.	.	2e\	.
-3F\	.	.	.	.
+3F\Z	.	.	.	.
 .	.	4c\	.	.
 =50	=50	=50	=50	=50
 2G\	0r	4B\	2d\	0r
@@ -408,7 +408,7 @@
 !!!ENC: Will Watson 30/10/2011
 !!!END: 2011/10/30/
 !!!EED: Jesse Rodin
-!!!EEV: 2011/12/01/
+!!!EEV: 2012/04/22/
 !!attribution-level: 3 (other)
 !!!ONB: Translated from MusicXML and edited on 2011/12/01/ by Craig Sapp
 !!muse2ps:  C^@{COA}?\n@{SCT}^v90,90,90,90,90,120Q16

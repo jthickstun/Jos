@@ -2413,7 +2413,7 @@
 .	3F/	.	.
 3F\Z	3A/Z	3f\Z	3cc\Z
 =480	=480	=480	=480
-3G\V	3%2GV	2d\V	3%2b-V
+3G\V	3%2GV	3.d\V	3%2b-V
 3B-\	.	.	.
 .	.	6e\	.
 3A\Z	3F/Z	3f\Z	3cc\Z
@@ -2429,7 +2429,7 @@
 3C/Z	3e\Z	3G/Z	3cc\Z
 =482	=482	=482	=482
 3%2DV	3%2dV	3F/V	3b-\V
-.	.	3f\	2a/
+.	.	3f\	3.a/
 3E\Z	3B-\Z	3g\Z	.
 .	.	.	6g/Z
 3C/V	3c\V	3e\V	3%2gV
@@ -2776,7 +2776,7 @@
 !!!ENC:	Will Watson 11/07/2011
 !!!END:	2011/07/11/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/10/17/
+!!!EEV:	2012/04/22/
 !!attribution-level: 2 (less secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/10/17/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^I150v90,90,90,120c75i2I150Q16
