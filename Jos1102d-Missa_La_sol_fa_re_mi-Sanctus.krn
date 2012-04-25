@@ -740,6 +740,7 @@
 !!!OMD: Qui venit
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*	*tacet	*	*
 0r	0r	0A	0r
 =95	=95	=95	=95
 0r	0r	1B	0r
@@ -917,6 +918,7 @@
 !!!OMD: Osanna 2
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(3)	*met(3)	*met(3)	*met(3)
+*	*xtacet	*	*
 1.E	0e	0.r	0.r
 2F\	.	.	.
 1G	1d	.	.
@@ -1094,7 +1096,7 @@
 !!!ENC: Jesse Rodin; Victoria Chang 2011/05/04
 !!!END: 2011/05/04/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/09/19/
+!!!EEV: 2012/04/24/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/09/19/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100c100Q16

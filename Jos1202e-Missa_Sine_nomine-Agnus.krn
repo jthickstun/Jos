@@ -265,6 +265,7 @@
 *met()	*met(C|)	*met(C|)	*met()
 !!primary-mensuration: met(C|)
 !	!	!LO:TX:Z=10:X=-30:t=Canon ung ton plus bas	!
+*tacet	*	*	*tacet
 0r	0r	1.e	0r
 .	.	4d\	.
 .	.	4c\	.
@@ -369,6 +370,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !	!	!	!LO:TX:Z=6:t=Tenor in diapason
+*xtacet	*	*	*xtacet
 1A	0r	0r	0r
 1c	.	.	.
 =48	=48	=48	=48
@@ -721,7 +723,7 @@
 !!!END: 2011/04/06/
 !!!SMS: Davison, Missa sine nomine
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/04/14/
+!!!EEV: 2012/04/24/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/04/14/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100c95Q16

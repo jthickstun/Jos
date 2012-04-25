@@ -259,6 +259,7 @@
 !!!OMD: Pleni sunt celi
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*	*tacet	*	*
 0r	0r	1G	0r
 .	.	2G/	.
 .	.	[2B\	.
@@ -578,6 +579,7 @@
 !!!OMD: Osanna
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(C|3)	*met(C|3)	*met(C|3)	*met(C|3)
+*	*xtacet	*	*
 0.r	0.G	1d	1.g
 .	.	1B	.
 .	.	.	2a/
@@ -719,6 +721,7 @@
 !!!OMD: Benedictus
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*	*tacet	*	*
 0r	0r	1G	0r
 .	.	2G/	.
 .	.	[2c\	.
@@ -995,7 +998,7 @@
 !!!ENC: Jesse Rodin; Victoria Chang 2011/04/03
 !!!END: 2011/04/03/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/11/02/
+!!!EEV: 2012/04/24/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/02/11/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}\n@{SCT}^i2I100v85,90,85,100c80Q16

@@ -463,6 +463,7 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Fecit potentiam
 !!!OMD: Fecit potentiam
+*	*tacet	*	*
 0r	0r	2G/	0g
 .	.	4A/	.
 .	.	4B\	.
@@ -642,6 +643,7 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Esurientes implevit bonis
 !!!OMD: Esurientes implevit bonis
+*	*xtacet	*	*
 1C	0r	0r	0r
 2D\	.	.	.
 [2F\	.	.	.
@@ -783,6 +785,7 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Sicut locutus est
 !!!OMD: Sicut locutus est
+*	*	*	*tacet
 0r	1r	0r	0r
 .	1G	.	.
 =124	=124	=124	=124
@@ -986,6 +989,7 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Sicut erat in principio
 !!!OMD: Sicut erat in principio
+*	*	*	*xtacet
 0r	0D	0r	1.d
 .	.	.	2d/
 =158	=158	=158	=158
@@ -1162,7 +1166,7 @@
 !!!SMS: BerlS 40021
 !!!END:	2011/05/24/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/08/18/
+!!!EEV: 2012/04/24/
 !!attribution-level: 2 (less secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/08/18/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^I150v90,90,90,120c95i2I150Q16

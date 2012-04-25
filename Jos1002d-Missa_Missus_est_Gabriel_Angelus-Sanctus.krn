@@ -180,6 +180,7 @@
 !!!OMD: Pleni sunt celi
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*tacet	*tacet	*	*
 0r	0r	0d	0r
 =25	=25	=25	=25
 0r	0r	1d	0r
@@ -374,6 +375,7 @@
 !!!OMD: Osanna
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*xtacet	*xtacet	*	*
 [0G	[0B-	1.d	0r
 .	.	[2B-\	.
 =56	=56	=56	=56
@@ -494,6 +496,7 @@
 !!!OMD: Benedictus
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*	*tacet	*	*
 0r	0r	0d	0r
 =76	=76	=76	=76
 0r	0r	1.d	0r
@@ -745,7 +748,7 @@
 !!!ENC:	Will Watson 07/07/2011
 !!!END:	2011/07/07/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/12/26/
+!!!EEV: 2012/04/24/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/12/26/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}{/}@{COA}?\n@{SCT}^i2I100v85,85,85,100c95Q16

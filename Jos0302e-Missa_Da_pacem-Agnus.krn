@@ -19,6 +19,7 @@
 =1-	=1-	=1-	=1-	=1-	=1-
 !!section: Agnus Dei I
 !!!OMD: Agnus Dei I
+*tacet	*	*	*	*tacet	*
 0.r	0.r	0.r	0G	0.r	0.r
 .	.	.	1F	.	.
 =2	=2	=2	=2	=2	=2
@@ -270,6 +271,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !	!	!LO:TX:Z=12:t=Canon&colon; Agnus Primum sequitur Bassum post tria [sic] tempora [B-->T Canon at the upper fourth]	!	!	!
+*tacet	*	*	*	*tacet	*
 0r	0r	0r	0d	0r	0r
 =32	=32	=32	=32	=32	=32
 0r	0r	0r	0c	0r	0g
@@ -536,6 +538,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !	!	!	!	!LO:TX:Z=10:t=3-ex-1 canon at the lower 15th/8ve [SII-->BII->T]	!
+*xtacet	*	*	*	*xtacet	*
 0r	0r	0r	0r	0g	2.g/
 .	.	.	.	.	4a/
 .	.	.	.	.	4b-\
@@ -800,7 +803,7 @@
 !!!ENC:	Victoria Chang 2011/04/27
 !!!END:	2011/04/27/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/12/26/
+!!!EEV: 2012/04/24/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/12/26/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}{/}@{COA}?\n@{SCT}^i2I100v100,100,100,100,100,150c125Q4

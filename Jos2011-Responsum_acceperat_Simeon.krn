@@ -807,6 +807,7 @@
 !!!OMD: Secunda pars: Cum ergo
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+*	*	*	*tacet	*tacet	*tacet
 0r	0r	0F	0r	0r	0r
 =110	=110	=110	=110	=110	=110
 0r	0r	1F	0r	0r	0r
@@ -1104,6 +1105,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !	!	!	!LO:TX:Z=6:X=-50:t=Canon at the lower fifth	!	!
+*	*	*	*xtacet	*xtacet	*xtacet
 0C	0G	0r	1c	0c	0g
 .	.	.	2.e\	.	.
 .	.	.	4f\	.	.
@@ -1427,7 +1429,7 @@
 !!!ENC:	Will Watson 14/09/2011
 !!!END:	2011/09/14/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/10/20/
+!!!EEV: 2012/04/24/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/10/20/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2} (3) @{OTL3}^C^@{COA}?\n@{SCT}^v96,96,96,96,96,120i2I150c85Q16

@@ -239,6 +239,7 @@
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
 !!!OMD:Pleni
+*	*	*tacet	*	*	*	*	*
 1.A	Ple-	0.r	.	0.r	.	0.r	.
 2B\	.	.	.	.	.	.	.
 1c	-ni	.	.	.	.	.	.
@@ -484,6 +485,7 @@
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(C|3)	*	*met(C|3)	*	*met(C|3)	*	*met(C|3)	*
 !!!OMD:Osanna
+*	*	*xtacet	*	*	*	*	*
 0.r	.	0G	O-	0.r	.	0.r	.
 .	.	1A	.	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51	=51
@@ -678,6 +680,7 @@
 *met(C|)	*	*met(C|)	*	*met()	*	*met()	*
 !!primary-mensuration: met(C|)
 !!!OMD:Benedictus
+*	*	*	*	*tacet	*	*tacet	*
 [0E	Be-	0B	Be-	0r	.	0r	.
 =88	=88	=88	=88	=88	=88	=88	=88
 0E]	.	1c	.	0r	.	0r	.
@@ -755,6 +758,7 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!!OMD:Qui venit
+*tacet	*	*tacet	*	*xtacet	*	*xtacet	*
 0r	.	0r	.	0r	.	1.e	Qui
 .	.	.	.	.	.	4f/	.
 .	.	.	.	.	.	4g/	.
@@ -837,6 +841,7 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!!OMD: In nomine
+*xtacet	*	*xtacet	*	*tacet	*	*tacet	*
 0D	In	0r	.	0r	.	0r	.
 =119	=119	=119	=119	=119	=119	=119	=119
 1E	no-	0r	.	0r	.	0r	.
@@ -949,7 +954,7 @@
 !!!ENC:	Jesse Rodin
 !!!END:	2011/01/01/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/02/28/
+!!!EEV: 2012/04/24/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/01/03/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100Q16

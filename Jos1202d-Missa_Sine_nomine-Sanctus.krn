@@ -218,6 +218,7 @@
 *met()	*met(C|)	*met()	*met(C|)
 !!primary-mensuration: met(C|)
 !	!	!	!LO:TX:Z=10:t=[Canon at the lower fourth]
+*tacet	*	*tacet	*
 0r	0r	0r	1a
 .	.	.	[1a
 =26	=26	=26	=26
@@ -394,6 +395,7 @@
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(C|3)	*met(C|3)	*met(C|3)	*met(C|3)
 !LO:TX:Z=10:t=Tenor. In diapente	!	!	!
+*xtacet	*	*xtacet	*
 0.r	0.r	1A	1.a
 .	.	1c	.
 .	.	.	2g/
@@ -605,6 +607,7 @@
 !	!	!	!LO:TX:Z=10:X=100:t=[Mensuration canon]
 !	!	!	!LO:TX:Z=30:X=100:t=Benedictus in diapente
 !	!	!LO:N:vis=1.	!
+*tacet	*tacet	*	*
 0r	0r	[y0d	1.a
 .	.	.	2g/
 =99	=99	=99-	=99
@@ -667,6 +670,7 @@
 *	*rscale:1/2	*	*
 !	!LO:TX:Z=10:t=Qui venit in diapason	!	!
 !	!LO:N:vis=1.	!	!
+*tacet	*xtacet	*	*tacet
 0r	[y0A	0A	0r
 =109	=109-	=109	=109
 0r	1A]yy	1c	0r
@@ -729,6 +733,7 @@
 !!primary-mensuration: met(C|)
 *	*rscale:1/2	*	*
 !	!LO:N:vis=1.	!	!
+*xtacet	*	*tacet	*tacet
 1D	[y0d	0r	0r
 1F	.	.	.
 =119	=119-	=119	=119
@@ -796,7 +801,7 @@
 !!!END: 2011/04/07/
 !!!SMS: Davison, Missa sine nomine
 !!!EED: Jesse Rodin
-!!!EEV: 2011/04/15/
+!!!EEV: 2012/04/24/
 !!attribution-level: 1 (secure)
 !!!ONB: Translated from MusicXML and edited on 2011/04/15/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100Q16

@@ -16,6 +16,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-	=1-
+*	*	*tacet	*	*
 [0AA	0A	0r	0e	0a
 =2	=2	=2	=2	=2
 1AA]	1c	0r	1e	1a
@@ -71,6 +72,7 @@
 .	1r	.	1r	1r
 =14||	=14||	=14||	=14||	=14||
 !!pagebreak:default
+*	*	*xtacet	*	*
 0A	0A	0r	0e	0a
 =15	=15	=15	=15	=15
 1A	1c	0r	1e	1a
@@ -1450,7 +1452,7 @@
 !!!END:	2011/03/22/
 !!!SMS:	Smijers, No. 41, afl. 24
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/04/03/
+!!!EEV: 2012/04/24/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/04/04/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2}^C^@{COA}?\n@{SCT}^I150v90,90,90,90,120Q16

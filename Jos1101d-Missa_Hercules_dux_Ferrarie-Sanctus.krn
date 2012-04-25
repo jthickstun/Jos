@@ -176,6 +176,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !LO:TX:Z=15:t=Canon&colon; Supra bassum [Canon at the upper fifth]	!	!	!
+*	*tacet	*	*tacet
 1D	0r	1r	0r
 1F	.	1A	.
 =19	=19	=19	=19
@@ -415,6 +416,7 @@
 !!!OMD: Osanna
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*	*xtacet	*	*xtacet
 0r	0r	4D/	0r
 .	.	4E/	.
 .	.	4F/	.
@@ -630,6 +632,7 @@
 !!!OMD: Benedictus
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*tacet	*	*	*tacet
 0r	0D	2.d\	0r
 .	.	4e\	.
 .	.	2f\	.
@@ -683,6 +686,7 @@
 !!!OMD: Qui venit
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*xtacet	*	*tacet	*tacet
 1F	0A	0r	0r
 2D\	.	.	.
 [2F\	.	.	.
@@ -734,6 +738,7 @@
 !!!OMD: In nomine
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*tacet	*	*tacet	*xtacet
 0r	0d	0r	1a
 .	.	.	2b-i\
 .	.	.	[2a/
@@ -787,7 +792,7 @@
 !!!ENC: Jesse Rodin; Victoria Chang 2011/09/11
 !!!END: 2011/04/07/
 !!!EED: Jesse Rodin
-!!!EEV: 2011/04/15/
+!!!EEV: 2012/04/24/
 !!attribution-level: 1 (secure)
 !!!ONB: Translated from MusicXML and edited on 2011/04/15/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100Q16

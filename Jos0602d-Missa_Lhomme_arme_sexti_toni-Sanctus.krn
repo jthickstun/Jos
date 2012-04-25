@@ -156,6 +156,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met()	*met()	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
+*tacet	*tacet	*	*
 0r	0r	0r	1.g
 .	.	.	4f/
 .	.	.	4e/
@@ -265,6 +266,7 @@
 !!!OMD: Gloria tua
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*xtacet	*xtacet	*tacet	*tacet
 0r	1.c	0r	0r
 .	4B-\	.	.
 .	4A/	.	.
@@ -375,6 +377,7 @@
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
 !	!LO:TX:Z=6:t=Canon at the lower fifth	!	!
+*	*	*xtacet	*xtacet
 0.r	0C	0.r	1.e
 .	.	.	2f/
 .	1C	.	1g
@@ -508,6 +511,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met()	*met(C|)	*met()	*met(C|)
 !!primary-mensuration: met(C|)
+*tacet	*	*tacet	*
 0r	0r	0r	1.c
 .	.	.	2d/
 =77	=77	=77	=77
@@ -554,6 +558,7 @@
 !!linebreak:default
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*xtacet	*tacet	*xtacet	*tacet
 1.F	0r	0F	0r
 4E\	.	.	.
 4D\	.	.	.
@@ -605,6 +610,7 @@
 !!!OMD: In nomine
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*tacet	*xtacet	*tacet	*xtacet
 0r	0r	0r	1.c
 .	.	.	2d/
 =95	=95	=95	=95
@@ -654,7 +660,7 @@
 !!!END: 2011/09/04/
 !!!SMS: Petrucci 1502
 !!!EED: Jesse Rodin
-!!!EEV: 2011/10/03/
+!!!EEV: 2012/04/24/
 !!attribution-level: 1 (secure)
 !!!ONB: Translated from MusicXML and edited on 2011/10/03/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100Q16

@@ -17,6 +17,7 @@
 *M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-
+*tacet	*	*
 0r	0f	0r
 =2	=2	=2
 0r	1g	0r
@@ -114,6 +115,7 @@
 !!!OMD: Vere passum
 *M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)
+*xtacet	*	*
 2.F/	0f	0r
 4G/	.	.
 2A/	.	.
@@ -233,6 +235,7 @@
 *>C	*>C	*>C
 !!section: Cujus latus
 !!!OMD: Cujus latus
+*tacet	*	*
 0r	1.a	0r
 .	2b-i\	.
 =50	=50	=50
@@ -369,6 +372,7 @@
 *M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)
 *k[b-]	*k[]	*k[]
+*xtacet	*	*
 1.F	1.a	0r
 2G/	2b-i\	.
 =73	=73	=73
@@ -650,7 +654,7 @@
 !!!ENC: Will Watson 
 !!!END: 04/16/2011
 !!!EED: Jesse Rodin
-!!!EEV: 2011/05/06/
+!!!EEV: 2012/04/24/
 !!attribution-level: 1 (secure)
 !!!ONB: Translated from MusicXML and edited on 2011/05/06/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SCT}^i2I100v85,90,85Q16

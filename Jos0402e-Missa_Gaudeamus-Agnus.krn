@@ -26,6 +26,7 @@
 =1-	=1-	=1-	=1-	=1-
 !!!OMD: Agnus Dei I
 !!section: Agnue Dei I
+*	*	*	*tacet	*
 1G	0.r	0.r	0.r	0.r
 1A	.	.	.	.
 1A	.	.	.	.
@@ -251,6 +252,7 @@
 *met()	*met()	*met()	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
 !	!	!	!	!LO:TX:Z=6:X=-20:t=Canon at the unison
+*tacet	*tacet	*tacet	*xtacet	*
 0r	0r	0r	0r	1e
 .	.	.	.	[1g
 =30	=30	=30	=30	=30
@@ -468,6 +470,7 @@
 *k[]	*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+*xtacet	*xtacet	*xtacet	*tacet	*
 1E	0G	1r	0r	0r
 1G	.	1B	.	.
 =69	=69	=69	=69	=69
@@ -857,7 +860,7 @@
 !!!SMS:	JenaU 32
 !!!END:	2011/04/12/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/09/09/
+!!!EEV: 2012/04/24/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/04/16/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v90,85,90,85,100Q16

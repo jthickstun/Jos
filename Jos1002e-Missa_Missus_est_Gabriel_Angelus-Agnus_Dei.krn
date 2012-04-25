@@ -216,6 +216,7 @@
 !!!OMD: Agnus Dei II
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*	*	*tacet	*tacet
 0D	0r	0r	0r
 =32	=32	=32	=32
 1D	0r	0r	0r
@@ -346,6 +347,7 @@
 !!!OMD: Agnus Dei III
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*	*	*xtacet	*xtacet
 0r	0r	0d	1r
 .	.	.	[1a
 =55	=55	=55	=55
@@ -482,7 +484,7 @@
 !!!ENC:	Will Watson 07/08/2011
 !!!END:	2011/07/08/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/12/26/
+!!!EEV: 2012/04/24/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/12/26/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}{/}@{COA}?\n@{SCT}^i2I100v85,85,85,100c95Q16

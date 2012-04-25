@@ -413,6 +413,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met()	*met()	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
+*tacet	*tacet	*	*
 0r	0r	0e	0g
 =61	=61	=61	=61
 !!linebreak:default
@@ -770,6 +771,7 @@
 !!!OMD: Osanna
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*xtacet	*xtacet	*	*
 2.E\	2.G/	0e	1g
 4F\	4A/	.	.
 2G\	2B\	.	2g/
@@ -1206,6 +1208,7 @@
 !!!OMD: Benedictus
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*tacet	*	*	*tacet
 0r	1E	0e	0r
 .	[1G	.	.
 =177	=177	=177	=177
@@ -1274,6 +1277,7 @@
 !!!OMD: Qui venit
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*xtacet	*tacet	*	*tacet
 1D	0r	0d	0r
 1G	.	.	.
 =188	=188	=188	=188
@@ -1341,6 +1345,7 @@
 !!!OMD: In nomine domine
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*tacet	*xtacet	*tacet	*xtacet
 0r	1A	0r	0a
 .	[1c	.	.
 =199	=199	=199	=199
@@ -1405,7 +1410,7 @@
 !!!ENC:	Jesse Rodin; Victoria Chang 2011/05/08
 !!!END:	2011/05/08/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/09/19/
+!!!EEV: 2012/04/24/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/09/19/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100c120Q16

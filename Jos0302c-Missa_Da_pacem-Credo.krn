@@ -576,6 +576,7 @@
 *>C	*>C	*>C	*>C
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*	*tacet	*	*tacet
 1BB-	0r	0r	0r
 2BB-/	.	.	.
 2AA/	.	.	.
@@ -712,6 +713,7 @@
 *>D	*>D	*>D	*>D
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*tacet	*xtacet	*tacet	*xtacet
 0r	1c	0r	1r
 .	2c\	.	[1g
 .	2c\	.	.
@@ -829,6 +831,7 @@
 *>E	*>E	*>E	*>E
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*xtacet	*	*xtacet	*
 1r	[0G	0r	1d
 1GG	.	.	2d/
 .	.	.	2d/
@@ -1276,7 +1279,7 @@
 !!!ENC:	Victoria Chang 2011/04/18
 !!!END:	2011/01/01/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/12/16/
+!!!EEV: 2012/04/24/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/12/16/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}{/}@{COA}?\n@{SCT}^i2I100v85,90,85,100c80Q4

@@ -263,6 +263,7 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!!OMD: Secunda pars: Quoniam confirmata est
 !!section: Secunda pars: Quoniam confirmata est
+*	*	*tacet	*
 1G	[0B	0ryy	2r
 .	.	.	2g/
 1G	.	.	2g/
@@ -545,7 +546,7 @@
 !!!ONB1: Score is in NJE Critical Commentary 15, pp 4-10. 
 !!!ONB2: NJE only names four parts.  Only three are present in the edition.  
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/04/05/
+!!!EEV: 2012/04/24/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/04/05/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2}^C^@{COA}?\n@{SCT}^i2I150v90,90,90,120Q16

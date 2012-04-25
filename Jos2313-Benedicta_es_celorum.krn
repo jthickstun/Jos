@@ -695,6 +695,7 @@
 !!!OMD: Secunda pars: Per illud ave prolatum
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+*tacet	*tacet	*tacet	*tacet	*	*
 0r	0r	0r	0r	1d	1r
 .	.	.	.	2f\	1a
 .	.	.	.	2f\	.
@@ -882,6 +883,7 @@
 !!!OMD: Tertia pars: Nunc mater exort natum
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(C|3)	*met(C|3)	*met(C|3)	*met(C|3)	*met(C|3)	*met(C|3)
+*xtacet	*xtacet	*xtacet	*xtacet	*	*
 0.r	0.r	0.r	0.r	1d	0.r
 .	.	.	.	1d	.
 .	.	.	.	1e	.
@@ -1104,7 +1106,7 @@
 !!!ENC:	Will Watson 2011/08/05
 !!!END:	2011/08/05/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/08/24/
+!!!EEV: 2012/04/24/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/08/17/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2} (3) @{OTL3}^C^@{COM}\n@{SCT}^i2I150v100,100,100,100,100,120Q16

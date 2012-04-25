@@ -152,6 +152,7 @@
 *met(O)	*met(O)	*met(O)	*met(O)
 !!section: Pleni
 !!!OMD: Pleni
+*tacet	*tacet	*	*
 0.r	0.r	0e	1e
 .	.	.	1g
 .	.	1f	2.a/
@@ -235,6 +236,7 @@
 *met(O)	*met(O)	*met(O)	*met(O)
 !!section: Osanna
 !!!OMD: Osanna
+*xtacet	*xtacet	*	*
 0F	0c	0f	0a
 1F	1c	1f	1a
 =30	=30	=30	=30
@@ -336,6 +338,7 @@
 !!!OMD: Benedictus
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
+*	*	*tacet	*tacet
 0E	1E	0.r	0.r
 .	1G	.	.
 1F	2.A/	.	.
@@ -418,7 +421,7 @@
 !!!ENC:	Jesse Rodin; Victoria Chang 2012/02/25
 !!!END:	2012/02/25/
 !!!EED:	Jesse Rodin
-!!!EEV:	2012/03/19/
+!!!EEV: 2012/04/24/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2012/03/19/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SCT}^i2I150v95,95,95,150c150

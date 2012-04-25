@@ -783,6 +783,7 @@
 *>B	*>B	*>B	*>B	*>B	*>B
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+*	*tacet	*	*tacet	*tacet	*tacet
 1r	0r	1B-	0r	0r	0r
 1F	.	1c	.	.	.
 =132	=132	=132	=132	=132	=132
@@ -981,6 +982,7 @@
 !!!OMD: Tertia pars: Et Jseum
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+*	*xtacet	*	*xtacet	*xtacet	*xtacet
 0r	1r	0r	0r	0g	0r
 .	[1G	.	.	.	.
 =167	=167	=167	=167	=167	=167
@@ -1542,7 +1544,7 @@
 !!!ENC:	Will Watson 13/09/2011
 !!!END:	2011/09/13/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/10/17/
+!!!EEV: 2012/04/24/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/10/17/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^I150v95,95,95,95,95,120i2I150c85Q16

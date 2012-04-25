@@ -231,6 +231,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met()	*met()	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
+*tacet	*tacet	*	*
 0r	0r	0g	0r
 =25	=25	=25	=25
 0r	0r	1a	0cc
@@ -425,6 +426,7 @@
 !!!OMD: Agnus Dei III
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*xtacet	*xtacet	*	*
 1G	0r	0r	0r
 [1d	.	.	.
 =57	=57	=57	=57
@@ -666,7 +668,7 @@
 !!!ENC: Jesse Rodin; Victoria Chang 2011/04/01/
 !!!END: 2011/04/01/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/04/06/
+!!!EEV: 2012/04/24/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/04/06/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100c94Q16

@@ -235,6 +235,7 @@
 !!!OMD: Domine deus, rex celestis
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*	*tacet	*	*
 0r	0r	0D	0r
 =32	=32	=32	=32
 0D	0r	1D	0r
@@ -420,6 +421,7 @@
 !!!OMD: Domine fili unigenite
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*	*tacet	*	*tacet
 [0GG	0r	0D	0r
 =67	=67	=67	=67
 !!pagebreak:original
@@ -531,6 +533,7 @@
 !!!OMD: Domine deus, agnus dei
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*	*tacet	*	*xtacet
 1.F	0r	1r	0r
 .	.	1F	.
 4E\	.	.	.
@@ -711,6 +714,7 @@
 *	*rscale:1/8	*	*
 !	!LO:TX:Z=10:X=-40:t=Canon&colon; Two dice with faces four over one	!	!
 !	!LO:N:vis=1	!	!
+*	*xtacet	*	*
 [0BB-	0r	0F	0d
 =118	=118-	=118	=118
 0BB-]	0ryy	1F	1d
@@ -1157,7 +1161,7 @@
 !!!ENC:	Jesse Rodin; Victoria Chang 2012/01/24
 !!!END:	2012/01/24/
 !!!EED:	Jesse Rodin
-!!!EEV:	2012/03/22/
+!!!EEV: 2012/04/24/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2012/03/22/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v95,90,90,100c130

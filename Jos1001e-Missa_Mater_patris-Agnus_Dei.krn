@@ -25,6 +25,7 @@
 =1-	=1-	=1-	=1-	=1-
 !!section: Agnus Dei I
 !!!OMD: Agnus Dei I
+*tacet	*	*	*	*
 0r	0G	0r	0r	0r
 =2	=2	=2	=2	=2
 0r	1G	0r	0r	0r
@@ -148,6 +149,7 @@
 !	!	!	!LO:TX:Z=6:t=Canon at the unison	!
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+*tacet	*tacet	*tacet	*	*
 0r	0r	0r	1.d	0r
 .	.	.	2c\	.
 =31	=31	=31	=31	=31
@@ -338,6 +340,7 @@
 !	!	!	!	!LO:TX:Z=8:t=Inner three voices are an exact quotation from Brumel's motet
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+*xtacet	*xtacet	*xtacet	*	*
 0G	0G	0r	0r	1d
 .	.	.	.	2G/
 .	.	.	.	[2d\
@@ -779,7 +782,7 @@
 !!!ENC: Will Watson 17/08/2011
 !!!END: 2011/08/17/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/10/28/
+!!!EEV: 2012/04/24/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/10/28/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I100v85,85,85,85,100c80Q16

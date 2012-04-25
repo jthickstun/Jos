@@ -467,6 +467,7 @@
 !!primary-mensuration: met(C|)
 !!section: Agnus Dei II
 !!!OMD: Agnus Dei II
+*	*tacet	*	*tacet
 [0G	0r	0d	0r
 =69	=69	=69	=69
 0G]	0r	1e-i	0r
@@ -754,6 +755,7 @@
 *met(O)	*met(C|)	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
 *rscale:1/2	*	*	*
+*	*xtacet	*	*xtacet
 0r	0G	0G	0r
 =122-	=122	=122	=122
 0r	1B-	1G	0r
@@ -1183,7 +1185,7 @@
 !!!ENC:	Jesse Rodin; Victoria Chang 2012/01/28
 !!!END:	2012/01/28/
 !!!EED:	Jesse Rodin
-!!!EEV:	2012/03/22/
+!!!EEV: 2012/04/24/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2012/03/22/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v85,85,85,100Q16

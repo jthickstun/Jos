@@ -125,6 +125,7 @@
 !!!OMD: Christe
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+*	*tacet	*	*
 1.G	0r	0G	0r
 4F\	.	.	.
 4E\	.	.	.
@@ -260,6 +261,7 @@
 *met(O|)	*met(O|)	*met(O|)	*met(O|)
 !	!LO:TX:Z=10:t=Canon&colon; Two dice with faces two over one	!	!
 *	*rscale:1/2	*	*
+*	*xtacet	*	*
 [0.B-	0.r	0.r	1.d
 .	.	.	2e/
 .	.	.	1f
@@ -382,7 +384,7 @@
 !!!ENC:	Jesse Rodin; Victoria Chang 2012/01/27
 !!!END:	2012/01/27/
 !!!EED:	Jesse Rodin
-!!!EEV:	2012/03/22/
+!!!EEV: 2012/04/24/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2012/03/22/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v85,85,85,100Q16
