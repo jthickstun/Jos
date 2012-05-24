@@ -218,7 +218,10 @@
 =49	=49	=49	=49	=49	=49
 !!linebreak:default
 0C	1r	1r	1c	1G	1e
-.	1C	1E	1c	[1c	2r
+!! Quintus: E- is based on article by Patrick Macey: An Expressive Detail
+!! in Josquin's 'Nymphes, napp&eacute;s' (Early Music, August 2003).
+!! All Four early prints and two manuscript sources notate E-flat explicitly.
+.	1C	1E-	1c	[1c	2r
 .	.	.	.	.	2g/
 =50	=50	=50	=50	=50	=50
 1r	2.F/	1F	1A	1c]	1a
@@ -256,7 +259,10 @@
 =57	=57	=57	=57	=57	=57
 1C	1E	1r	2r	[0c	1g
 .	.	.	2G/	.	.
-1C	1C	1E	1c	.	1g
+!! Quintus: E- is based on article by Patrick Macey: An Expressive Detail
+!! in Josquin's 'Nymphes, napp&eacute;s' (Early Music, August 2003)
+!! All Four early prints and two manuscript sources notate E-flat explicitly.
+1C	1C	1E-	1c	.	1g
 =58	=58	=58	=58	=58	=58
 1FF	2.F/	1F	1c	0c]	1.a
 .	4G/	.	.	.	.
@@ -308,7 +314,7 @@
 !!!ENC:	Will Watson 19/08/2011
 !!!END:	2011/08/19/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/09/20/
+!!!EEV:	2012/05/23/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/09/20/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SCT}^i2I150v85,85,85,85,85,100Q16
