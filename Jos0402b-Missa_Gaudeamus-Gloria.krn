@@ -23,7 +23,6 @@
 =1-	=1-	=1-	=1-
 !!section: Et in terra pax
 !!!OMD: Et in terra pax
-!	!LO:TX:Z=6:t=[T originally notated once, but with repeat signs]	!	!
 0.r	0.r	1G	0.r
 .	.	2A/	.
 .	.	2.A/	.
@@ -101,6 +100,8 @@
 1A	.	1e	.
 .	.	.	2cc#i\
 =10	=10	=10	=10
+!	!LO:TX:Z=26:X=-40:t=T originally notated once, but with a repeat 	!	!
+!	!LO:TX:Z=6:X=-40:t=    sign indicating eleven total statements.	!	!
 1.B-i	1r	1d	1dd
 .	1r	1r	1r
 2A\	.	.	.
@@ -1010,7 +1011,7 @@
 !!!ENC:	Jesse Rodin; Victoria Chang 2011/04/11
 !!!END:	2011/04/11/
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/04/17/
+!!!EEV:	2012/05/25/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/04/17/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100Q16
