@@ -1,7 +1,7 @@
-!!!COM: Mouton, Jean
-!!!CDT: ~1459-1522/10/30
 !!!COA:	Josquin des Prez
-!!!CDT2:	~1450-1521/08/27
+!!!CDT:	~1450-1521/08/27
+!!!COA2: Mouton, Jean
+!!!CDT2: ~1459-1522/10/30
 !!!OTL@@LAT:	Tua est potentia
 !!!OTL@ENG:	Yours is the power
 !!!AGN:	Motet
@@ -404,5 +404,5 @@
 !!!EEV:	2011/04/03/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/04/03/ by Craig Sapp
-!!muse2ps: C^@{COM}/@{COA}?\n@{SCT}^I150v90,90,90,90,120Q16
+!!muse2ps: C^@{COA}?\n@{SCT}^I150v90,90,90,90,120Q16
 !!onb:	Bassus last note marked as long [2011/04/03/]

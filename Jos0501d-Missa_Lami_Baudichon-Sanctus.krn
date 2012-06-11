@@ -18,33 +18,36 @@
 *met(O)	*met(O)	*met(O)	*met(O)
 =1-	=1-	=1-	=1-
 !	!LO:TX:Z=10:X=-40:t=Canon&colon; In duplo provulgatur [all breves in 2&colon;1 augmentation]	!	!
+!	!LO:N:vis:0.	!	!
 0.r	0.r	0c	0cc
 .	.	2e\	1cc
 .	.	2f\	.
 =2	=2-	=2	=2
-0.r	0.r	1g	1b
+0.r	0.ryy	1g	1b
 .	.	1.f	1.a
 .	.	2e\	2g/
 =3	=3	=3	=3
+!	!LO:N:vis:0.	!	!
 0.r	0.r	1e	1g
 .	.	2d\	1.f
 .	.	2.d\	.
 .	.	4c\	.
 .	.	2A/	2e/
 =4	=4-	=4	=4
-0.r	0.r	2G/	1e
+0.r	0.ryy	2G/	1e
 .	.	2c\	.
 .	.	2d\	1.d
 .	.	1B	.
 .	.	2A/	2c/
 =5	=5	=5	=5
+!	!LO:N:vis:0.	!	!
 0.r	0.r	0.c	1c
 .	.	.	1r
 .	.	.	2r
 .	.	.	[2g/
 =6	=6-	=6	=6
 !!linebreak:original
-0.r	0.r	1r	2g/]
+0.r	0.ryy	1r	2g/]
 .	.	.	2f/
 .	.	2r	2e/
 .	.	1g	4d/
@@ -52,6 +55,7 @@
 .	.	.	1B
 .	.	2f\	.
 =7	=7	=7	=7
+!	!LO:N:vis:0.	!	!
 0.r	0.r	2e\	1c
 .	.	4d\	.
 .	.	4c\	.
@@ -59,7 +63,7 @@
 .	.	1c	2r
 .	.	.	[2g/
 =8	=8-	=8	=8
-0.r	0.r	1d	2g/]
+0.r	0.ryy	1d	2g/]
 .	.	.	2f/
 .	.	2r	2e/
 .	.	1g	4d/
@@ -67,6 +71,7 @@
 .	.	.	1B
 .	.	2f\	.
 =9	=9	=9	=9
+!	!LO:N:vis:0.	!	!
 0.r	0.r	2e\	2c/
 .	.	4d\	2e/
 .	.	4c\	.
@@ -74,13 +79,14 @@
 .	.	2c\	2c/
 .	.	2e\	2g/
 =10	=10-	=10	=10
-0.r	0.r	1d	2f/
+0.r	0.ryy	1d	2f/
 .	.	.	2d/
 .	.	2c\	1e
 .	.	2g\	.
 .	.	2f\	1d
 .	.	2d\	.
 =11	=11	=11	=11
+!	!LO:N:vis:0.	!	!
 !!linebreak:original
 0.r	0.r	1e	2c/
 .	.	.	2g/
@@ -92,7 +98,7 @@
 .	.	.	[2e/
 .	.	4G/	.
 =12	=12-	=12	=12
-0.r	0.r	2A/	4e/]
+0.r	0.ryy	2A/	4e/]
 .	.	.	4f/
 .	.	2B\	2.g/
 .	.	2.c\	.
@@ -102,6 +108,7 @@
 .	.	2G/	.
 .	.	2c\	2e/
 =13	=13	=13	=13
+!	!LO:N:vis:0.	!	!
 0.r	0.r	2d\	1d
 .	.	2B\	.
 .	.	2.c\	2r
@@ -110,13 +117,14 @@
 .	.	2A/	.
 .	.	2G/	2e/
 =14	=14-	=14	=14
-0.r	0.r	2B\	2d/
+0.r	0.ryy	2B\	2d/
 .	.	2A/	2f/
 .	.	2c\	2e/
 .	.	2B\	2g/
 .	.	2d\	2f/
 .	.	2c\	2a/
 =15	=15	=15	=15
+!	!LO:N:vis:0.	!	!
 0.r	0.r	2e\	2g/
 .	.	2d\	2b\
 .	.	2f\	2a/
@@ -126,7 +134,7 @@
 .	.	4f\	.
 =16	=16-	=16	=16
 !!pagebreak:original
-0.r	0.r	4e\	2cc\
+0.r	0.ryy	4e\	2cc\
 .	.	4d\	.
 .	.	1c	2.ee\
 .	.	.	4dd\
@@ -619,13 +627,13 @@
 0Cl	0cl	0cl\	0gl/	0ccl
 *	*	*v	*v	*
 !!linebreak:original
-!!LO:LB:i:g=z
 !!LO:TX:rj:i:t=fine
+!!LO:LB:i:g=z
 =91||	=91||	=91||	=91||
 !!section: Benedictus
 !!!OMD: Benedictus
 *M2/1	*M2/1	*M2/1	*M2/1
-*met()	*met()	*met(C|)	*met(C|)
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 *tacet	*tacet	*	*
 0r	0r	[0c	0g
 =92	=92	=92	=92
@@ -825,5 +833,6 @@
 !!!END:	2012/02/07/
 !!!EED:	Jesse Rodin
 !!!EEV:	2012/05/25/
+!!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2012/05/25/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v85,85,85,100c140Q8
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v85,85,85,100c130

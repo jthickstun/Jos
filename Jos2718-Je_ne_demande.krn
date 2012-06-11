@@ -292,7 +292,9 @@
 1D	1A	.
 .	.	2f#i/
 =54	=54	=54
-0GG 0dl	0Gl	0gl
+*^	*	*
+0GGl\	0dl/	0Gl	0gl
+*v	*v	*	*
 ==	==	==
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
@@ -302,6 +304,7 @@
 !!!ENC:	Victoria Chang 2012/03/28
 !!!END:	2012/03/28/
 !!!EED:	Jesse Rodin
-!!!EEV:	2012/05/25/
+!!!EEV:	2012/06/07/
+!!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2012/05/25/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,100Q16

@@ -144,7 +144,7 @@
 .	.	.	[2ee-i\
 .	.	4F/	.
 =31	=31	=31	=31
-[0BB-	1.B-\	2G/	2ee-\]
+[0BB-	1.B-\	2G/	2ee-i\]
 .	.	1F/	4dd\
 .	.	.	4cc\
 .	.	.	2dd\
@@ -597,6 +597,9 @@
 .	1c\l	.	.
 !!LO:LB:i:g=z
 =107||	=107||	=107||	=107||
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Secunda pars: Is absolutos
 !!!OMD: Secunda pars: Is absolutos
 0r	0r	1.c\	0g
@@ -1250,5 +1253,6 @@
 !!!END:	2012/05/06/
 !!!EED:	Jesse Rodin
 !!!EEV:	2012/05/25/
+!!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2012/05/25/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,85,100Q16
