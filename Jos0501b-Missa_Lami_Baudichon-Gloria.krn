@@ -9,7 +9,7 @@
 !!!voices:	4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
-*vox	*vox	*vox	*vox
+*Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'A	*I'S
 *clefF4	*clefGv2	*clefGv2	*clefG2
@@ -804,7 +804,7 @@
 =141	=141	=141	=141
 [0C	0r	0g	0e
 =142	=142	=142	=142
-*	*2/1	*	*
+*	*M2/1	*	*
 *	*met(C|)	*	*
 !!pagebreak:original
 0C]	0e	1.c	0r
@@ -919,7 +919,7 @@
 .	.	2f\	4dd\
 .	.	.	4cc\
 =164	=164	=164	=164
-*rscale:	*rscale:1	*	*
+*rscale:1	*rscale:1	*	*
 !LO:N:vis=00	!LO:N:vis=00	!LO:N:vis=00	!LO:N:vis=00
 0G;	0d;	0g;	0b;
 =165	=165	=165	=165
