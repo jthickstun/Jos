@@ -96,7 +96,7 @@
 4BB/	4D/	.	.
 =15	=15	=15	=15
 2C/	4E/	4c\]	0r
-.	4F/	4B\	.
+.	4F#i/	4B\	.
 2E\	2.G/	2G/	.
 1D	.	1A	.
 .	4F#i/	.	.
@@ -771,12 +771,12 @@
 0D]	0d	0r	1.f
 .	.	.	2d/
 =144	=144	=144	=144
-3%4GV	0r	1B	0d
+3%4GV	0r	3%2.BV	0d
 .	.	3G/	.
-3%2FZ	.	3%2A	.
+3%2FZ	.	3%2AZ	.
 =145	=145	=145	=145
-3%2GV	3%4dV	3%2B	0r
-3%4EZ	.	3%4G	.
+3%2GV	3%4dV	3%2BV	0r
+3%4EZ	.	3%4GZ	.
 .	3%2cZ	.	.
 =146	=146	=146	=146
 3%2DV	3%2dV	0r	0r
@@ -1400,7 +1400,7 @@
 !!!ENC:	Chris Gage 06-04-2012
 !!!END:	2012/06/04/
 !!!EED:	Jesse Rodin
-!!!EEV:	2012/06/08/
+!!!EEV:	2012/06/22/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2012/06/08/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I150v85,85,85,100c88Q16

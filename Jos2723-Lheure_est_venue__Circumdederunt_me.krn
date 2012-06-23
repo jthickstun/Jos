@@ -1,7 +1,7 @@
 !!!COA:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
 !!!OTL:	L'heure est venue / Circumdederunt me
-!!!AGN:	Chanson
+!!!AGN:	Chanson; Virelai
 !!!SCT:	NJE 27.23
 !!!SCA:	New Josquin Edition 27.23
 !!!voices:	3
@@ -10,12 +10,15 @@
 *Ivox	*Ivox	*Ivox
 *I"Contra	*I"Tenor	*I"Superius
 *I'C	*I'T	*I'S
+*>[A,B,B,A,A]	*>[A,B,B,A,A]	*>[A,B,B,A,A]
+*>norep[A,B,A]	*>norep[A,B,A]	*>norep[A,B,A]
 *>A	*>A	*>A
 *clefF4	*clefGv2	*clefG2
 *k[b-]	*k[]	*k[]
 *M2/00	*M2/00	*M2/00
 *met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-
+!!LO:TX:Z=30:t=Form&colon; virelai (AbbaA)
 0r	0d\	0d/
 =2	=2	=2
 0r	0d\	0f/
@@ -166,17 +169,10 @@
 .	4A\JJ	.
 1C/	1G/	1e/
 =44	=44	=44
-0FF/l	0A/l	1.f/
+0FF/	0A/	1.f/
 .	.	4e/LL
-.	.	4d/JJl
-!!LO:LB:i:g=z
-=45||	=45||	=45||
-*>B	*>B	*>B
-!!section: Despitant / En monstrant
-!!!OMD: Despitant / En monstrant
-*k[b-]	*k[]	*k[]
-*M2/00	*M2/00	*M2/00
-*met(C|)	*met(C|)	*met(C|)
+.	.	4d/JJ
+=45	=45	=45
 [0C	0G/	[0e
 =46	=46	=46
 0C_	1r	0e]
@@ -343,7 +339,7 @@
 0D\l	0D/l	0d/l
 !!LO:LB:i:g=z
 =87||	=87||	=87||
-*>C	*>C	*>C
+*>B	*>B	*>B
 !!section: Despitant fortune mauldite
 !!!OMD: Despitant fortune mauldite
 0r	0r	1A/
