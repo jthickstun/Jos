@@ -12,7 +12,7 @@
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
-*I"Bass	*I"Tenor	*I"Altus	*I"Soprano
+*I"Bassus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'A	*I'S
 *>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
 *>A	*>A	*>A	*>A
@@ -20,6 +20,7 @@
 *k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
+!!incipit: 4
 =1-	=1-	=1-	=1-
 !	!LO:TX:Z=8:t=[Canon at the lower second]	!	!
 !	!LO:TX:Z=29:t=Canon in e la mi	!	!

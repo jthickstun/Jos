@@ -17,7 +17,9 @@
 *M2/1	*M2/1
 *met(C|)	*met(C|)
 =1-	=1-
-!!LO:TX:Z=12:t=[Only T and B are extant]
+!!section: Agnus Dei I
+!!!OMD: Agnus Dei I
+!!LO:TX:Z=8:t=[Only T and B are extant]
 0G	0r
 =2	=2
 1D	0r
@@ -328,4 +330,4 @@
 !!!EEV:	2012/06/27/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2012/06/27/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v95,120Q8
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v95,160Q8
