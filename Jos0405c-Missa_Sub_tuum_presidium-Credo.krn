@@ -1,6 +1,8 @@
 !!!COA:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
-!!!OPR:	Missa Sub tuum Praesidium
+!!!COM2: La Rue, Pierre de
+!!!CDT2: ~1452///-1518/11/20/
+!!!OPR:	Missa Sub tuum presidium
 !!!ONM:	3
 !!!OTL:	Credo
 !!!AGN:	Mass; Credo
@@ -467,7 +469,7 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(C)	*met(C)	*met(C)	*met(C)
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Crucifixus
 !!!OMD: Crucifixus
 0r	0r	0r	1e
@@ -1051,4 +1053,4 @@
 !!!EEV:	2012/08/03/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2012/08/03/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v85,85,85,100Q16
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^La Rue/Josquin?\n@{SCT}^i2I150v85,85,85,100Q16

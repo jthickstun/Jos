@@ -20,6 +20,8 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(O2)	*met(O2)	*met(O2)	*met(O2)
 !!incipit: 6
+!!section: Sanctus-Pleni-Osanna I
+!!!OMD: Sanctus-Pleni-Osanna I
 =1-	=1-	=1-	=1-
 [0AA	[0A	0e	[0a
 =2.	=2.	=2.	=2.
@@ -479,8 +481,8 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(O2)	*met(O2)	*met(O2)	*met(O2)
 !!incipit: 6
-!!section: Benedictus
-!!!OMD: Benedictus
+!!section: Benedictus-Osanna II
+!!!OMD: Benedictus-Osanna II
 1r	1D	0r	[0f
 1D	[1F	.	.
 =102.	=102.	=102.	=102.

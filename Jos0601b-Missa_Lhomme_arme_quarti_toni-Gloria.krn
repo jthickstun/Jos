@@ -826,7 +826,7 @@
 2AA/	.	.	.
 =147	=147	=147	=147
 *^	*	*	*
-0EEl	0El	0E]	0Bl	0el
+0EEl\	0El/	0E]	0Bl	0el
 *v	*v	*	*	*
 ==	==	==	==
 *-	*-	*-	*-
@@ -840,4 +840,4 @@
 !!!EEV:	2012/08/03/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2012/08/03/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v85,85,85,100Q16
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v85,85,85,100c140

@@ -1,6 +1,7 @@
 !!!COA:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
-!!!COM: La Rue
+!!!COM2: La Rue, Pierre de
+!!!CDT2: ~1452///-1518/11/20/
 !!!OPR:	Missa Cum iocunditate
 !!!ONM:	4
 !!!OTL:	Sanctus
@@ -1002,4 +1003,4 @@
 !!!EEV: 2012/04/24/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/02/11/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}\n@{SCT}^i2I100v85,90,85,100c140Q4
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^La Rue/Josquin?\n@{SCT}^i2I100v85,90,85,100c140Q4
