@@ -2,7 +2,7 @@
 !!!CDT:	~1450-1521/08/27
 !!!OPR:	Missa Ad fugam
 !!!ONM:	4
-!!!OTL:	Sanctus
+!!!OTL:	Sanctus (version I)
 !!!AGN:	Mass; Sanctus
 !!!SCT:	NJE 12.1
 !!!SCA:	New Josquin Edition 12.1
@@ -19,7 +19,7 @@
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
 =1-	=1-	=1-	=1-
-!	!	!	!LO:TX:Z=8:t=[Canon at the lower fifth]
+!	!	!	!LO:TX:X=-40:Z=8:t=[Canon at the lower fifth]
 0G	0.r	1.G	0g
 .	.	2A/	.
 1E	.	2.B-\	1g
@@ -987,5 +987,6 @@
 !!!END:	2012/02/04/
 !!!EED:	Jesse Rodin
 !!!EEV:	2012/08/29/
+!!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2012/08/29/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v85,85,85,100Q16
