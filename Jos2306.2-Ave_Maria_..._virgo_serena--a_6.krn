@@ -16,6 +16,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-	=1-	=1-
+!!LO:TX:Z=15:X=-30:t=D2 & T2 probably by a later composer (this six-voice version survives anonymously in MunBS 41)
 0r	0r	0r	0r	1r	1g
 .	.	.	.	1c	[1cc
 =2	=2	=2	=2	=2	=2
@@ -873,4 +874,4 @@
 !!!EEV:	2012/08/29/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2012/08/29/ by Craig Sapp
-!!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,85,85,85,100Q16
+!!muse2ps: C^@{COA}?\n@{SCT}^i2I150v105,105,105,105,105,100Q16
