@@ -9,6 +9,7 @@
 !!!SCT:	NJE 3.2
 !!!SCA:	New Josquin Edition 3.2
 !!!voices: 4
+!!!voices-OPR:	4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1284,4 +1285,4 @@
 !!!EEV: 2012/04/24/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/12/16/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}{/}@{COA}?\n@{SCT}^i2I100v85,90,85,100c80Q4
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^Bauldeweyn/Josquin?/Mouton?\n@{SCT}^i2I100v85,90,85,100c80Q4

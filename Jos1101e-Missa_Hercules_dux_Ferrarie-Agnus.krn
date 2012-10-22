@@ -7,7 +7,8 @@
 !!!AGN:	Mass; Agnus Dei
 !!!SCT:	NJE 11.1
 !!!SCA:	New Josquin Edition 11.1
-!!!voices: 4
+!!!voices: 6
+!!!voices-OPR: 4(-6)
 **kern	**kern	**kern	**kern	**kern	**kern
 *staff6	*staff5	*staff4	*staff3	*staff1	*staff2
 *clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2	*clefG2

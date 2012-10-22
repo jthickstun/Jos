@@ -9,6 +9,7 @@
 !!!SCT:	NJE 3.4
 !!!SCA:	New Josquin Edition 3.4
 !!!voices: 4
+!!!voices-OPR: 4(-5)
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox

@@ -7,6 +7,7 @@
 !!!SCT:	NJE 6.3
 !!!SCA:	New Josquin Edition 6.3
 !!!voices: 4
+!!!voices-OPR:	4
 **kern	**kern	**kern	**kern	**kern	**kern	**kern
 *I"Bassus2	*I"Bassus1	*I"Tenor	*I"Altus2	*I"Altus1	*I"Superius2	*I"Superius1
 *	*I"Bassus	*	*	*I"Altus	*	*I"Superius
@@ -21,7 +22,6 @@
 *>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]
 *>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]
 *>A	*>A	*>A	*>A	*>A	*>A	*>A
-!!!voices: 4
 *k[]	*k[]	*k[b-]	*k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met()	*met(O)	*met(O.)	*met()	*met(O)	*met()	*met(O)
@@ -353,7 +353,6 @@
 =34||	=34||	=34||	=34||	=34||	=34||	=34||
 !!linebreak:default
 *>B	*>B	*>B	*>B	*>B	*>B	*>B
-!!!voices: 3
 !!section:Pleni
 !!section: Pleni
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
@@ -608,7 +607,6 @@
 !!linebreak:default
 *>C	*>C	*>C	*>C	*>C	*>C	*>C
 !!section: Osanna
-!!!voices: 4
 !LO:HIDE	!LO:SHOW	!LO:SHOW	!LO:HIDE	!LO:SHOW	!LO:HIDE	!LO:SHOW
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met()	*met(C3)	*met(O.)	*met()	*met(C3)	*met()	*met(C3)
@@ -903,7 +901,6 @@
 *>D	*>D	*>D	*>D	*>D	*>D	*>D
 !!linebreak:default
 !!section:Benedictus
-!!!voices: 2
 !LO:SHOW	!LO:SHOW	!LO:HIDE	!LO:HIDE	!LO:HIDE	!LO:HIDE	!LO:HIDE
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C)	*met()	*met()	*met()	*met()	*met()
@@ -992,7 +989,6 @@
 !!pagebreak:default
 *>E	*>E	*>E	*>E	*>E	*>E	*>E
 !!section:Qui_venit
-!!!voices: 2
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C)	*met()	*met(C|)	*met(C|)	*met()	*met()
 !!primary-mensuration: met(C|)
@@ -1064,7 +1060,6 @@
 =128||	=128||	=128||	=128||	=128||	=128||	=128||
 *>F	*>F	*>F	*>F	*>F	*>F	*>F
 !!section:In_nomine
-!!!voices: 2
 !LO:HIDE	!LO:HIDE	!LO:HIDE	!LO:HIDE	!LO:HIDE	!LO:SHOW	!LO:SHOW
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C)	*met()	*met(C|)	*met(C|)	*met(C|)	*met(C)

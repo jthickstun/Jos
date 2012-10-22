@@ -7,6 +7,7 @@
 !!!SCT:	NJE 6.2
 !!!SCA:	New Josquin Edition 6.2
 !!!voices: 4
+!!!voices-OPR: 4(-6)
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *clefF4	*clefGv2	*clefGv2	*clefG2
