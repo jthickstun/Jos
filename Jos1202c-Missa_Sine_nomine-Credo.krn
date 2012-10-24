@@ -1120,6 +1120,8 @@
 =182	=182	=182	=182
 *M3/1	*M3/1	*M3/1	*
 *met(3)	*met(3)	*met(3)	*
+!!primary-mensuration: met(3)
+!	!	!	!LO:N:vis=0
 1r	0A	0e	0.a
 0A	.	.	.
 .	1r	1c	.
