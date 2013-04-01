@@ -6,7 +6,7 @@
 !!!SCT: NJE 24.11
 !!!SCA: New Josquin Edition 24.11
 !!!voices:      6
-**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**silbe
+**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
 *I"Bassus2	*	*I"Bassus1	*	*I"Tenor	*	*I"Altus2	*	*I"Altus1	*	*I"Superius	*
@@ -1035,3 +1035,4 @@
 !!!EEV:	2013/03/08/
 !!!ONB:	Translated from MusicXML and edited on 2013/03/08/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2}^C^@{COM}\n@{SCT}^v80,80,80,80,80,100i2I150c100Q16
+!!!ONB: April 2013 Concert

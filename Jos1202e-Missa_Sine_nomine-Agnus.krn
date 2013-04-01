@@ -1,11 +1,12 @@
 !!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
-!!!OPR:	Missa Ave maris stella
+!!!OPR:	Missa Sine nomine
+!!!OTA:	Missa Ad fugam
 !!!ONM:	5
-!!!OTL:	Angus Dei
+!!!OTL:	Agnus Dei
 !!!AGN:	Mass; Agnus Dei
-!!!SCT:	NJE 3.1
-!!!SCA:	New Josquin Edition 3.1
+!!!SCT:	NJE 12.2
+!!!SCA:	New Josquin Edition 12.2
 !!!voices: 4
 !!!voices-OPR:	4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
@@ -681,6 +682,7 @@
 1BB	-na	.	.	.	.	.	.
 .	.	2G#i/	.	2D/	.	.	.
 =105	=105	=105	=105	=105	=105	=105	=105
+!	!	!LO:N:vis=1	!	!	!	!	!
 2.AA/	no-	[0Al	-cem.	2E/	.	0a	pa-
 .	.	.	.	2F/	.	.	.
 4BB/	.	.	.	.	.	.	.
@@ -704,3 +706,4 @@
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/04/06/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100Q8c140
+!!!ONB: April 2013 Concert

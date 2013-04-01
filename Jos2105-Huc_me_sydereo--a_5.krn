@@ -387,9 +387,10 @@
 .	.	4BB-/	.	.	.	.	.	.	.
 =78	=78	=78	=78	=78	=78	=78	=78	=78	=78
 1r	.	0BB-	-re,-	1d]	.	[0B-	.	1f	-du-
-1BB-	du-	.	.	1d	-ni-	.	.	[1b-	.
+1BB-	du-	.	.	1d	-ni-	.	.	[1b-\	.
 =79	=79	=79	=79	=79	=79	=79	=79	=79	=79
-0BB-	-re,	1r	.	[0d	-tum	0B-]	.	1b-]	.
+0BB-	-re,	1r	.	[0d	-tum	0B-]	.	2b-\]	.
+.	.	.	.	.	.	.	.	2a/	.
 .	.	[1B-	-du-	.	.	.	.	2g/	.
 .	.	.	.	.	.	.	.	4f/	.
 .	.	.	.	.	.	.	.	4e/	.
@@ -984,3 +985,4 @@
 !!!ONB: Translated from MusicXML and edited on 2011/08/12/ by Craig Sapp
 !!xmuse2ps: u^(2) @{OTL2}^C^@{COM}\n@{SCT}^i2I100v110,110,110,110,110,110,120Q16
 !!muse2ps: u^(2) @{OTL2}^C^@{COM}\n@{SCT}^z16i2I100v105,105,105,105,105,105,110c140
+!!!ONB: April 2013 Concert
