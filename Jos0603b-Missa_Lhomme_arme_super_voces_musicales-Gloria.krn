@@ -19,10 +19,10 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *>A	*>A	*>A	*>A
-*M3/1	*M3/1	*M3/1	*M3/1
+*	*rscale:1/2	*	*
+*M3/1	*M9/1	*M3/1	*M3/1
 *met(O)	*met(O.)	*met(O)	*met(O)
 !!primary-mensuration: met(O)
-*	*rscale:1/2	*	*
 =1-	=1-	=1-	=1-
 !!section: Et in terra pax
 !!!OMD: Et in terra pax
@@ -204,7 +204,7 @@
 4G\	.	.	.
 [2G\	.	.	.
 =19	=19	=19	=19
-*	*M3/1	*	*
+*	*M6/1	*	*
 *	*met(C.)	*	*
 2G\]	0.r	1A	2r
 2F\	.	.	2a/
@@ -355,7 +355,7 @@
 1AA	.	1E	.
 .	.	.	2c#i/
 =35	=35	=35	=35
-*	*M3/1	*	*
+*	*M9/1	*	*
 *	*met(O.)	*	*
 2r	0.r	0D	1d
 2.A\	.	.	.
@@ -600,10 +600,10 @@
 *>B	*>B	*>B	*>B
 !!section: Qui tollis
 !!!OMD: Qui tollis
-*M2/1	*M2/1	*M2/1	*M2/1
+*	*rscale:1/2	*	*
+*M2/1	*M9/1	*M2/1	*M2/1
 *met(C|)	*met(O.)	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
-*	*rscale:1/2	*	*
 !	!LO:TX:Z=6:t=Canon&colon; Tenor Verto cito	!	!
 !	!LO:N:vis=1.	!	!
 0D	0r	1d	0a
@@ -1156,7 +1156,7 @@
 !!!END: 2011/05/11/
 !!!SMS: Davison, Missa sine nomine
 !!!EED:	Jesse Rodin
-!!!EEV:	2011/09/09/
+!!!EEV:	2013/10/25/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/09/09/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100Q16
