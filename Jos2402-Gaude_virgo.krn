@@ -43,7 +43,6 @@
 .	.	4a/	.
 .	.	4g/	.
 =7	=7	=7	=7
-!!linebreak:default
 0r	0r	1a	2.f/
 .	.	.	4g/
 .	.	1d	2a/
@@ -71,7 +70,6 @@
 0r	0r	1r	1a
 .	.	1a	1a
 =13	=13	=13	=13
-!!linebreak:default
 0r	0r	1a	2.cc\
 .	.	.	4dd\
 .	.	[1cc	4ee\
@@ -104,7 +102,6 @@
 0r	1F	0d]	0dd]
 .	1G	.	.
 =19	=19	=19	=19
-!!pagebreak:default
 1r	2A/	0r	0r
 .	2D/	.	.
 1D	2.d\	.	.
@@ -134,7 +131,6 @@
 .	2c\	.	.
 1G	1B	.	.
 =25	=25	=25	=25
-!!linebreak:default
 2A\	2A/	0r	0r
 2D\	2F/	.	.
 2.d\	2G/	.	.
@@ -172,7 +168,6 @@
 .	4d\	.	.
 2A\	[2f\	.	.
 =31	=31	=31	=31
-!!linebreak:default
 2F\	4f\]	0r	0r
 .	4e\	.	.
 2G\	1d	.	.
@@ -198,7 +193,6 @@
 1F	2d\	1a	1a
 .	[2f\	.	.
 =37	=37	=37	=37
-!!linebreak:default
 1G	2f\]	0g	1b-
 .	4e\	.	.
 .	4d\	.	.
@@ -233,7 +227,6 @@
 .	.	.	[2ee\
 .	.	3f/Z	.
 =43	=43	=43	=43
-!!pagebreak:default
 1B-i	1G	3%2gV	2ee\]
 .	.	.	1dd
 .	.	3e/	.
@@ -274,7 +267,6 @@
 .	.	2a/	4g/
 .	.	.	4f/
 =49	=49	=49	=49
-!!linebreak:default
 0r	0r	2b-i\	2g/
 .	.	1a	2f/
 .	.	.	2d/
@@ -311,7 +303,6 @@
 1F	.	.	.
 .	[2d\	.	.
 =55	=55	=55	=55
-!!linebreak:default
 1G	2d\]	0r	0r
 .	1e	.	.
 1A	.	.	.
@@ -345,7 +336,6 @@
 .	.	1cc	2ee\
 .	.	.	2a/
 =61	=61	=61	=61
-!!linebreak:default
 0r	0r	2dd\	2bni\
 .	.	2a/	2cc\
 .	.	2b\	2dd\
@@ -378,7 +368,6 @@
 .	4A/	.	.
 .	[2A/	.	.
 =67	=67	=67	=67
-!!pagebreak:default
 1D	2A/]	1a	1dd
 .	1f	.	.
 1d	.	1r	1dd
@@ -413,7 +402,6 @@
 [0D	0d	3%4.f	1dd
 .	.	.	1r
 =73	=73	=73	=73
-!!linebreak:default
 0D]	0r	3%2r	3%4aV\
 .	.	3%4d	.
 .	.	.	3%2b-Z\
@@ -439,7 +427,6 @@
 .	.	3%2c	3%4aZ\
 .	.	[3%2d	.
 =79	=79	=79	=79
-!!linebreak:default
 0r	0r	3%2d]	3%2b-V
 .	.	3%2e	3%2cc
 .	.	3%2f	[3%2ddZ
@@ -470,7 +457,6 @@
 .	1r	1r	.
 .	.	.	2cc\
 =85	=85	=85	=85
-!!linebreak:default
 1r	1d	1f	1a
 1A	2c\	1e	1cc
 .	[2e\	.	.
@@ -504,7 +490,6 @@
 2E\	.	1g	1bni
 [2G\	[2B\	.	.
 =91	=91	=91	=91
-!!pagebreak:default
 2G\]	2B\]	1d	1dd
 1D	1d	.	.
 .	.	1f	1a
@@ -536,7 +521,6 @@
 3%4A	3%4e	3%4a	.
 .	.	.	3%2cc#iZ
 =97	=97	=97	=97
-!!linebreak:default
 *M2/1	*M2/1	*M2/1	*
 *met(C|)	*met(C|)	*met(C|)	*
 [0D	[0d	1f	0dd
@@ -580,7 +564,6 @@
 2D\	2d\	.	2ff\
 .	.	4g/	.
 =103	=103	=103	=103
-!!linebreak:default
 2.F\	2.A/	4a/	2ff\
 .	.	4b-i\	.
 .	.	1a	1ff

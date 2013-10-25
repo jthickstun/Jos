@@ -39,7 +39,6 @@
 1r	0d	0ff
 1B-	.	.
 =7	=7	=7
-!!linebreak:default
 1c	1c	1ee
 1G	1B	[1dd
 =8	=8	=8
@@ -56,7 +55,6 @@
 =12	=12	=12
 0c	0g	0r
 =13	=13	=13
-!!linebreak:default
 1f	1a	0r
 1f	1a	.
 =14	=14	=14
@@ -79,7 +77,6 @@
 0c	1e	0ee
 .	1g	.
 =19	=19	=19
-!!linebreak:default
 1d	1.f	1r
 1B	.	1dd
 .	4e\	.
@@ -106,7 +103,6 @@
 1D	1f	0r
 1E	[1e	.
 =25	=25	=25
-!!pagebreak:default
 0C	1e]	0gg
 .	1c	.
 =26	=26	=26
@@ -128,7 +124,6 @@
 1G	1g	1b
 [1F	[1a	[1cc
 =31	=31	=31
-!!linebreak:default
 1F]	1a]	1cc]
 1G	[1g	1b
 =32	=32	=32
@@ -150,7 +145,6 @@
 .	.	4dd\
 .	.	4cc\
 =37	=37	=37
-!!linebreak:default
 1G	1g	1b
 1B	1f	[1dd
 =38	=38	=38
@@ -175,7 +169,6 @@
 .	.	4dd\
 .	.	4cc\
 =43	=43	=43
-!!linebreak:default
 1G	1g]	2b\
 .	.	2cc\
 1B	1f	[1dd

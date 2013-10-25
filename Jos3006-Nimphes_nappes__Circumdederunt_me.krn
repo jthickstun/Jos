@@ -36,7 +36,6 @@
 0GG	1G	0r	1r	0r	1d
 .	1G	.	1G	.	1d
 =7	=7	=7	=7	=7	=7
-!!linebreak:default
 0C	2.E/	0r	1G	0r	1e
 .	4C/	.	.	.	.
 .	1C	.	1G	.	1e
@@ -63,7 +62,6 @@
 1r	0C	0r	0c	0r	0e
 1C	.	.	.	.	.
 =14	=14	=14	=14	=14	=14
-!!pagebreak:default
 1C	1c	0r	1r	0r	1e
 1C	1c	.	1c	.	1e
 =15	=15	=15	=15	=15	=15
@@ -97,7 +95,6 @@
 1FF	2F/	.	1A	.	.
 .	2F/	.	.	.	.
 =21	=21	=21	=21	=21	=21
-!!linebreak:default
 1C	0E	[0G	2G/	1c	0r
 .	.	.	2E/	.	.
 1C	.	.	[1G	1c	.
@@ -126,7 +123,6 @@
 0AA]	0r	1A]	0E	0e]	0c]
 .	.	1A	.	.	.
 =28	=28	=28	=28	=28	=28
-!!pagebreak:default
 1r	1G	0B-	1r	0r	0r
 1GG	1G	.	1G	.	.
 =29	=29	=29	=29	=29	=29
@@ -155,7 +151,6 @@
 =34	=34	=34	=34	=34	=34
 0FF	0A	0r	0F	[0c	0a
 =35	=35	=35	=35	=35	=35
-!!linebreak:default
 0F	1r	0r	1r	0c_	1r
 .	1f	.	1F	.	1a
 =36	=36	=36	=36	=36	=36
@@ -181,7 +176,6 @@
 2FF/	.	.	.	.	.
 [1F	1c	.	.	.	.
 =42	=42	=42	=42	=42	=42
-!!pagebreak:default
 2F\]	1.f	0r	1r	0r	0r
 2E\	.	.	.	.	.
 2D\	.	.	1F	.	.
@@ -216,7 +210,6 @@
 .	.	.	.	.	4g/
 1F	.	.	1c	1A	1f
 =49	=49	=49	=49	=49	=49
-!!linebreak:default
 0C	1r	1r	1c	1G	1e
 !! Quintus: E- is based on article by Patrick Macey: An Expressive Detail
 !! in Josquin's 'Nymphes, napp&eacute;s' (Early Music, August 2003).
@@ -252,7 +245,6 @@
 1BB-	2r	.	1B-	.	2r
 .	2D/	.	.	.	2f/
 =56	=56	=56	=56	=56	=56
-!!pagebreak:default
 1GG	1G	0r	1B-	0d]	1b-
 2r	1G	.	1G	.	1b-
 2GG/	.	.	.	.	.
@@ -289,7 +281,6 @@
 1FF	[1F	.	.	.	.
 .	.	.	.	.	2f/
 =63	=63	=63	=63	=63	=63
-!!linebreak:default
 [0BB-	2F/]	0F_	2r	[0d	[0fl
 .	2D/	.	2f\	.	.
 .	1D	.	2.f\	.	.

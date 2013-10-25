@@ -47,7 +47,6 @@
 .	.	.	1r
 .	.	.	1c
 =6	=6-	=6	=6
-!!linebreak:original
 0.r	0.ryy	1r	1.e
 .	.	1r	.
 .	.	.	2f/
@@ -84,7 +83,6 @@
 .	.	[2g\	4dd\
 .	.	.	4cc\
 =11	=11	=11	=11
-!!linebreak:original
 !	!LO:N:vis:0.	!	!
 0.r	0.r	4g\]	2b\
 .	.	4f\	.
@@ -123,7 +121,6 @@
 1A	.	.	.
 .	.	.	2b\
 =16	=16-	=16	=16
-!!pagebreak:original
 1G	0.ryy	0.r	1b
 1.c	.	.	1.a
 2B\	.	.	2g/
@@ -157,7 +154,6 @@
 2B\	.	.	.
 .	.	.	4e/
 =21	=21	=21	=21
-!!linebreak:original
 !	!LO:N:vis:0.	!	!
 1c	0.r	0.r	2c/
 .	.	.	2.g/
@@ -200,7 +196,6 @@
 1r	.	.	.
 [1C	.	.	.
 =26	=26-	=26	=26
-!!linebreak:original
 0.C]	1e]yy	0c]	0g
 .	0e	.	.
 .	.	1c	1cc
@@ -237,7 +232,6 @@
 .	.	2e\	.
 .	.	.	4a/
 =31	=31	=31	=31
-!!linebreak:original
 !	!LO:N:vis:0.	!	!
 0.r	0.r	2d\	2b\
 .	.	2c\	2.cc\
@@ -271,7 +265,6 @@
 2D\	.	.	.
 .	.	.	4b\
 =36	=36-	=36	=36
-!!pagebreak:original
 2C/	1A]yy	2e\	2cc\
 1F	.	2.f\	2.a/
 .	0A	.	.
@@ -317,7 +310,6 @@
 .	.	2f#i\	.
 .	.	.	4dd\
 =41	=41	=41	=41
-!!linebreak:original
 !	!LO:N:vis=0	!	!
 0.G	[y0.g	0.g	0b
 .	.	.	1r
@@ -347,7 +339,6 @@
 .	.	2e\	1g
 .	.	2f\	.
 =46	=46-	=46	=46
-!!linebreak:original
 0.C]	0.e]yy	1g	1c
 .	.	0c	1r
 .	.	.	1cc
@@ -378,7 +369,6 @@
 2F\	.	4d\	.
 .	.	4c\	.
 =51	=51	=51	=51
-!!linebreak:original
 !	!LO:N:vis=0	!	!
 1G	[y0.d	2.B\	1r
 .	.	4G/	.
@@ -415,7 +405,6 @@
 .	.	2B\	.
 .	.	.	4c/
 =57	=57	=57	=57
-!!pagebreak:original
 !	!LO:N:vis:0.	!	!
 2.C/	0.r	0.c	2.e/
 4D\	.	.	4f/
@@ -456,7 +445,6 @@
 =61	=61	=61	=61
 *	*rscale:1	*	*
 0.Cl	0.cl	0.cl	0.ccl
-!!linebreak:original
 !!LO:LB:i:g=z
 =62||	=62||	=62||	=62||
 !!section: Qui tollis
@@ -486,7 +474,6 @@
 .	.	4d\	.
 .	.	4c\	.
 =69	=69	=69	=69
-!!linebreak:original
 1r	0r	1d	0r
 1G	.	1d	.
 =70	=70	=70	=70
@@ -519,7 +506,6 @@
 .	.	4d\	.
 .	.	4c\	.
 =77	=77	=77	=77
-!!linebreak:original
 1G	0r	2.B\	0r
 .	.	4G/	.
 2F\	.	2A/	.
@@ -550,7 +536,6 @@
 1A	0r	1c	0r
 1G	.	[1g	.
 =85	=85	=85	=85
-!!pagebreak:original
 1c	0r	2g\]	0r
 .	.	2f\	.
 1c	.	1e	.
@@ -588,7 +573,6 @@
 2A\	.	.	.
 2B\	.	2B\	.
 =93	=93	=93	=93
-!!linebreak:original
 1c	0r	1A	0r
 2B\	.	2G/	.
 [2A\	.	[2c\	.
@@ -623,7 +607,6 @@
 .	.	2B\	.
 =99	=99	=99	=99
 0Cl	0r	0cl	0r
-!!linebreak:original
 !!LO:LB:i:g=z
 =100||	=100||	=100||	=100||
 !!section: Qui sedes
@@ -658,7 +641,6 @@
 4G\	.	.	2f/
 4F\	.	.	.
 =107	=107-	=107	=107
-!!linebreak:original
 1E	0c]yy	2c\]	1g
 .	.	2B\	.
 1F	.	1A	1a
@@ -686,7 +668,6 @@
 1C	.	1c	.
 .	.	.	[3%2gZ
 =114	=114	=114	=114
-!!pagebreak:original
 1C	0e]	2G/	3%2g]V
 .	.	2.c\	.
 .	.	.	3%4gZ
@@ -719,7 +700,6 @@
 .	.	2B\	.
 .	.	1A	1cc
 =121	=121-	=121	=121
-!!linebreak:original
 0r	0r	1G	1b
 .	.	[1c	1a
 =122	=122	=122	=122
@@ -750,7 +730,6 @@
 [0C	0e	1r	1ee
 .	.	[1c	1r
 =128	=128	=128	=128
-!!linebreak:original
 0C]	0r	2c\]	1r
 .	.	2B\	.
 .	.	1c	1ee
@@ -779,7 +758,6 @@
 .	.	2c\	2ee\
 .	.	2G/	[2dd\
 =135	=135	=135	=135
-!!linebreak:original
 0r	0r	1c	2dd\]
 .	.	.	1cc
 .	.	1d	.
@@ -807,7 +785,6 @@
 =142	=142	=142	=142
 *	*M2/1	*	*
 *	*met(C|)	*	*
-!!pagebreak:original
 0C]	0e	1.c	0r
 .	.	2B\	.
 =143	=143	=143	=143
@@ -833,7 +810,6 @@
 1.C	0e	0c	1.gg
 2D\	.	.	2ff\
 =149	=149	=149	=149
-!!linebreak:original
 2.E\	1e	0G	2ee\
 .	.	.	4dd\
 4F\	.	.	4cc\
@@ -870,7 +846,6 @@
 2E\	2g\	.	1r
 2F\	[2f\	.	.
 =155	=155	=155	=155
-!!linebreak:original
 2D\	2f\]	1r	1a
 2F\	2f\	.	.
 1C	1e	[1c	2g/
@@ -905,7 +880,6 @@
 2E\	2e\	.	.
 2F\	[2d\	2f\	2a/
 =161	=161	=161	=161
-!!linebreak:original
 1G	2d\]	2d\	1b
 .	2d\	2g\	.
 1A	1c	2e\	1cc

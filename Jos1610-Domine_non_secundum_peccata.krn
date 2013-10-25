@@ -43,7 +43,6 @@
 .	.	2A/	1f
 .	.	2d\	.
 =7	=7	=7	=7
-!!linebreak:default
 0r	0r	2r	1g
 .	.	2.G/	.
 .	.	.	[1b-
@@ -80,7 +79,6 @@
 .	.	.	1g
 .	.	2e\	.
 =13	=13	=13	=13
-!!linebreak:default
 0r	0r	2f\	0f
 .	.	1B-	.
 .	.	4A/	.
@@ -116,7 +114,6 @@
 .	.	2d\	2b-\
 .	.	[2e-\	[2cc\
 =20	=20	=20	=20
-!!linebreak:default
 0r	0r	4e-\]	2cc\]
 .	.	4d\	.
 .	.	4c\	1b-
@@ -158,7 +155,6 @@
 .	.	.	1a
 .	.	2f\	.
 =27	=27	=27	=27
-!!linebreak:default
 0r	0r	2g\	0g
 .	.	2c\	.
 .	.	2r	.
@@ -196,7 +192,6 @@
 .	.	1c	.
 .	.	.	2a/
 =34	=34	=34	=34
-!!linebreak:default
 0r	0r	1B-	1b-
 .	.	1r	[1cc
 =35	=35	=35	=35
@@ -225,7 +220,6 @@
 .	.	2.e-\	1g
 .	.	4d\	.
 =41	=41	=41	=41
-!!pagebreak:default
 0r	0r	2c\	1g
 .	.	2B-\	.
 .	.	2A/	2f/
@@ -256,7 +250,6 @@
 0r	0r	0g	0g
 !!LO:LB:i:g=z
 =47||	=47||	=47||	=47||
-!!linebreak:default
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Secunda pars: Domine, ne memineris
@@ -287,7 +280,6 @@
 2E\	.	.	.
 2F\	.	.	.
 =53	=53	=53	=53
-!!linebreak:default
 1BB-	1.d	0r	0r
 1F	.	.	.
 .	2c\	.	.
@@ -318,7 +310,6 @@
 2F\	2A/	.	.
 2G\	[2B-\	.	.
 =60	=60	=60	=60
-!!linebreak:default
 2D\	2B-\]	0r	0r
 1G	4A/	.	.
 .	4G/	.	.
@@ -350,7 +341,6 @@
 .	[1c	.	.
 2E\	.	.	.
 =67	=67	=67	=67
-!!linebreak:default
 1F	1c]	0r	0r
 1G	[1B-	.	.
 =68	=68	=68	=68
@@ -383,7 +373,6 @@
 1B-	.	.	.
 2G\	.	.	.
 =74	=74	=74	=74
-!!linebreak:default
 2A\	2r	0r	0r
 2B-\	2G/	.	.
 [1G	2G/	.	.
@@ -418,7 +407,6 @@
 1D	2F/	.	.
 .	[2A/	.	.
 =81	=81	=81	=81
-!!linebreak:default
 1C	4A/]	0r	0r
 .	4G/	.	.
 .	2.G/	.	.
@@ -454,7 +442,6 @@
 =87	=87	=87	=87
 0Fl;	0Fl;	0r;	0r;
 =88	=88	=88	=88
-!!pagebreak:default
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(3)	*met(3)	*met()	*met()
 !!primary-mensuration: met(3)
@@ -485,7 +472,6 @@
 .	1F	.	.
 1r	1F	.	.
 =94	=94	=94	=94
-!!linebreak:default
 1BB-	1G	0.r	0.r
 1BB-	1F	.	.
 1BB-	[1G	.	.
@@ -515,7 +501,6 @@
 .	1A	.	.
 2C/	.	.	.
 =100	=100	=100	=100
-!!linebreak:default
 1D	1B-	0.r	0.r
 1E	0c	.	.
 1F	.	.	.
@@ -540,7 +525,6 @@
 =105	=105	=105	=105
 0.BB-;l	0.B-;l	0.r;	0.r;
 =106||	=106||	=106||	=106||
-!!linebreak:default
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 *	*	*xtacet	*xtacet
@@ -568,7 +552,6 @@
 1C	1A	1E	0r
 1BB-	1B-	1F	.
 =115	=115	=115	=115
-!!linebreak:default
 0E-	0c	0G	0r
 =116	=116	=116	=116
 1.D	1.B-	1.F	1r
@@ -605,7 +588,6 @@
 0GG	0G	0B-	0g
 !!LO:LB:i:g=z
 =123||	=123||	=123||	=123||
-!!pagebreak:default
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Tertia pars: Adjuva nos, deus
@@ -633,7 +615,6 @@
 0r	0d	1d	0r
 .	.	[1d	.
 =131	=131	=131	=131
-!!linebreak:default
 0r	0e-	2d\]	1g
 .	.	4c\	.
 .	.	4B-\	.
@@ -664,7 +645,6 @@
 0C	0G	1d]	0e-i
 .	.	1c	.
 =139	=139	=139	=139
-!!linebreak:default
 0D	0F	1B-	[0d
 .	.	1A	.
 =140	=140	=140	=140
@@ -690,7 +670,6 @@
 0G	0B-	[0d	1a]
 .	.	.	1g
 =147	=147	=147	=147
-!!linebreak:default
 0D	1A	0d]	1a
 .	[1B-	.	1f
 =148	=148	=148	=148
@@ -722,7 +701,6 @@
 1G	.	2e-i\	.
 .	.	[2d\	.
 =155	=155	=155	=155
-!!pagebreak:default
 1G	0r	2d\]	0r
 .	.	2B-\	.
 1A	.	2.c\	.
@@ -760,7 +738,6 @@
 .	.	4f\	.
 .	.	4e\	.
 =162	=162	=162	=162
-!!linebreak:default
 1D]	1r	1f	1a]
 [1E-	[1G	1B-	1g
 =163	=163	=163	=163
@@ -797,7 +774,6 @@
 .	.	4B-\	.
 1D	1F	1A	1r
 =169	=169	=169	=169
-!!linebreak:default
 1E-i	1G	2r	0r
 .	.	1g	.
 1C	[1A	.	.
@@ -836,7 +812,6 @@
 1D	2A/	[1d	.
 .	[2B-\	.	.
 =176	=176	=176	=176
-!!linebreak:default
 0E-i	2B-\]	1d]	0r
 .	2A/	.	.
 .	1G	1c	.
@@ -867,7 +842,6 @@
 1GG	1B-	1d	0g
 1C	1c	1e	.
 =184	=184	=184	=184
-!!pagebreak:default
 1D	1A	0d	1f
 1BB-	1B-	.	[1g
 =185	=185	=185	=185
@@ -898,7 +872,6 @@
 1D	1F	.	.
 1E-i	1G	.	.
 =192	=192	=192	=192
-!!linebreak:default
 0D	0A	0d	0f
 1r	1G	1B-	1g
 =193	=193	=193	=193
@@ -927,7 +900,6 @@
 1r	0A	1e	.
 1D	.	1f	.
 =199	=199	=199	=199
-!!linebreak:default
 1E-	1G	0B-	1g
 1D	1r	.	1f
 1E-i	1r	1G	[1g
@@ -959,7 +931,6 @@
 1F	.	1f	1a
 .	2B-\	.	.
 =206	=206	=206	=206
-!!linebreak:default
 1G	1G	1B-	1b-
 1A	1F	1f	1.cc
 1B-	[1B-	1d	.
@@ -987,7 +958,6 @@
 =212	=212	=212	=212
 0E-]	[0B-	0G]	0r
 =213	=213	=213	=213
-!!pagebreak:default
 1.D	1B-]	0F	0r
 .	1A	.	.
 2C/	.	.	.
@@ -1017,7 +987,6 @@
 .	.	4e\	.
 1F	[1c	1f	1a
 =220	=220	=220	=220
-!!linebreak:default
 1.E-i	2c\]	1g	2r
 .	2B-\	.	2.g/
 .	2c\	2G/	.
@@ -1055,7 +1024,6 @@
 1BB-	2B-\	1d	.
 .	[2d\	.	.
 =227	=227	=227	=227
-!!linebreak:default
 1E-i	2d\]	1G	1g
 .	2c\	.	.
 2D\	2A/	1d	2f/
@@ -1089,7 +1057,6 @@
 2C/	.	2E/	2e/
 [2D\	.	2D/	[2f/
 =233	=233	=233	=233
-!!linebreak:default
 1D]	0A_	2.f\	4f/]
 .	.	.	4g/
 .	.	.	4a/

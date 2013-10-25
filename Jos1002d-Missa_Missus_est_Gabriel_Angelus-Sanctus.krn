@@ -58,7 +58,6 @@
 .	[1d	1f	2a/
 .	.	.	[2b-\
 =7	=7	=7	=7
-!!linebreak:original
 0GG	2d\]	1B-	2b-\]
 .	4c\	.	2a/
 .	4d\	.	.
@@ -105,7 +104,6 @@
 [2G\	.	4B-\	.
 .	.	4A/	.
 =14	=14	=14	=14
-!!linebreak:original
 2G\]	0r	2.B-\	1g]
 2G\	.	.	.
 .	.	4G/	.
@@ -157,7 +155,6 @@
 4E\	[2G/	[2B-\	.
 4F\	.	.	4a/
 =21	=21	=21	=21
-!!pagebreak:original
 2G\	4G/]	4B-\]	2.b-\
 .	4A/	4c\	.
 4F\	4B-\	2.d\	.
@@ -198,7 +195,6 @@
 .	.	4e\	.
 .	.	[2f\	.
 =28	=28	=28	=28
-!!linebreak:original
 0r	0r	2f\]	1.cc
 .	.	4e\	.
 .	.	4d\	.
@@ -241,7 +237,6 @@
 .	.	4f\	.
 .	.	4e\	4g/
 =35	=35	=35	=35
-!!linebreak:original
 0r	0r	0d	2a/
 .	.	.	2.b-\
 .	.	.	8a/L
@@ -287,7 +282,6 @@
 .	.	4F/	[2cc\
 .	.	4G/	.
 =42	=42	=42	=42
-!!linebreak:original
 0r	0r	4A/	2cc\]
 .	.	4B-\	.
 .	.	4c\	4b-\
@@ -332,7 +326,6 @@
 .	.	2e\	.
 .	.	2d\	2b-\
 =49	=49	=49	=49
-!!pagebreak:original
 0r	0r	1f	2a/
 .	.	.	1cc
 .	.	2e\	.
@@ -381,7 +374,6 @@
 [0G	[0B-	1.d	0r
 .	.	[2B-\	.
 =56	=56	=56	=56
-!!linebreak:original
 0G]	0B-]	4B-\]	0r
 .	.	4c\	.
 .	.	2d\	.
@@ -419,7 +411,6 @@
 .	.	2r	.
 [2BB-/	.	[2f\	.
 =63	=63	=63	=63
-!!linebreak:original
 4BB-/]	1r	4f\]	0r
 4C/	.	4e\	.
 2D\	.	4d\	.
@@ -466,7 +457,6 @@
 .	2B-\	[2d\	4f#i/
 .	.	.	4e/
 =70	=70	=70	=70
-!!linebreak:original
 1D	1A	2d\]	1f#i
 .	.	2d\	.
 2E\	1G	2B-\	1g
@@ -505,7 +495,6 @@
 .	.	4c\	.
 .	.	4B-\	.
 =77	=77	=77	=77
-!!pagebreak:original
 0r	0r	2c\	0a
 .	.	2d\	.
 .	.	2A/	.
@@ -549,7 +538,6 @@
 .	.	4A/	.
 .	.	4G/	.
 =84	=84	=84	=84
-!!linebreak:original
 2D\]	0r	2F/	1d]
 4C/	.	1A	.
 4BB-/	.	.	.
@@ -596,7 +584,6 @@
 .	.	2d\	4g/
 .	.	.	4f/
 =91	=91	=91	=91
-!!linebreak:original
 0r	0r	1e-i	2.g/
 .	.	.	4a/
 .	.	[1d	1b-
@@ -638,7 +625,6 @@
 2G\	.	2r	1r
 2D\	.	2d\	.
 =98	=98	=98	=98
-!!linebreak:original
 2.F\	0r	2d\	0r
 .	.	2A/	.
 4E\	.	.	.
@@ -689,7 +675,6 @@
 [2F\	.	.	4a/
 .	.	4e\	4b-\
 =105	=105	=105	=105
-!!pagebreak:original
 4F\]	0r	2.c\	2.cc\
 4E\	.	.	.
 2C/	.	.	.
@@ -740,7 +725,6 @@
 1D	.	1A	.
 .	.	.	2f#i/
 =112	=112	=112	=112
-!!linebreak:original
 0GGl	0r	0Gl	0gl
 !!LO:TX:i:Y=40:rj:t=Osanna ut supra
 ==	==	==	==

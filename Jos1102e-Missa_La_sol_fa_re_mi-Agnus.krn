@@ -46,7 +46,6 @@
 1F	.	.	1a
 .	.	2d\	.
 =6	=6	=6	=6
-!!linebreak:default
 1E	1B	1e	0g
 1C	1e	2r	.
 .	.	2E/	.
@@ -82,7 +81,6 @@
 2A\	.	2r	2e/
 2A\	.	2e\	2e/
 =11	=11	=11	=11
-!!linebreak:default
 2E\	0B	2e\	2.g/
 2E\	.	2e\	.
 .	.	.	4f/
@@ -133,7 +131,6 @@
 1r	1d	.	1B
 .	.	2G#i/	.
 =16	=16	=16	=16
-!!pagebreak:default
 0A	1c	2A/	2r
 .	.	1e	2A/
 .	1A	.	1c
@@ -164,7 +161,6 @@
 1G	1E	2B\	2e/
 .	.	[2e\	2b\
 =21	=21	=21	=21
-!!linebreak:default
 1F	0.r	4e\]	2cc\
 .	.	4d\	.
 .	.	2.f\	2.dd\
@@ -203,7 +199,6 @@
 1G	.	2r	1b
 .	2d\	2B\	.
 =25	=25	=25	=25
-!!linebreak:default
 1A	2c\	4c\	2r
 .	.	4A/	.
 .	2A/	4c\	2e/
@@ -240,7 +235,6 @@
 !!LO:LB:i:g=z
 !LO:TX:rj:i:t=fine	!	!	!
 =29||	=29||	=29||	=29||
-!!linebreak:default
 *>B	*>B	*>B	*>B
 !!section: Agnus Dei II
 !!!OMD: Agnus Dei II
@@ -269,7 +263,6 @@
 .	.	.	2b\
 .	.	.	[2cc\
 =33	=33	=33	=33
-!!linebreak:default
 0.r	0.r	0e]	2cc\]
 .	.	.	4b\
 .	.	.	4a/
@@ -299,7 +292,6 @@
 .	.	2A/	2r
 .	.	2B\	2g/
 =37	=37	=37	=37
-!!pagebreak:default
 0.r	0.r	2r	2a/
 .	.	2.e\	1g
 .	.	4d\	.
@@ -330,7 +322,6 @@
 .	.	.	4c/
 .	.	2B\	2d/
 =41	=41	=41	=41
-!!linebreak:default
 0.r	0.r	2r	2e/
 .	.	2e\	2c/
 .	.	2d\	2d/
@@ -360,7 +351,6 @@
 .	.	.	4a/
 .	.	2A/	[2a/
 =45	=45	=45	=45
-!!linebreak:default
 0.r	0.r	2B\	2a/]
 .	.	1e	2g/
 .	.	.	1f

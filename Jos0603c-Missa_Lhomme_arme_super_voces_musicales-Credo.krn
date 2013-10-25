@@ -52,7 +52,6 @@
 .	.	4F/	2d/
 .	.	4G/	.
 =5	=5-	=5	=5
-!!linebreak:default
 0AA	0.r	2.A/	2c/
 .	.	.	2.e/
 .	.	4B\	.
@@ -88,7 +87,6 @@
 .	.	4E/	.
 .	.	2D/	.
 =9	=9-	=9	=9
-!!linebreak:default
 2.AA/	1A	1C	1e
 4BB/	.	.	.
 2C/	0G	1r	2e/
@@ -128,7 +126,6 @@
 .	.	.	4b\
 .	.	.	2a/
 =13	=13	=13	=13
-!!pagebreak:default
 0E	1B	1e]	1g
 .	1B	2r	2r
 .	.	2E/	2.g/
@@ -166,7 +163,6 @@
 2F\	.	.	2f/
 2C/	2G/	.	2e/
 =17	=17-	=17	=17
-!!linebreak:default
 2D\	2F/	1A	4f/
 .	.	.	4d/
 2C/	2E/	.	2e/
@@ -210,7 +206,6 @@
 .	.	.	2e/
 .	.	4c#i\	.
 =21	=21	=21	=21
-!!linebreak:default
 0D	0.r	1.d	1d
 .	.	.	2r
 .	.	4c\	1a
@@ -243,7 +238,6 @@
 .	.	2.E/	.
 .	.	4F/	.
 =25	=25	=25	=25
-!!linebreak:default
 0.r	0.B	4G/	0.r
 .	.	4A/	.
 .	.	1G	.
@@ -285,7 +279,6 @@
 .	.	2d\	2d/
 .	.	2G/	2g/
 =30	=30-	=30	=30
-!!pagebreak:default
 0A	0.e	2r	1c
 .	.	1c	.
 .	.	.	1r
@@ -328,7 +321,6 @@
 =35	=35	=35	=35
 *	*M9/1	*	*
 *	*met(O.)	*	*
-!!linebreak:default
 2E\	0.r	2r	4g/
 .	.	.	4f/
 2A\	.	2c\	2e/
@@ -368,7 +360,6 @@
 .	.	2c\	.
 .	.	.	4B/
 =39	=39-	=39	=39
-!!linebreak:default
 2r	0.E	2B\	2G/
 2AA/	.	2A/	1A
 1AA	.	2.c\	.
@@ -407,7 +398,6 @@
 .	.	.	2a/
 .	.	1A	1a
 =44	=44	=44	=44
-!!linebreak:default
 0.r	0.E	2.e\	1g
 .	.	4e\	.
 .	.	2e\	2g/
@@ -440,7 +430,6 @@
 4D\	.	4F/	4f/
 2BB/	.	2G/	2d/
 =48	=48-	=48	=48
-!!pagebreak:default
 1AA	0.E	1A	2.c/
 .	.	.	8B/L
 .	.	.	8A/J
@@ -479,7 +468,6 @@
 2F\	.	.	.
 .	.	.	4f/
 =52	=52-	=52	=52
-!!linebreak:default
 1G	0.B	2E/	2e/
 .	.	2.G/	2d/
 2E\	.	.	2g/
@@ -513,7 +501,6 @@
 4F\	.	[2d\	.
 4E\	.	.	4e/
 =55	=55-	=55	=55
-!!linebreak:default
 1.D	0.F	2d\]	4f/
 .	.	.	4g/
 .	.	4c\	1f
@@ -553,7 +540,6 @@
 *	*rscale:1	*	*
 !!LO:LB:g=z
 =59||	=59||	=59||	=59||
-!!linebreak:default
 *>B	*>B	*>B	*>B
 !!section: Et incarnatus est
 !!!OMD: Et incarnatus est
@@ -593,7 +579,6 @@
 !	!LO:N:vis=1.	!	!
 1D	[y1A	1d	1d
 =67	=67-	=67	=67
-!!pagebreak:default
 0AA	0A]yy	2c\	1e
 .	.	2A/	.
 .	.	2.c\	2r
@@ -639,7 +624,6 @@
 1E	.	2B\	[1g
 .	.	[2e\	.
 =74	=74-	=74	=74
-!!linebreak:default
 !	!LO:N:vis=1.	!	!
 1r	[y0E	4e\]	2g/]
 .	.	4d\	.
@@ -683,7 +667,6 @@
 0AA	[y0E	0A	1a
 .	.	.	1cc
 =81	=81-	=81	=81
-!!linebreak:default
 1r	1E]yy	1G	1b
 =-	=	=-	=-
 !	!LO:N:vis=1.	!	!
@@ -731,7 +714,6 @@
 .	.	.	4e/
 .	.	.	4d/
 =88	=88-	=88	=88
-!!linebreak:default
 0G]	0E]yy	2r	2e/
 .	.	2.g\	2c/
 .	.	.	1B
@@ -785,7 +767,6 @@
 .	.	2G/	.
 .	.	2E/	[2g/
 =95	=95	=95	=95
-!!pagebreak:default
 *	*M6/1	*	*
 *	*met(C.)	*	*
 !	!LO:N:vis=1.	!	!
@@ -827,7 +808,6 @@
 .	.	4B\	.
 .	.	4A/	.
 =102	=102-	=102	=102
-!!linebreak:default
 0E	1e]yy	2c\	[0g
 .	.	2B\	.
 !	!LO:N:vis=1.	!	!
@@ -855,7 +835,6 @@
 !	!LO:N:vis=1.	!	!
 .	[y1B	[1e	.
 =109	=109-	=109	=109
-!!linebreak:default
 0E]	0B]yy	0e]	1r
 .	.	.	1g
 =110	=110	=110	=110
@@ -892,7 +871,6 @@
 4F\	.	.	4a/
 1E	.	.	1g
 =116	=116	=116	=116
-!!linebreak:default
 !	!LO:N:vis=1.	!	!
 2r	0r	2r	2r
 2A\	.	2c\	2e/
@@ -935,7 +913,6 @@
 2r	1B	1E	1g
 2E\	.	.	.
 =123	=123-	=123	=123
-!!pagebreak:default
 2F\	2A/	2r	1r
 2G\	[2B\	2E/	.
 =-	=	=-	=-
@@ -980,7 +957,6 @@
 .	.	.	4b\
 .	.	.	[2a/
 =130	=130-	=130	=130
-!!linebreak:default
 0r	1F]yy	1d	2a/]
 .	.	.	4g/
 .	.	.	4f/
@@ -1012,7 +988,6 @@
 *	*rscale:1	*	*
 !!LO:LB:g=z
 =137||	=137||	=137||	=137||
-!!linebreak:default
 *>C	*>C	*>C	*>C
 !!section: Confiteor
 !!!OMD: Confiteor
@@ -1058,7 +1033,6 @@
 1ryy	1E	1B	2a]yy
 .	.	.	2g#i/
 =142	=142-	=142	=142
-!!linebreak:default
 1AA	2E/	4A/	0a
 .	.	4B\	.
 .	1.A	4c\	.
@@ -1095,7 +1069,6 @@
 .	2r	.	4f/
 .	.	.	4e/
 =147	=147-	=147	=147
-!!pagebreak:default
 2G\]	1B	2B\]	2d/
 4F\	.	2c\	2e/
 4E\	.	.	.
@@ -1143,7 +1116,6 @@
 4F\	.	[2d\	.
 4E\	.	.	4e/
 =152	=152	=152	=152
-!!linebreak:default
 2D\	1.r	4d\]	4f/
 .	.	4c\	4g/
 2F\	.	2A/	1a
@@ -1179,7 +1151,6 @@
 [1D	1d	2f\	2a]yy
 .	.	2d\	[2dd\
 =157	=157-	=157	=157
-!!linebreak:default
 2D\]	2d\	2f\	2dd\]
 2AA/	2e\	2e\	1cc
 2.C/	1c	2r	.
@@ -1216,7 +1187,6 @@
 .	2r	.	.
 .	.	4d\	.
 =162	=162-	=162	=162
-!!linebreak:default
 1AA	1ryy	4c\	2.a/
 .	.	4B\	.
 !	!	!LO:N:vis=1	!
@@ -1257,7 +1227,6 @@
 2E\	.	1B	.
 2E\	.	.	2g#i/
 =167	=167	=167	=167
-!!pagebreak:default
 2AA/	1.A	4A/	0a
 .	.	4B\	.
 1A	.	4c\	.
@@ -1296,7 +1265,6 @@
 2D\	[y1B	2d\	2f/
 [2E\	.	2B\	2g/
 =172	=172-	=172	=172
-!!linebreak:default
 4E\]	2B\]yy	1.e	2e/
 4D\	.	.	.
 4E\	1.E	.	1g
@@ -1335,7 +1303,6 @@
 .	.	.	4g/
 2D\	2A/	2d\	[2f/
 =177	=177-	=177	=177
-!!linebreak:default
 2E\	1G	2B\	2f/]
 2C/	.	2c\	2e/
 !	!LO:N:vis=1.	!	!

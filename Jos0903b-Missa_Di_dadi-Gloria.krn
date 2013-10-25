@@ -56,7 +56,6 @@
 2AA/	.	1F	2c/
 [2D\	.	.	2d/
 =7	=7-	=7	=7
-!!linebreak:original
 1D]	0.r	1F	2.A/
 .	.	.	4B-/
 2AA/	.	2E/	2c/
@@ -102,7 +101,6 @@
 .	.	.	1r
 2GG/	.	2G/	.
 =13	=13	=13	=13
-!!linebreak:original
 0GG	0r	0.G	1b-
 .	.	.	2a/
 .	.	.	1g
@@ -141,7 +139,6 @@
 1BB-	.	2.B-\	.
 .	.	4c\	.
 =19	=19-	=19	=19
-!!pagebreak:original
 1GG	0B-	0.d	1r
 0D	.	.	1r
 !	!LO:N:vis=1	!	!
@@ -177,7 +174,6 @@
 0G	0B-	.	0g
 .	.	1d	.
 =25	=25	=25	=25
-!!linebreak:original
 1F	0c	2A/	1.a
 .	.	1c	.
 2C/	.	.	.
@@ -229,7 +225,6 @@
 =30	=30-	=30	=30
 0.GG]	0.G]	0.Dl	0.g]
 !!LO:LB:i:g=z
-!!linebreak:original
 =31||	=31||	=31||	=31||
 *>B	*>B	*>B	*>B
 !!section: Domine deus, rex celestis
@@ -259,7 +254,6 @@
 1GG]	0r	1G	1b-]
 [1D	.	1A	[1a
 =37	=37	=37	=37
-!!linebreak:original
 1D]	0r	0B-	2a/]
 .	.	.	2g/
 1E	.	.	[1g
@@ -284,7 +278,6 @@
 1G	0r	0G	1B-
 [1C	.	.	[1e-i
 =43	=43	=43	=43
-!!pagebreak:original
 1C]	0r	1G	2e-/]
 .	.	.	2d/
 [1D	.	1F	[1d
@@ -307,7 +300,6 @@
 1C	0r	0A	1e
 [1D	.	.	[1f
 =49	=49	=49	=49
-!!linebreak:original
 1D]	0r	0d	2f/]
 .	.	.	4e/
 .	.	.	4d/
@@ -334,7 +326,6 @@
 1D	.	.	2A/
 .	.	.	[2d/
 =55	=55	=55	=55
-!!linebreak:original
 1GG	0r	0G	2d/]
 .	.	.	1G
 1G	.	.	.
@@ -379,7 +370,6 @@
 .	.	.	[2a/
 6E\	.	.	.
 =61	=61	=61	=61
-!!linebreak:original
 3%2G	0r	2B-\	4a/]
 .	.	.	4g/
 .	.	2G/	1g
@@ -425,7 +415,6 @@
 *	*tacet	*	*tacet
 [0GG	0r	0D	0r
 =67	=67	=67	=67
-!!pagebreak:original
 1GG]	0r	1D	0r
 1GG	.	1G	.
 =68	=68	=68	=68
@@ -452,7 +441,6 @@
 4E\	.	.	.
 4F\	.	.	.
 =73	=73	=73	=73
-!!linebreak:original
 0G	0r	1d]	0r
 .	.	[1G	.
 =74	=74	=74	=74
@@ -479,7 +467,6 @@
 [1B-	.	.	.
 .	.	[2G/	.
 =79	=79	=79	=79
-!!linebreak:original
 1B-]	0r	2G/]	0r
 .	.	2d\	.
 [1A	.	2c\	.
@@ -512,7 +499,6 @@
 2.D\	.	2.F/	.
 4E\	.	4G/	.
 =85	=85	=85	=85
-!!linebreak:original
 2.F\	0r	2.A/	0r
 4G\	.	4B-\	.
 2A\	.	2c\	.
@@ -549,7 +535,6 @@
 4E\	.	4G/	.
 1D	.	1A	1f
 =91	=91	=91	=91
-!!pagebreak:original
 1GG	0r	1B-	1g
 2r	.	[1G	[1b-
 2GG/	.	.	.
@@ -590,7 +575,6 @@
 4E\	.	.	.
 2F\	.	.	.
 =97	=97	=97	=97
-!!linebreak:original
 1.BB-	0r	1F]	1d
 .	.	[1G	1d
 4AA/	.	.	.
@@ -621,7 +605,6 @@
 .	.	4G/	.
 1F	.	1A	1c
 =103	=103	=103	=103
-!!linebreak:original
 2.BB-/	0r	0B-	2.d/
 4C/	.	.	4e/
 2D\	.	.	2f/
@@ -655,7 +638,6 @@
 4F\	.	.	4a/
 1G	.	.	[1b-
 =109	=109	=109	=109
-!!linebreak:original
 1GG	0r	0B-]	1b-]
 2r	.	.	1f
 [2B-\	.	.	.
@@ -696,7 +678,6 @@
 2G\	.	1d	2b-\
 [2F\	.	.	[2a/
 =115	=115	=115	=115
-!!pagebreak:original
 4F\]	0r	2c\	2a/]
 4E\	.	.	.
 2G\	.	2B-\	1g
@@ -727,7 +708,6 @@
 [0GG	0ryy	[0G	1.B-
 .	.	.	2G/
 =121	=121-	=121	=121
-!!linebreak:original
 !	!LO:N:vis=1	!	!
 0GG]	0r	1G]	2B-/
 .	.	.	2c/
@@ -752,7 +732,6 @@
 1r	0ryy	0D	1d]
 [1D	.	.	[1f
 =127	=127-	=127	=127
-!!linebreak:original
 1D]	0ryy	[0A	2f/]
 .	.	.	2e/
 1C	.	.	[1e
@@ -782,7 +761,6 @@
 .	.	[1A	.
 .	.	.	2B-/
 =133	=133-	=133	=133
-!!linebreak:original
 !	!LO:N:vis=1	!	!
 [0AA	0r	2A/]	2c/
 .	.	2B-\	2d/
@@ -817,7 +795,6 @@
 2E\	.	2c\	.
 2D\	.	[2d\	.
 =139	=139-	=139	=139
-!!pagebreak:original
 2F\	0ryy	2d\]	0r
 2G\	.	4c\	.
 .	.	4B-\	.
@@ -841,7 +818,6 @@
 0GG	0G]yy	1D	1d
 .	.	1D	1d
 =145	=145-	=145	=145
-!!linebreak:original
 !	!LO:N:vis=2	!	!
 1GG	[y0B-	1G	1d
 1GG	.	1G	1d
@@ -870,7 +846,6 @@
 .	.	2A/	.
 .	.	[2B-\	.
 =151	=151-	=151	=151
-!!linebreak:original
 0D]	0d_yy	2B-\]	0f]
 .	.	4A/	.
 .	.	4G/	.
@@ -899,7 +874,6 @@
 0r	0B-]yy	1G	0r
 .	.	[1d	.
 =157	=157-	=157	=157
-!!linebreak:original
 !	!LO:N:vis=2	!	!
 0r	[y0G	2d\]	0r
 .	.	4c\	.
@@ -934,7 +908,6 @@
 .	.	4E/	.
 .	.	1D	[1d
 =163	=163-	=163	=163
-!!pagebreak:original
 2D\	0B-_yy	0r	2d/]
 2E\	.	.	2G/
 2D\	.	.	2.B-/
@@ -975,7 +948,6 @@
 .	.	2G/	.
 4C/	.	.	4e/
 =169	=169-	=169	=169
-!!linebreak:original
 2.D\	0d_yy	2F/	2.f/
 .	.	2B-\	.
 4E\	.	.	4g/
@@ -1006,7 +978,6 @@
 .	.	.	2e/
 .	.	.	2f/
 =175	=175-	=175	=175
-!!linebreak:original
 0r	0A_yy	0r	2e/
 .	.	.	2.a/
 .	.	.	4b-\
@@ -1035,7 +1006,6 @@
 1C	0G]yy	1E	0r
 1GG	.	[1D	.
 =181	=181-	=181	=181
-!!linebreak:original
 !	!LO:N:vis=1	!	!
 [0D	[y0F	1D]	2A/
 .	.	.	2B-/
@@ -1071,7 +1041,6 @@
 4D\	.	.	.
 1C	.	.	.
 =187	=187-	=187	=187
-!!pagebreak:original
 !	!LO:N:vis=2	!	!
 0BB-	[y0B-	0F	0d
 =188	=188-	=188	=188
@@ -1096,7 +1065,6 @@
 3%4.r	0B-]yy	3%4.r	3%4G
 .	.	.	3%2G
 =193	=193-	=193	=193
-!!linebreak:original
 !	!LO:N:vis=1	!	!
 3%2.GG	[y0G	3%2.G	3%2.B-
 3AA/	.	3F/	3c/
@@ -1128,7 +1096,6 @@
 3%2D	.	3%2F	3d/
 .	.	.	3f/
 =199	=199-	=199	=199
-!!linebreak:original
 3%2AA	0A_yy	3%2r	3e/
 .	.	.	3%2a
 3%4D	.	3.F/	.

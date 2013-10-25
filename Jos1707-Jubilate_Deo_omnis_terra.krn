@@ -46,7 +46,6 @@
 0r	0r	1d	1b
 .	.	1e	1g
 =7	=7	=7	=7
-!!linebreak:default
 0r	0r	2c\	1a
 .	.	2d\	.
 .	.	1B	1b
@@ -83,7 +82,6 @@
 .	1E	.	.
 2D\	.	.	.
 =14	=14	=14	=14
-!!linebreak:default
 1E	2r	0e]	0r
 .	1G	.	.
 1C	.	.	.
@@ -125,7 +123,6 @@
 .	.	4c\	.
 1G	.	1B	.
 =21	=21	=21	=21
-!!pagebreak:default
 0F	1r	2c\	0a
 .	.	2A/	.
 .	1A	2c\	.
@@ -168,7 +165,6 @@
 .	1e	.	1cc
 .	2d\	.	2b\
 =28	=28	=28	=28
-!!linebreak:default
 0r	2c\	0r	2a/
 .	2B\	.	2g/
 .	2.d\	.	2f/
@@ -208,7 +204,6 @@
 2F\	.	[2d\	[2a/
 .	4c\	.	.
 =35	=35	=35	=35
-!!linebreak:default
 1E	1G	4d\]	4a/]
 .	.	4B\	4g/
 .	.	2c\	1g
@@ -256,7 +251,6 @@
 2E\	[2B\	.	.
 .	.	4c\	.
 =42	=42	=42	=42
-!!linebreak:default
 1D	2B\]	0d	0r
 .	2B\	.	.
 2r	1A	.	.
@@ -291,7 +285,6 @@
 [1G	2r	[1d	1b
 .	[2d\	.	.
 =49	=49	=49	=49
-!!pagebreak:default
 1G]	2d\]	1d]	1g
 .	2B\	.	.
 1C	1c	1e	2r
@@ -327,7 +320,6 @@
 1F	[1d	.	1a
 .	.	2f\	.
 =56	=56	=56	=56
-!!linebreak:default
 1D	2d\]	1f	1.dd
 .	2d\	.	.
 2r	1B	1d	.
@@ -362,7 +354,6 @@
 .	.	2g\	.
 1C	.	1e	[1cc
 =63	=63	=63	=63
-!!linebreak:default
 1F	1c	1c	1cc]
 [1F	[1A	1f	1cc
 =64	=64	=64	=64
@@ -401,7 +392,6 @@
 0E	0E]	0B]	0g]
 !!LO:LB:i:g=z
 =72||	=72||	=72||	=72||
-!!linebreak:default
 *>B	*>B	*>B	*>B
 !!section:Part 2
 !!!OMD: Secunda pars: Laudate nomen
@@ -426,7 +416,6 @@
 .	.	4d\	.
 .	.	[2e\	.
 =77	=77	=77	=77
-!!pagebreak:default
 0F	1r	2e\]	1a
 .	.	4d\	.
 .	.	4c\	.
@@ -466,7 +455,6 @@
 2E\	2G/	.	1cc
 2C/	2c\	2e\	.
 =84	=84	=84	=84
-!!linebreak:default
 2G\	2d\	1d	2b\
 1.D	2.f\	.	2.dd\
 .	.	1f	.
@@ -505,7 +493,6 @@
 2E\	2r	2B\	1g
 2C/	[2c\	2c\	.
 =91	=91	=91	=91
-!!linebreak:default
 2F\	2c\]	1A	1a
 2D\	1d	.	.
 1G	.	1G	1b
@@ -542,7 +529,6 @@
 1F	.	1A	1a
 .	2d\	.	.
 =98	=98	=98	=98
-!!linebreak:default
 [0E	[0e	2B\	2g/
 .	.	1e	1cc
 .	.	4d\	[2b\
@@ -574,7 +560,6 @@
 [1BB	[1d	.	2b\
 .	.	.	[2dd\
 =105	=105	=105	=105
-!!pagebreak:default
 0BB]	1d]	0d	4dd\]
 .	.	.	4cc\
 .	.	.	4b\
@@ -611,7 +596,6 @@
 .	1A	.	1a
 2F#i\	.	.	.
 =112	=112	=112	=112
-!!linebreak:default
 1G	0G	1d	1b
 1C	.	1e	[1cc
 =113	=113	=113	=113
@@ -648,7 +632,6 @@
 .	2B\	2B\	.
 [2AA/	[2c\	[2e\	.
 =119	=119	=119	=119
-!!linebreak:default
 4AA/]	4c\]	4e\]	0e_
 4BB/	4B\	4d\	.
 4C/	1A	2c\	.

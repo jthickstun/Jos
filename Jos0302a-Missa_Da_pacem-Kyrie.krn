@@ -53,7 +53,6 @@
 1A	.	.	1cc
 .	.	2f#i\	.
 =5	=5	=5	=5
-!!linebreak:default
 1G	0.G	1g	2.b-\
 .	.	.	4a/
 1r	.	4g\	2b-\
@@ -87,7 +86,6 @@
 4E\	.	.	4f/
 4D\	.	.	4g/
 =9	=9	=9	=9
-!!linebreak:default
 1C	0.c	1r	4a/
 .	.	.	4b-\
 .	.	.	2.cc\
@@ -125,7 +123,6 @@
 2C/	1A	2e-\	.
 2D\	.	2d\	2f#i/
 =13	=13	=13	=13
-!!pagebreak:default
 2GG/	1G	2.B-\	2g/
 1G	.	.	1b-
 .	.	4c\	.
@@ -155,7 +152,6 @@
 2D\	.	.	2f/
 [2F\	2c\	2f\	[2a/
 =17	=17	=17	=17
-!!linebreak:default
 2F\]	2A/	2c\	2a/]
 2E-i\	1c	1e-i	2g/
 2C/	.	.	2e-i/
@@ -182,7 +178,6 @@
 0.GGl	0.G]	0.dl	0.g]
 !!LO:LB:i:g=z
 =21||	=21||	=21||	=21||
-!!linebreak:default
 *>B	*>B	*>B	*>B
 !!section: Christe
 !!!OMD: Christe
@@ -231,7 +226,6 @@
 .	.	4c\	.
 .	.	2d\	.
 =28	=28	=28	=28
-!!linebreak:default
 1G	0r	4G/	0r
 .	.	4A/	.
 .	.	4B-\	.
@@ -267,7 +261,6 @@
 0AA	0c	1C	1e
 .	.	1c	1a
 =35	=35	=35	=35
-!!pagebreak:default
 0BB-	0d	2B-\	1f
 .	.	4A/	.
 .	.	4G/	.
@@ -303,7 +296,6 @@
 0D]	0d]	0Al	0f]
 !!LO:LB:i:g=z
 =43||	=43||	=43||	=43||
-!!linebreak:default
 *>C	*>C	*>C	*>C
 !!section: Kyrie II
 !!!OMD: Kyrie II
@@ -332,7 +324,6 @@
 1C	.	.	.
 .	.	2A/	.
 =46	=46	=46	=46
-!!linebreak:default
 1BB-	0d	4B-\	2r
 .	.	4c\	.
 .	.	4d\	1dd
@@ -370,7 +361,6 @@
 4D\	.	.	.
 4E\	.	.	.
 =50	=50	=50	=50
-!!linebreak:default
 4F\	1A	0.r	0.r
 4E\	.	.	.
 4D\	.	.	.
@@ -403,7 +393,6 @@
 .	.	1c	2.cc\
 .	.	.	4b-\
 =54	=54	=54	=54
-!!pagebreak:default
 0.r	0.r	2B-\	2g/
 .	.	2A/	2.a/
 .	.	2B-\	.
@@ -439,7 +428,6 @@
 1D	1A	1d	.
 .	.	.	2f#i/
 =58	=58	=58	=58
-!!linebreak:default
 2r	1r	2r	2g/
 2G\	.	2d\	2b-\
 2F\	2r	1f	2a/
@@ -474,7 +462,6 @@
 2E-i\	2c\	2e-\	2g/
 2F\	2A/	2c\	2a/
 =62	=62	=62	=62
-!!linebreak:default
 2E-i\	2B-\	1e-i	2.g/
 2C/	2c\	.	.
 .	.	.	4e/

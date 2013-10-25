@@ -32,7 +32,6 @@
 .	.	.	2c\
 .	1D	1A-	1f
 =6	=6	=6	=6
-!!linebreak:default
 0EE-	1E-	0G	0g
 .	1E-	.	.
 =7	=7	=7	=7
@@ -58,7 +57,6 @@
 .	2E-\	1G	.
 .	2D\	.	.
 =11	=11	=11	=11
-!!linebreak:default
 1r	1E-	1B-	0G
 1GG	1D	1B-	.
 =12	=12	=12	=12
@@ -83,7 +81,6 @@
 .	4D\	.	.
 .	4C/	.	.
 =16	=16	=16	=16
-!!pagebreak:default
 1r	0BB-	2G\]	1B-]
 .	.	2A-i\	.
 1EE-	.	2B-\	2r
@@ -106,7 +103,6 @@
 2BB-/	2D\	.	1r
 [2C/	[2E-\	.	.
 =20	=20	=20	=20
-!!linebreak:default
 4C/]	4E-\]	0r	0r
 4BB-/	4D\	.	.
 1BB-	4C/	.	.
@@ -132,7 +128,6 @@
 .	1r	2A-i\	2f\
 .	.	[2B-\	[2g\
 =25	=25	=25	=25
-!!linebreak:default
 2r	0r	4B-\]	2g\]
 .	.	4A-i\	.
 2AA-/	.	4G\	1f
@@ -160,7 +155,6 @@
 1FF	.	.	1f
 .	2AA-/	2D\	.
 =29	=29	=29	=29
-!!linebreak:default
 1EE-	2BB-/	1E-	1g
 .	2B-\	.	.
 1r	2A-\	1r	2f\
@@ -184,7 +178,6 @@
 .	.	4G\	.
 [2FF/	2C/	[2A-i\	[2c\
 =33	=33	=33	=33
-!!pagebreak:default
 4FF/]	1F	4A-\]	2c\]
 4GG/	.	4G\	.
 2AA-/	.	1F	4B-\
@@ -214,7 +207,6 @@
 .	4D\	4F\	.
 .	4E-\	4G\	.
 =37	=37	=37	=37
-!!linebreak:default
 1r	2F\	2A\	1d
 .	4BB-/	2B-\	.
 .	4C/	.	.
@@ -238,7 +230,6 @@
 1BB-	1F	1B-	.
 .	.	.	2d\
 =41	=41	=41	=41
-!!linebreak:default
 1.EE-	1.G	1B-	0e-
 .	.	1G	.
 [2E-\	4F\	.	.
@@ -266,7 +257,6 @@
 .	4D\	4G\	.
 .	4C/	4F\	.
 =45	=45	=45	=45
-!!linebreak:default
 0BB-	2BB-/	2.G\	1B-]
 .	1E-	.	.
 .	.	8F\L	.
@@ -294,7 +284,6 @@
 [0EE-	0E-	1C	[0G
 .	.	1BB-	.
 =50	=50	=50	=50
-!!pagebreak:default
 0EE-]	1C	1r	0G]
 .	2.BB-/	1E-	.
 .	4C/	.	.
@@ -315,7 +304,6 @@
 1EE-	2.BB-/	1G	1B-
 .	4C/	.	.
 =54	=54	=54	=54
-!!linebreak:default
 2.FF/	4D\	1F	1.A-i
 .	4E-\	.	.
 .	1F	.	.
@@ -337,7 +325,6 @@
 1GG	.	1E-	1B-
 .	2C/	.	.
 =58	=58	=58	=58
-!!linebreak:default
 [0FF	1D-	2.F\	1A-i
 .	.	4G\	.
 .	1C	4A-i\	2F/
@@ -360,7 +347,6 @@
 [1BB-	.	1B-	.
 .	2BB-/	.	[2d\
 =62	=62	=62	=62
-!!linebreak:default
 2BB-/]	1BB-	1.B-	2d\]
 1GG	.	.	2B-\
 .	2r	.	1B-
@@ -382,7 +368,6 @@
 .	4E-\	.	.
 .	2F\	2D-i\	.
 =66	=66	=66	=66
-!!pagebreak:default
 0GG-	0BB-	1D-i	2d-\]
 .	.	.	2c\
 .	.	2E-\	1B-
@@ -402,7 +387,6 @@
 .	2AA-/	1F	1A-i
 .	2BB-/	.	.
 =70	=70	=70	=70
-!!linebreak:default
 1EE-	1C	2.E-\	1G
 .	.	4F\	.
 1EE-	2.BB-/	1G	1B-
@@ -429,7 +413,6 @@
 1GG	.	1E-	1B-
 .	2C/	.	.
 =75	=75	=75	=75
-!!linebreak:default
 [0FF	1D-	2.F\	1A-i
 .	.	4G\	.
 .	1C	4A-i\	2F/
@@ -452,7 +435,6 @@
 [1BB-	.	1B-	.
 .	2BB-/	.	[2d\
 =79	=79	=79	=79
-!!linebreak:default
 2BB-/]	1BB-	1.B-	2d\]
 1GG	.	.	2B-\
 .	2r	.	1B-
@@ -474,7 +456,6 @@
 .	4E-\	.	.
 .	2F\	2D-i\	.
 =83	=83	=83	=83
-!!pagebreak:default
 0GG-	0BB-	1D-i	2d-\]
 .	.	.	2c\
 .	.	2E-\	2.B-\

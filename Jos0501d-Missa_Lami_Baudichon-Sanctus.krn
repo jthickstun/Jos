@@ -47,7 +47,6 @@
 .	.	.	2r
 .	.	.	[2g/
 =6	=6-	=6	=6
-!!linebreak:original
 0.r	0.ryy	1r	2g/]
 .	.	.	2f/
 .	.	2r	2e/
@@ -88,7 +87,6 @@
 .	.	2d\	.
 =11	=11	=11	=11
 !	!LO:N:vis:0.	!	!
-!!linebreak:original
 0.r	0.r	1e	2c/
 .	.	.	2g/
 .	.	2.d\	2f/
@@ -134,7 +132,6 @@
 .	.	.	2dd\
 .	.	4f\	.
 =16	=16-	=16	=16
-!!pagebreak:original
 0.r	0.ryy	4e\	2cc\
 .	.	4d\	.
 .	.	1c	2.ee\
@@ -163,7 +160,6 @@
 0D	0d]yy	0A	0.f
 1BB-	1d	1B-	.
 =21	=21	=21	=21
-!!linebreak:original
 !	!LO:N:vis=0	!	!
 [0.C	[y0.c	1G	0.e
 .	.	2r	.
@@ -200,7 +196,6 @@
 1c	.	1g	2.cc\
 .	.	.	4dd\
 =26	=26-	=26	=26
-!!linebreak:original
 2.C/	0e]yy	0g	1.ee
 4D\	.	.	.
 2.E\	.	.	.
@@ -239,7 +234,6 @@
 2F\	.	1r	2f/
 2E\	.	.	2g/
 =31	=31	=31	=31
-!!linebreak:original
 [0.C	0.c_	2r	1e
 .	.	2g\	.
 .	.	2a\	2r
@@ -276,7 +270,6 @@
 *	*	*^	*
 0.Cl	0.c]	0.Gl\	0.gl/	0.el
 *	*	*v	*v	*
-!!pagebreak:original
 !!LO:LB:i:g=z
 =36||	=36||	=36||	=36||
 !!section: Pleni
@@ -312,7 +305,6 @@
 .	.	.	1c
 .	.	2e\	.
 =41	=41	=41	=41
-!!linebreak:original
 0.r	0.r	2d\	2B/
 .	.	2e\	2c/
 .	.	1c	2e/
@@ -349,7 +341,6 @@
 .	.	.	4g/
 .	.	.	4f/
 =46	=46	=46	=46
-!!linebreak:original
 0.r	0.r	0c]	0e
 .	.	1c	1e
 =47	=47	=47	=47
@@ -391,7 +382,6 @@
 .	.	.	2dd\
 .	.	4f\	.
 =51	=51	=51	=51
-!!linebreak:original
 0.r	0.r	2g\	2b\
 .	.	2e\	2g/
 .	.	2c\	2.cc\
@@ -437,7 +427,6 @@
 .	.	1d	2a/
 .	.	.	2b\
 =56	=56	=56	=56
-!!pagebreak:original
 0.r	0.r	1c	2cc\
 .	.	.	2.a/
 .	.	2d\	.
@@ -480,7 +469,6 @@
 .	.	1d	.
 .	.	.	2b\
 =60	=60	=60	=60
-!!linebreak:original
 0.r	0.r	2c\	2cc\
 .	.	2.g\	2ee\
 .	.	.	2.dd\
@@ -509,7 +497,6 @@
 .	.	2B\	.
 =63	=63	=63	=63
 0.r	0.r	0.cl	0.cl
-!!linebreak:original
 !!LO:LB:i:g=z
 =64||	=64||	=64||	=64||
 !!section: Osanna
@@ -539,7 +526,6 @@
 .	.	[1c	[1cc
 2B\	.	.	.
 =71	=71-	=71	=71
-!!linebreak:original
 1A	0e]yy	1c]	1cc]
 1G	.	[1g	1b
 =72	=72	=72	=72
@@ -568,7 +554,6 @@
 .	.	.	[1a
 .	.	2c\	.
 =78	=78	=78	=78
-!!pagebreak:original
 0D]	0f]	0A	2a/]
 .	.	.	2g/
 .	.	.	2f/
@@ -598,7 +583,6 @@
 .	.	1e	[1cc
 2B\	.	.	.
 =85	=85-	=85	=85
-!!linebreak:original
 1A	0e]yy	1c	1cc]
 1G	.	[1g	1b
 =86	=86	=86	=86
@@ -627,7 +611,6 @@
 *	*	*^	*
 0Cl	0cl	0cl\	0gl/	0ccl
 *	*	*v	*v	*
-!!linebreak:original
 !!LO:TX:rj:i:t=fine
 !!LO:LB:i:g=z
 =91||	=91||	=91||	=91||
@@ -657,7 +640,6 @@
 0r	0r	0e]	1c]
 .	.	.	[1g
 =97	=97	=97	=97
-!!linebreak:original
 0r	0r	0c	2g/]
 .	.	.	4a/
 .	.	.	4b\
@@ -683,7 +665,6 @@
 .	.	.	1e
 .	.	2A/	.
 =102	=102	=102	=102
-!!pagebreak:original
 0r	0r	1B	1d
 .	.	[1c	1c
 =103	=103	=103	=103
@@ -698,7 +679,6 @@
 .	.	.	1c
 =106	=106	=106	=106
 0r	0r	0c]	0cl
-!!linebreak:original
 !!LO:LB:i:g=z
 =107||	=107||	=107||	=107||
 !!section: Qui venit
@@ -728,7 +708,6 @@
 1C]	0r	0c	0r
 1c	.	.	.
 =114	=114	=114	=114
-!!linebreak:original
 2B\	0r	[0d	0r
 1G	.	.	.
 4F\	.	.	.
@@ -757,7 +736,6 @@
 .	.	1B	.
 =120	=120	=120	=120
 0Cl	0r	0cl	0r
-!!pagebreak:original
 !!LO:LB:i:g=z
 =121||	=121||	=121||	=121||
 !!section: In nomine
@@ -793,7 +771,6 @@
 .	.	.	4ee\
 .	.	.	[2dd\
 =129	=129	=129	=129
-!!linebreak:original
 0r	0r	0d]	4dd\]
 .	.	.	4cc\
 .	.	.	2a/

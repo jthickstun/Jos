@@ -44,7 +44,6 @@
 .	4F/	.	.
 .	4G/	.	.
 =7	=7	=7	=7
-!!linebreak:default
 1A]	4A/	0r	0r
 .	4B\	.	.
 .	4c\	.	.
@@ -84,7 +83,6 @@
 [0D	[0d	0r	1.f
 .	.	.	2f/
 =14	=14	=14	=14
-!!linebreak:default
 0D_	0d_	1r	1f
 .	.	[1f	1d
 =15	=15	=15	=15
@@ -119,7 +117,6 @@
 .	.	.	2r
 .	.	.	2d/
 =21	=21	=21	=21
-!!pagebreak:default
 0r	0r	2r	1f
 .	.	2d\	.
 .	.	1f	2d/
@@ -161,7 +158,6 @@
 .	4B\	.	.
 .	[2A/	.	.
 =28	=28	=28	=28
-!!linebreak:default
 2c\]	2A/]	0r	0r
 2c\	4G/	.	.
 .	4F/	.	.
@@ -202,7 +198,6 @@
 .	4G/	.	4b\
 .	2A/	2e\	2cc\
 =35	=35	=35	=35
-!!linebreak:default
 0r	2.B-i\	2d\	1dd
 .	.	1f	.
 .	4A/	.	.
@@ -248,7 +243,6 @@
 .	.	4d\	.
 .	.	2e\	.
 =42	=42	=42	=42
-!!linebreak:default
 0r	1D	2d\	2dd\
 .	.	1f	2.a/
 .	[1A	.	.
@@ -293,7 +287,6 @@
 2D\	[2d\	4f\	.
 .	.	4g\	.
 =49	=49	=49	=49
-!!pagebreak:default
 2F\	2d\]	2a\	1r
 2G\	2B\	1g	.
 1D	1A	.	1dd
@@ -323,7 +316,6 @@
 =55	=55	=55	=55
 [0E	0B	[0e	[0g
 =56	=56	=56	=56
-!!linebreak:default
 0E]	2r	0e_	0g]
 .	2E/	.	.
 .	1B	.	.
@@ -360,7 +352,6 @@
 .	.	2A/	.
 1r	1r	1e	1b
 =63	=63	=63	=63
-!!linebreak:default
 0r	0r	1f	2a/
 .	.	.	2.cc\
 .	.	1e	.
@@ -402,7 +393,6 @@
 .	1B	.	.
 2G#i\	.	.	.
 =70	=70	=70	=70
-!!linebreak:default
 1A	[0A	2r	2.a/
 .	.	2f\	.
 .	.	.	4b\
@@ -443,7 +433,6 @@
 2F\	2A/	1r	.
 2G\	2B\	.	.
 =77	=77	=77	=77
-!!pagebreak:default
 2E\	2c\	0r	0r
 2F\	1d	.	.
 1G	.	.	.
@@ -482,7 +471,6 @@
 .	2d\	2f\	2a/
 .	2d\	2f\	2b\
 =84	=84	=84	=84
-!!linebreak:default
 0r	1e	1g	1cc
 .	1e	1g	2b\
 .	.	.	2cc\
@@ -522,7 +510,6 @@
 1E	.	.	.
 .	2G/	2c#i\	.
 =91	=91	=91	=91
-!!linebreak:default
 0D	0A	1d	2r
 .	.	.	2a/
 .	.	2r	2a/
@@ -560,7 +547,6 @@
 4B\	.	2c\	2cc\
 4A\	.	.	.
 =98	=98	=98	=98
-!!linebreak:default
 1G	1r	2d\	1b
 .	.	2e\	.
 [1F	2r	[1f	2a/
@@ -602,7 +588,6 @@
 [0D	[0d	1.f	0d
 .	.	2f\	.
 =105	=105	=105	=105
-!!pagebreak:default
 0D_	0d_	1f	1r
 .	.	1d	[1f
 =106	=106	=106	=106
@@ -635,7 +620,6 @@
 0F	1c]	0f	1f
 .	1c	.	1r
 =112	=112	=112	=112
-!!linebreak:default
 1F	1c	1r	0a
 1F	1c	[1f	.
 =113	=113	=113	=113
@@ -670,7 +654,6 @@
 .	.	.	4e/
 .	.	.	4d/
 =119	=119	=119	=119
-!!linebreak:default
 [0AA	[0Al	1r	2.c/
 .	.	.	4d/
 .	.	2.c\	2e/

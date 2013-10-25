@@ -50,7 +50,6 @@
 1C	1c	1G	1e
 1D	1A	1F	[1f
 =10	=10	=10	=10
-!!linebreak:default
 0BB-	0d	0D	1f]
 .	.	.	2e/
 .	.	.	2d/
@@ -77,7 +76,6 @@
 1D]	1d	[0A	0a_
 1AA	1c	.	.
 =19	=19	=19	=19
-!!linebreak:default
 1D	1d	0A]	0a]
 1C	1e	.	.
 =20	=20	=20	=20
@@ -105,7 +103,6 @@
 1F	1A]	1c	1a
 [1D	1A	[1d	[1a
 =28	=28	=28	=28
-!!pagebreak:default
 1D]	1A	1d]	1a]
 1F	1A	1d	1a
 =29	=29	=29	=29
@@ -135,7 +132,6 @@
 [0AA	0E	1.A	[0c
 .	.	2G/	.
 =38	=38	=38	=38
-!!linebreak:default
 1AA]	[0A	1E	0c]
 1FF	.	1F	.
 =39	=39	=39	=39
@@ -165,7 +161,6 @@
 1AA	1r	1E	1c
 [1D	1A	[1F	[1f
 =48	=48	=48	=48
-!!linebreak:default
 1D]	1A	1F]	1f]
 1D	1B	1F	1f
 =49	=49	=49	=49
@@ -198,7 +193,6 @@
 0Dl	0dl	0Al	0dl
 !!LO:LB:i:g=z
 =58||	=58||	=58||	=58||
-!!linebreak:default
 *>B	*>B	*>B	*>B
 !!section: Secunda pars: O domine adoro te in cruce vulneratum
 !!!OMD: Secunda pars: O domine adoro te in cruce vulneratum
@@ -224,7 +218,6 @@
 =66	=66	=66	=66
 0F	[0F	0A	0c
 =67	=67	=67	=67
-!!pagebreak:default
 [0BB-	1F]	[0d	1.d
 .	[1B-	.	.
 .	.	.	2e/
@@ -251,7 +244,6 @@
 1AA	1E	1A	1c
 1BB-	1D	1G	[1d
 =76	=76	=76	=76
-!!linebreak:default
 0AA	0E	0A	1d]
 .	.	.	1c#i
 =77	=77	=77	=77
@@ -277,7 +269,6 @@
 1GG	1B	1G	1d
 1AA	[1c	1F	1c
 =85	=85	=85	=85
-!!linebreak:default
 0GG	1c]	[0G	0d
 .	1B	.	.
 =86	=86	=86	=86
@@ -304,7 +295,6 @@
 [0D	1.F	0f	0A
 .	2G/	.	.
 =94	=94	=94	=94
-!!linebreak:default
 0D]	1A	1r	1A
 .	[1B-i	1F	[1d
 =95	=95	=95	=95
@@ -330,7 +320,6 @@
 1BB-	1D	1F	1d
 1AA	1E	[1A	1c
 =103	=103	=103	=103
-!!pagebreak:default
 0D	0F	1A]	0d
 .	.	1B	.
 =104	=104	=104	=104
@@ -358,7 +347,6 @@
 =111	=111	=111	=111
 0C	0G	0c	0e
 =112	=112	=112	=112
-!!linebreak:default
 1AA	1A	1c	1e
 1AA	1A	1c	1e
 =113	=113	=113	=113
@@ -387,7 +375,6 @@
 0AAl	0Al	0cl	0e]
 !!LO:LB:i:g=z
 =121||	=121||	=121||	=121||
-!!linebreak:default
 *>C	*>C	*>C	*>C
 !!section: Tertia pars: O domine adoro te in sepulcro positum
 !!!OMD: Tertia pars: O domine adoro te in sepulcro positum
@@ -413,7 +400,6 @@
 =129	=129	=129	=129
 [0C	0G]	0c	0e
 =130	=130	=130	=130
-!!linebreak:default
 1C]	[0E	[0C	1e
 1BB-	.	.	1d
 =131	=131	=131	=131
@@ -438,7 +424,6 @@
 1C	1G	.	1e
 .	.	2B\	.
 =139	=139	=139	=139
-!!pagebreak:default
 0C	0c	1A	0e
 .	.	1G	.
 =140	=140	=140	=140
@@ -468,7 +453,6 @@
 1F]	0A]	[0f	0a]
 1D	.	.	.
 =148	=148	=148	=148
-!!linebreak:default
 0D	0d	0f]	0r
 =149	=149	=149	=149
 0E	0B	0e	0g
@@ -494,7 +478,6 @@
 =157	=157	=157	=157
 0E	0B	0e	[0g
 =158	=158	=158	=158
-!!linebreak:default
 1.C	[0e	1.E	0g]
 2D\	.	2F/	.
 =159	=159	=159	=159
@@ -523,7 +506,6 @@
 .	.	2G/	.
 [1AA	[1c	1A	[1e
 =167	=167	=167	=167
-!!linebreak:default
 2AA/]	2c\]	0E	2e/]
 2BBni/	2B\	.	2d/
 1C	2A/	.	2c/
@@ -553,7 +535,6 @@
 0AAl	0El	0cl	0A]
 !!LO:LB:i:g=z
 =176||	=176||	=176||	=176||
-!!pagebreak:default
 *>D	*>D	*>D	*>D
 !!section: Quarta pars: O domine pastor bone
 !!!OMD: Quarta pars: O domine pastor bone
@@ -581,7 +562,6 @@
 =184	=184	=184	=184
 0AA;	0A;	0E;	0c;
 =185	=185	=185	=185
-!!linebreak:default
 0r	0A	0r	0c
 =186	=186	=186	=186
 0r	1A	0r	1c
@@ -611,7 +591,6 @@
 .	2d\	.	.
 .	1e	.	.
 =195	=195	=195	=195
-!!linebreak:default
 1.D	1f	1.F	0f
 .	1d	.	.
 2E\	.	2G/	.
@@ -641,7 +620,6 @@
 1C	1e	1c	1g
 1C	1e	1c	1e
 =205	=205	=205	=205
-!!linebreak:default
 2.D\	1.d	1.A	2.f/
 4C/	.	.	4e/
 2D\	.	.	2f/
@@ -674,7 +652,6 @@
 1BB-	1d	1B-	1f
 1C	1c	1G	1e
 =214	=214	=214	=214
-!!pagebreak:default
 0D	0f	1B-i	0d
 .	.	1A	.
 =215	=215	=215	=215
@@ -706,7 +683,6 @@
 0FFl	0Fl	0cl	0fl
 !!LO:LB:i:g=z
 =225||	=225||	=225||	=225||
-!!linebreak:default
 *>E	*>E	*>E	*>E
 !!section: Quinta pars: O domine propter illam amaritudinem
 !!!OMD: Quinta pars: O domine propter illam amaritudinem
@@ -735,7 +711,6 @@
 1.C	[0c	[0G	1.e
 2BB/	.	.	2d/
 =233	=233	=233	=233
-!!linebreak:default
 1C	1c]	1G]	1e
 1D	1A	1F	1f
 =234	=234	=234	=234
@@ -763,7 +738,6 @@
 .	2d\	.	.
 .	2e\	.	.
 =242	=242	=242	=242
-!!linebreak:default
 0D	0f	1A	0d
 .	.	1A	.
 =243	=243	=243	=243
@@ -790,7 +764,6 @@
 .	.	1d	.
 2F\	.	.	.
 =251	=251	=251	=251
-!!pagebreak:default
 0E	0G	1.c	1e
 .	.	.	1g
 .	.	2B\	.
@@ -821,7 +794,6 @@
 .	.	2e\	.
 1G	.	[1e	[1b-i
 =260	=260	=260	=260
-!!linebreak:default
 0F	1c	1e]	2b-\]
 .	.	.	2a/
 .	1A	1d	[1a
@@ -852,7 +824,6 @@
 0AA]	0r	1c	0e
 .	.	1c	.
 =269	=269	=269	=269
-!!linebreak:default
 [0BB	1.D	1d	[0d
 .	.	1B	.
 .	2D/	.	.
@@ -880,7 +851,6 @@
 0D	0A_	1r	1f
 .	.	1F	[1f
 =278	=278	=278	=278
-!!linebreak:default
 1D	0A]	1D	1f]
 1C	.	1E	1e
 =279	=279	=279	=279
@@ -909,7 +879,6 @@
 1AA	1c]	1r	1e
 1GG	1B	[1d	[1g
 =287	=287	=287	=287
-!!pagebreak:default
 0D	0A	0d]	1g]
 .	.	.	1f#i
 =288	=288	=288	=288
@@ -939,7 +908,6 @@
 .	2A/	.	.
 1G	1B	.	.
 =296	=296	=296	=296
-!!linebreak:default
 0A	2.c\	0r	[0c
 .	4B\	.	.
 .	4A/	.	.
@@ -976,7 +944,6 @@
 0D	0F	[0A	1e]
 .	.	.	1d
 =305	=305	=305	=305
-!!linebreak:default
 1r	[0E	0A_	[0e
 [1AA	.	.	.
 =306	=306	=306	=306
@@ -1008,7 +975,6 @@
 0E	[0B	1G]	[0g
 .	.	1G	.
 =314	=314	=314	=314
-!!linebreak:default
 0E	1B]	1.G	0g]
 .	1B	.	.
 .	.	4A/	.
@@ -1039,7 +1005,6 @@
 .	1c	1G	1e
 2F\	.	.	.
 =323	=323	=323	=323
-!!pagebreak:default
 1D	2d\	1A	1f
 .	2c\	.	.
 [1E	2B\	1G	[1g
@@ -1072,7 +1037,6 @@
 1F	.	1A	1a
 .	[2d\	.	.
 =332	=332	=332	=332
-!!linebreak:default
 2D\	4d\]	1d	2f/
 .	4c\	.	.
 2F\	2A/	.	2a/

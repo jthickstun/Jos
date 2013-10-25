@@ -42,7 +42,6 @@
 1D	1A	1d	.
 .	.	.	2f#i/
 =5	=5	=5	=5
-!!linebreak:default
 0E-	1.G	1r	0g
 .	.	0G	.
 .	1B-i	.	.
@@ -73,7 +72,6 @@
 1A	1e	1a	.
 .	.	.	2cc#i\
 =9	=9	=9	=9
-!!linebreak:default
 2.B-\	1d	2f\	0.dd
 .	.	1B-	.
 4A\	.	.	.
@@ -105,7 +103,6 @@
 .	[2c\	.	.
 4E\	.	.	.
 =13	=13	=13	=13
-!!pagebreak:default
 1C	2c\]	2e\	1.g
 .	4B-i\	4d\	.
 .	4A/	4c\	.
@@ -136,7 +133,6 @@
 .	0A	1c	1r
 [1D	.	1d	1f
 =17	=17	=17	=17
-!!linebreak:default
 2D\]	1F	3%2dV	1.a
 2.F\	.	.	.
 .	.	3c\Z	.

@@ -53,7 +53,6 @@
 2C/	.	1c	1e
 [2c\	.	.	.
 =7	=7	=7	=7
-!!linebreak:default
 4c\]	1F	1r	0A
 4B-\	.	.	.
 4A\	.	.	.
@@ -99,7 +98,6 @@
 4D\	2d\	.	.
 4E\	.	.	.
 =14	=14	=14	=14
-!!linebreak:default
 4F\	1A	0r	0r
 4G\	.	.	.
 1A	.	.	.
@@ -143,7 +141,6 @@
 .	.	.	4c\
 .	.	.	4B-\
 =21	=21	=21	=21
-!!pagebreak:default
 2.c\	2c\]	0F	2A/
 .	2F/	.	2.c\
 4B-\	.	.	.
@@ -185,7 +182,6 @@
 .	.	.	4F/
 .	[2d\	.	[2f\
 =28	=28	=28	=28
-!!linebreak:default
 0r	4d\]	1F	2f\]
 .	4c\	.	.
 .	1c	.	2e\
@@ -220,7 +216,6 @@
 1B-	1G	1G	.
 .	.	.	2e\
 =35	=35	=35	=35
-!!linebreak:default
 2.c\	2.A/	0F	2f\
 .	.	.	2.c\
 4B-\	4G/	.	.
@@ -265,7 +260,6 @@
 .	4c\	4A/	.
 .	1d	1B-	1r
 =42	=42	=42	=42
-!!linebreak:default
 0r	2.c\	1A	0r
 .	4B-\	.	.
 .	2c\	1F	.
@@ -312,7 +306,6 @@
 [1F	.	2c\	1r
 .	.	2c\	.
 =49	=49	=49	=49
-!!pagebreak:default
 2F\]	1r	1d	1.f
 2F\	.	.	.
 1F	[1c	1c	.
@@ -342,7 +335,6 @@
 0AA]	0A]	0Al	0El
 !!LO:LB:i:g=z
 =55||	=55||	=55||	=55||
-!!linebreak:default
 *>B	*>B	*>B	*>B
 !!section: Secunda pars: Tu que genuisti
 !!!OMD: Secunda pars: Tu que genuisti
@@ -389,7 +381,6 @@
 .	1d	.	1G
 .	.	2Bni\	.
 =62	=62	=62	=62
-!!linebreak:default
 2.F\	2c\	1c	2.A/
 .	2.f\	.	.
 4E\	.	.	4G/
@@ -439,7 +430,6 @@
 .	.	[2c\	4e\
 .	.	.	4f\
 =69	=69	=69	=69
-!!linebreak:default
 1r	0r	2c\]	4g\
 .	.	.	4c\
 .	.	2A/	1f
@@ -481,7 +471,6 @@
 .	.	4A/	2c\
 4E\	.	4G/	.
 =76	=76	=76	=76
-!!pagebreak:default
 2D\	1A	2F/	2d\
 2AA/	.	2E/	2c\
 1D	1A	1F	4d\
@@ -526,7 +515,6 @@
 1r	2e\	1r	2c\
 .	[2f\	.	[2d\
 =83	=83	=83	=83
-!!linebreak:default
 1r	4f\]	0r	4d\]
 .	4e\	.	4c\
 .	4d\	.	1c
@@ -573,7 +561,6 @@
 .	.	4f\	.
 .	2e\	2e\	.
 =90	=90	=90	=90
-!!linebreak:default
 2.F\	1.f	2d\	1A
 .	.	1c	.
 4E\	.	.	.
@@ -620,7 +607,6 @@
 2G\	2B-\	1G	2d\
 2C/	2c\	.	2e\
 =97	=97	=97	=97
-!!linebreak:default
 1D	2A/	0F	2.f\
 .	2F/	.	.
 .	.	.	4e\
@@ -661,7 +647,6 @@
 1D	1A	.	1f
 .	.	2F/	.
 =104	=104	=104	=104
-!!pagebreak:default
 1C	2r	1G	1e
 .	2.c\	.	.
 1F	.	1A	2c\
@@ -701,7 +686,6 @@
 .	[2G/	.	.
 4BB-/	.	.	4d\
 =111	=111	=111	=111
-!!linebreak:default
 2C/	2G/]	2r	2e\
 2D\	2F/	2A/	4f\
 .	.	.	4e\

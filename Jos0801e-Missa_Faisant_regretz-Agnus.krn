@@ -59,7 +59,6 @@
 .	2r	2B-\	.
 2C/	[2A/	2c\	2e/
 =6	=6	=6	=6
-!!linebreak:default
 1D	2A/]	1F	1f
 .	2F/	.	.
 1C	1G	2.c\	1e
@@ -101,7 +100,6 @@
 .	2B-\	4d\	.
 .	.	4e\	.
 =11	=11	=11	=11
-!!linebreak:default
 1F	1c	1f	1a
 2r	1B-	2.d\	2r
 1B-	.	.	1dd
@@ -139,7 +137,6 @@
 0.Gl	0.Gl	0.d]	0.gl
 !!LO:LB:i:g=z
 =16||	=16||	=16||	=16||
-!!pagebreak:default
 *>B	*>B	*>B	*>B
 !!section: Agnus Dei II
 !!!OMD: Agnus Dei II
@@ -173,7 +170,6 @@
 4E\	.	.	.
 1F	1A	.	.
 =22	=22	=22	=22
-!!linebreak:default
 2r	1G	0r	0r
 2G\	.	.	.
 2G\	[1B-	.	.
@@ -205,7 +201,6 @@
 2C/	1e-	.	.
 [2c\	.	.	.
 =28	=28	=28	=28
-!!linebreak:default
 2c\]	2c\	0r	0r
 2B-\	2d\	.	.
 2.c\	2c\	.	.
@@ -237,7 +232,6 @@
 2r	1f	.	.
 [2d\	.	.	.
 =34	=34	=34	=34
-!!linebreak:default
 2d\]	2d\	0r	0r
 2c\	2e\	.	.
 2.d\	2d\	.	.
@@ -268,7 +262,6 @@
 2r	1B-	.	.
 [2G\	.	.	.
 =40	=40	=40	=40
-!!pagebreak:default
 2G\]	2G/	0r	0r
 2F\	2A/	.	.
 2.G\	2G/	.	.
@@ -300,7 +293,6 @@
 0Gl	0Gl	0d]	0gl
 !!LO:LB:i:g=z
 =46||	=46||	=46||	=46||
-!!linebreak:default
 *>C	*>C	*>C	*>C
 !!section: Agnus Dei III
 !!!OMD: Agnus Dei III
@@ -334,7 +326,6 @@
 .	.	.	4g/
 .	[2f\	.	2a/
 =52	=52	=52	=52
-!!linebreak:default
 0r	2f\]	1r	2f/
 .	2d\	.	2.b-\
 .	1e	2A/	.
@@ -370,7 +361,6 @@
 4F#i\	.	.	.
 4E\	.	.	.
 =58	=58	=58	=58
-!!linebreak:default
 2.G\	1G	2r	1b-
 .	.	2d\	.
 4F\	.	.	.
@@ -405,7 +395,6 @@
 2F\	2A/	1r	2cc\
 2G\	2G/	.	[2b-\
 =64	=64	=64	=64
-!!pagebreak:default
 1D	2F/	1r	4b-\]
 .	.	.	4a/
 .	2D/	.	2.a/
@@ -441,7 +430,6 @@
 2D\	2A/	[1d	.
 2GG/	2B-\	.	2g/
 =70	=70	=70	=70
-!!linebreak:default
 2.D\	2A/	1d]	1a
 .	1F	.	.
 4C/	.	.	.
@@ -475,7 +463,6 @@
 2C/	2e\	[1A	2a/
 2D\	2d\	.	2f/
 =76	=76	=76	=76
-!!linebreak:default
 [0AA	1r	0A_	[0e
 .	[1c	.	.
 =77	=77	=77	=77
@@ -506,7 +493,6 @@
 .	2G/	.	2e/
 4F\	.	.	.
 =83	=83	=83	=83
-!!linebreak:default
 2D\	2A/	0r	2f/
 2E\	2G/	.	2g/
 2D\	1r	.	2b-\
@@ -537,7 +523,6 @@
 4F\	.	.	.
 2G\	.	.	2b-\
 =89	=89	=89	=89
-!!pagebreak:default
 2.A\	2c\	1r	1a
 .	2A/	.	.
 4F\	.	.	.
@@ -576,7 +561,6 @@
 4F\	2d\	2d\	2a/
 4E\	.	.	.
 =95	=95	=95	=95
-!!linebreak:default
 2D\	1r	2d\	2b-\
 2A\	.	2e-i\	2cc\
 [1D	2r	[1d	2.dd\

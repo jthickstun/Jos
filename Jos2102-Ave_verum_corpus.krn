@@ -39,7 +39,6 @@
 0r	0f	1cc]
 .	.	1ff
 =7	=7	=7
-!!linebreak:default
 0r	1r	1ee
 .	[1b-	[1dd
 =8	=8	=8
@@ -63,7 +62,6 @@
 0r	0r	1dd
 .	.	1ff
 =14	=14	=14
-!!linebreak:default
 0r	0g	2.ee\
 .	.	4dd\
 .	.	2ee\
@@ -94,7 +92,6 @@
 0r	1f	1ff]
 .	1g	1ee
 =21	=21	=21
-!!linebreak:default
 0r	1b-i	1dd
 .	[1a	[1cc
 =22	=22	=22
@@ -134,7 +131,6 @@
 .	[1f	.
 2e\	.	.
 =28	=28	=28
-!!pagebreak:default
 1d	1f]	1dd
 [1c	[1cc	[1ee
 =29	=29	=29
@@ -165,7 +161,6 @@
 4A/	.	4cc\
 4G/	.	4b-i\
 =35	=35	=35
-!!linebreak:default
 [0F	[0a	1cc
 .	.	1f
 =36	=36	=36
@@ -201,7 +196,6 @@
 4e\	.	.
 2d\	.	.
 =42	=42	=42
-!!linebreak:default
 1c	0g	1ee
 2.B-i\	.	1dd
 4A/	.	.
@@ -231,7 +225,6 @@
 0Fl	0fl	0fl
 !!LO:LB:i:g=z
 =49||	=49||	=49||
-!!linebreak:default
 *>C	*>C	*>C
 !!section: Cujus latus
 !!!OMD: Cujus latus
@@ -264,7 +257,6 @@
 .	[2dd\	4g/
 .	.	4f/
 =56	=56	=56
-!!linebreak:default
 0r	4dd\]	1f
 .	4cc\	.
 .	2a/	.
@@ -303,7 +295,6 @@
 .	2e/	1g
 .	2c/	.
 =63	=63	=63
-!!pagebreak:default
 0r	2r	1.f
 .	1a	.
 .	4g/	4e/
@@ -356,7 +347,6 @@
 .	.	[2a/
 .	4e/	.
 =70	=70	=70
-!!linebreak:default
 0r	4f/	2a/]
 .	4c/	.
 .	1f	2f/
@@ -392,7 +382,6 @@
 4E/	4g/	4b-i\
 4D/	4f/	4a/
 =77	=77	=77
-!!linebreak:default
 2D/	1f	2a/
 2F/	.	2cc\
 1E	1g	1b-i
@@ -438,7 +427,6 @@
 .	.	2d/
 4B-\	.	.
 =84	=84	=84
-!!linebreak:default
 2.c\	1g	1e
 8d\L	.	.
 8e\J	.	.
@@ -488,7 +476,6 @@
 [2A/	.	[2cc\
 .	4d/	.
 =91	=91	=91
-!!linebreak:default
 4A/]	2.e/	4cc\]
 4B-\	.	4b-i\
 2.c\	.	2.g/
@@ -529,7 +516,6 @@
 0c	0g	1.ee
 .	.	2cc\
 =98	=98	=98
-!!pagebreak:default
 1r	1.a	0cc
 [1f	.	.
 .	4g/	.
@@ -570,7 +556,6 @@
 !!!ONB: O Jesu fili
 *M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)
-!!linebreak:default
 1r	0r	2.a/
 .	.	4g/
 1f	.	4a/
@@ -622,7 +607,6 @@
 4e\	[2a/	4cc\
 4d\	.	4dd\
 =112	=112	=112
-!!linebreak:default
 1c	4a/]	2ee\
 .	4g/	.
 .	4a/	1ff

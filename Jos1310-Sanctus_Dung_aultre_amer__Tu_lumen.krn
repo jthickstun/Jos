@@ -38,7 +38,6 @@
 1BB-]	0r	1B-	1dd]
 1F	.	1A	1cc
 =7	=7	=7	=7
-!!linebreak:default
 0G	0d	1B-	1.b-
 .	.	1G	.
 .	.	.	4a/
@@ -67,7 +66,6 @@
 1G	1d	2B-\	[1d
 .	.	2G/	.
 =14	=14	=14	=14
-!!linebreak:default
 2F\	2d\	2A/	1d]
 1G	2d\	2B-\	.
 .	[1d	1G	1d
@@ -97,7 +95,6 @@
 1G	1B-	2G/	.
 .	.	[2g\	.
 =21	=21	=21	=21
-!!pagebreak:default
 2E\	1c	2g\]	0r
 2.F\	.	1a	.
 .	1d	.	.
@@ -136,7 +133,6 @@
 [1BB-	.	.	[1f
 .	.	2e\	.
 =28	=28	=28	=28
-!!linebreak:default
 1BB-]	0r	2f\	2f/]
 .	.	2g\	2e/
 1AA	.	1e	1c
@@ -169,7 +165,6 @@
 .	.	2d\	.
 .	.	2e\	.
 =35	=35	=35	=35
-!!linebreak:default
 0.r	0.r	2.f\	1a
 .	.	4e\	.
 .	.	2f\	1a
@@ -221,7 +216,6 @@
 2BB-/	2d\	.	.
 1C	1e-i	.	.
 =42	=42	=42	=42
-!!linebreak:default
 *^	*	*	*
 0.GGl\	0.Gl/	0.dl	0.G]	0.g]
 *v	*v	*	*	*
@@ -257,7 +251,6 @@
 0D	0.d	0A	0f
 1r	.	1B-	1r
 =49	=49	=49	=49
-!!pagebreak:default
 0D	1d	0A	1f
 .	0d	.	1g
 [1G	.	1B-	1b-
@@ -288,7 +281,6 @@
 0E	.	0G	.
 .	.	.	1c#i
 =56	=56	=56	=56
-!!linebreak:default
 0D	0.r	0A	[0.d
 1r	.	1r	.
 =57	=57	=57	=57
@@ -322,7 +314,6 @@
 .	.	.	4b-\
 .	.	.	4a/
 =63	=63	=63	=63
-!!linebreak:default
 1E-	1.B-	1G	1g
 1D	.	1A	1.f
 .	2c\	.	.
@@ -365,7 +356,6 @@
 .	.	4d\	.
 .	.	2e\	[2cc\
 =70	=70	=70	=70
-!!linebreak:default
 0.r	0.r	2f\	2cc\]
 .	.	2g\	2b-\
 .	.	2f\	2a/
@@ -414,7 +404,6 @@
 *v	*v	*	*	*
 !!LO:LB:i:g=z
 =77||	=77||	=77||	=77||
-!!pagebreak:default
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Tu lumen
@@ -433,7 +422,6 @@
 =83	=83	=83	=83
 0C	0c	0e	0g
 =84	=84	=84	=84
-!!linebreak:default
 0G	0d	0g	0b-
 =85	=85	=85	=85
 0D	0d	0f	0a
@@ -448,7 +436,6 @@
 =90	=90	=90	=90
 0F	0c	0f	0a
 =91	=91	=91	=91
-!!linebreak:default
 0G	0B-	0d	0b-
 =92	=92	=92	=92
 0C	0c	0e	0g
@@ -463,7 +450,6 @@
 =97	=97	=97	=97
 0C	0e	0c	0cc
 =98	=98	=98	=98
-!!linebreak:default
 0F	0f	0c	0a
 =99	=99	=99	=99
 0F	0f	0c	0cc
@@ -478,7 +464,6 @@
 =104	=104	=104	=104
 0BB-	0d	[0f	0b-
 =105	=105	=105	=105
-!!pagebreak:default
 0BB-	0d	0f]	0b-
 =106	=106	=106	=106
 0F	0c	0f	0cc
@@ -493,7 +478,6 @@
 =111	=111	=111	=111
 0E	0G	0c	0g
 =112	=112	=112	=112
-!!linebreak:default
 0D	0A	0d	0f#i
 =113	=113	=113	=113
 0Gl	0Gl	0B-l	0gl

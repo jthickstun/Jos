@@ -54,7 +54,6 @@
 1F	.	.	1d
 .	.	2A/	.
 =6	=6	=6	=6
-!!linebreak:default
 2E\	1G	2B\	1e
 2C/	.	2c\	.
 2.D\	1F	2A/	0a
@@ -100,7 +99,6 @@
 1BB	1D	1d	.
 .	.	.	2G#i/
 =11	=11	=11	=11
-!!linebreak:default
 0AA	0E	1.c	0A
 .	.	2C/	.
 1r	1r	1C	[1c
@@ -134,7 +132,6 @@
 .	.	.	2f/
 .	.	4B\	.
 =16	=16	=16	=16
-!!pagebreak:default
 1.C	0E	2.c\	2g/
 .	.	.	2.e/
 .	.	4B\	.
@@ -183,7 +180,6 @@
 .	.	.	4e/
 .	.	.	4c/
 =21	=21	=21	=21
-!!linebreak:default
 2r	1B	1r	1d
 2G\	.	.	.
 2.A\	0e	2r	1c
@@ -225,7 +221,6 @@
 0.El	0.Bl	0.Gl	0.el
 !!LO:LB:i:g=z
 =26||	=26||	=26||	=26||
-!!linebreak:default
 *>B	*>B	*>B	*>B
 !!section: Pleni sunt celi
 !!!OMD: Pleni sunt celi
@@ -265,7 +260,6 @@
 .	.	.	4g/
 .	[2e\	.	2g/
 =31	=31	=31	=31
-!!linebreak:default
 0.r	2e\]	0.r	2cc\
 .	2d\	.	2.b\
 .	2c\	.	.
@@ -298,7 +292,6 @@
 2.c\	.	.	.
 4A\	.	.	.
 =37	=37	=37	=37
-!!pagebreak:default
 1B	0.r	1d	0.r
 2r	.	2c\	.
 1A	.	2A/	.
@@ -337,7 +330,6 @@
 .	.	4A/	.
 2G\	.	2B\	.
 =42	=42	=42	=42
-!!linebreak:default
 2.c\	0.r	2r	0.r
 .	.	2A/	.
 4A\	.	.	.
@@ -378,7 +370,6 @@
 .	[2d\	.	.
 .	.	.	4d/
 =47	=47	=47	=47
-!!linebreak:default
 0.r	2d\]	1r	1e
 .	2c\	.	.
 .	2.f\	1r	2r
@@ -423,7 +414,6 @@
 0.El	0.Bl	0.e]	0.g;l
 !!LO:LB:i:g=z
 =52||	=52||	=52||	=52||
-!!linebreak:default
 *>C	*>C	*>C	*>C
 !!section: Osanna
 !!!OMD: Osanna
@@ -456,7 +446,6 @@
 1E	1B	2e\	1g
 .	.	2f\	.
 =57	=57	=57	=57
-!!pagebreak:default
 2r	0e	1g	4c/
 .	.	.	4d/
 1c	.	.	4e/
@@ -500,7 +489,6 @@
 2E\	1G	2B\	2g/
 2C/	.	2c\	[2e/
 =62	=62	=62	=62
-!!linebreak:default
 2.D\	1F	2A/	4e/]
 .	.	.	4d/
 .	.	1d	2.f/
@@ -547,7 +535,6 @@
 1E	1B	1e	.
 .	.	.	2g#i/
 =67	=67	=67	=67
-!!linebreak:default
 2r	0A	1c	1a
 2.AA/	.	.	.
 .	.	1r	1e
@@ -596,7 +583,6 @@
 0.AAl	0.El	0.Al	0.ccl
 !!LO:LB:i:g=z
 =73||	=73||	=73||	=73||
-!!linebreak:default
 *>D	*>D	*>D	*>D
 !!section: Benedictus
 !!!OMD: Benedictus
@@ -646,7 +632,6 @@
 2c\	.	1r	.
 [2d\	.	.	.
 =80	=80	=80	=80
-!!pagebreak:default
 2d\]	0r	0r	0a_
 4c\	.	.	.
 4B\	.	.	.
@@ -695,7 +680,6 @@
 .	.	.	[2a/
 .	.	4B\	.
 =87	=87	=87	=87
-!!linebreak:default
 0A]	1r	2.c\	4a/]
 .	.	.	4b\
 .	.	.	1cc
@@ -735,7 +719,6 @@
 0AA]	0A]	0el	0a]
 !!LO:LB:i:g=z
 =94||	=94||	=94||	=94||
-!!linebreak:default
 *>E	*>E	*>E	*>E
 !!section: Qui venit
 !!!OMD: Qui venit
@@ -771,7 +754,6 @@
 .	.	2B\	4g/
 .	.	.	4f/
 =101	=101	=101	=101
-!!linebreak:default
 0r	0r	1c	1e
 .	.	2B\	1g
 .	.	[2c\	.
@@ -808,7 +790,6 @@
 .	.	4c\	2b\
 .	.	4B\	.
 =108	=108	=108	=108
-!!pagebreak:default
 1r	0r	2A/	2cc\
 .	.	2D/	1dd
 2D\	.	1r	.
@@ -848,7 +829,6 @@
 .	.	2G/	4e/
 .	.	.	4d/
 =115	=115	=115	=115
-!!linebreak:default
 1.F	0r	2A/	2c/
 .	.	1F	1a
 2E\	.	2G/	2g/
@@ -879,7 +859,6 @@
 1F	.	1a	.
 2G\	.	2g\	.
 =121	=121	=121	=121
-!!linebreak:default
 2A\	0r	2f\	1r
 2B\	.	2d\	.
 2c\	.	2e\	2r
@@ -913,7 +892,6 @@
 0cl	0r	0el	0gl
 !!LO:LB:i:g=z
 =127||	=127||	=127||	=127||
-!!linebreak:default
 *>F	*>F	*>F	*>F
 !!section: Osanna 2
 !!!OMD: Osanna 2
@@ -945,7 +923,6 @@
 2A\	.	2f\	.
 1B	1r	1d	.
 =133	=133	=133	=133
-!!pagebreak:default
 1c	0e	1c	1.g
 1C	.	1.g	.
 .	.	.	2a/
@@ -974,7 +951,6 @@
 .	1A	1f	.
 1G	1B	1g	1b
 =139	=139	=139	=139
-!!linebreak:default
 1A	1.e	1c	1cc
 1G	.	1g	1.b
 .	2d\	.	.
@@ -1005,7 +981,6 @@
 .	.	.	2e/
 .	1D	1d	1f
 =145	=145	=145	=145
-!!linebreak:default
 1.G	0E	1B	0g
 .	.	1.G	.
 2A\	.	.	.
@@ -1037,7 +1012,6 @@
 .	.	2B\	.
 1D	1d	1A	1r
 =151	=151	=151	=151
-!!linebreak:default
 1E	1c	1G	0.r
 1F	1A	1A	.
 1G	1B	1E	.
@@ -1063,7 +1037,6 @@
 .	.	1e	1c
 1B	1d	1r	1d
 =157	=157	=157	=157
-!!pagebreak:default
 1.A	1c	1A	1e
 .	0A	1c	1A
 2G\	.	.	.

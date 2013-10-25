@@ -34,7 +34,6 @@
 0r	0r	[0c	1r
 .	.	.	1g
 =7	=7	=7	=7
-!!linebreak:default
 0r	0r	0c]	2.a/
 .	.	.	4g/
 .	.	.	4a/
@@ -64,7 +63,6 @@
 0r	0r	1e-i]	1b-
 .	.	1e-i	[1cc
 =13	=13	=13	=13
-!!linebreak:default
 0r	0r	1e-i	2cc\]
 .	.	.	2cc\
 .	.	[1f	1cc
@@ -90,7 +88,6 @@
 =18	=18	=18	=18
 0D]	[0B-	0d]	0f]
 =19	=19	=19	=19
-!!pagebreak:default
 [0E-	1B-]	[0B-	[0g
 .	1G	.	.
 =20	=20	=20	=20
@@ -117,7 +114,6 @@
 4E-\	.	.	.
 [2F\	.	.	.
 =25	=25	=25	=25
-!!linebreak:default
 2F\]	1r	0r	0r
 4E-\	.	.	.
 4D\	.	.	.
@@ -150,7 +146,6 @@
 4A\	.	.	.
 4G\	.	.	.
 =31	=31	=31	=31
-!!linebreak:default
 [0B-	0B-	0r	1r
 .	.	.	1f
 =32	=32	=32	=32
@@ -181,7 +176,6 @@
 .	.	1G	2r
 .	.	.	[2b-\
 =37	=37	=37	=37
-!!linebreak:default
 0F	0c	1F	2b-\]
 .	.	.	4a/
 .	.	.	4g/
@@ -219,7 +213,6 @@
 .	[2d\	.	4a/
 .	.	.	4g/
 =43	=43	=43	=43
-!!pagebreak:default
 0F]	2d\]	0f_	2a/
 .	4c\	.	1b-
 .	4B-\	.	.
@@ -255,7 +248,6 @@
 .	.	.	4g/
 .	.	2F/	2a/
 =49	=49	=49	=49
-!!linebreak:default
 0D_	0r	2.F/	2d/
 .	.	.	2.a/
 .	.	4G/	.
@@ -294,7 +286,6 @@
 .	.	[1e-	.
 .	.	.	2b-\
 =55	=55	=55	=55
-!!linebreak:default
 0r	0r	1e-]	1g
 .	.	1d	1b-
 =56	=56	=56	=56
@@ -325,7 +316,6 @@
 .	.	[2d\	.
 .	.	.	4cc\
 =61	=61	=61	=61
-!!linebreak:default
 1G]	2r	2d\]	2dd\
 .	2B-\	2.e-i\	1g
 1E-	1c	.	.
@@ -365,7 +355,6 @@
 2.BB-/	.	1B-	2.b-\
 4C/	.	.	4a/
 =67	=67	=67	=67
-!!pagebreak:default
 2D\	1r	2r	2f/
 1E-	.	2.B-\	1g
 .	1B-	.	.
@@ -399,7 +388,6 @@
 1E-	0c]	1G]	1g
 1F	.	1F	[1a
 =73	=73	=73	=73
-!!linebreak:default
 0C	1r	2r	1a]
 .	.	2.c\	.
 .	1c	.	1g
@@ -432,7 +420,6 @@
 .	2r	1e	.
 .	[2B-\	.	.
 =79	=79	=79	=79
-!!linebreak:default
 0F	2B-\]	0f	0r
 .	4A/	.	.
 .	4G/	.	.
@@ -469,7 +456,6 @@
 4E-\	.	.	.
 4D\	.	.	.
 =85	=85	=85	=85
-!!linebreak:default
 1E-	0r	1r	0r
 2.D\	.	[1f	.
 4E-\	.	.	.
@@ -501,7 +487,6 @@
 2D\	.	2A/	.
 .	4c\	.	.
 =91	=91	=91	=91
-!!pagebreak:default
 0BB-	4d\	0B-	2b-\]
 .	4e-i\	.	.
 .	1d	.	2b-\
@@ -542,7 +527,6 @@
 .	2.d\	1A	1a
 .	4c\	.	.
 =97	=97	=97	=97
-!!linebreak:default
 0r	4d\	2r	2.a/
 .	4e\	.	.
 .	1f	2D/	.
@@ -580,11 +564,9 @@
 2.E-\	.	1G	1g
 4D\	.	.	.
 =103	=103	=103	=103
-!!linebreak:default
 0BB-l	0B-]	0dl	0fl
 !!LO:LB:i:g=z
 =104||	=104||	=104||	=104||
-!!linebreak:default
 !!section: Secunda pars: Quando natus est
 !!!OMD: Secunda pars: Quando natus est
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
@@ -609,7 +591,6 @@
 .	.	1c	2a/
 .	.	.	2g/
 =110	=110	=110	=110
-!!pagebreak:default
 0r	0r	2.d\	2b-\
 .	.	.	2.a/
 .	.	4e\	.
@@ -653,7 +634,6 @@
 2.A\	1c	1F	.
 4G\	.	.	.
 =117	=117	=117	=117
-!!linebreak:default
 1.B-	2.d\	0r	0r
 .	4e\	.	.
 .	4f\	.	.
@@ -690,7 +670,6 @@
 1B-	2.d\	.	.
 .	4e\	.	.
 =124	=124	=124	=124
-!!linebreak:default
 1A	1f	0r	0r
 1G	1e	.	.
 =125	=125	=125	=125
@@ -723,7 +702,6 @@
 .	.	.	[1a
 .	.	2c\	.
 =131	=131	=131	=131
-!!linebreak:default
 0r	0r	2d\	2a/]
 .	.	2f\	4g/
 .	.	.	4f/
@@ -759,7 +737,6 @@
 .	4c\	.	.
 .	2A/	.	.
 =137	=137	=137	=137
-!!pagebreak:default
 2G\	2B-\	1r	0r
 2D\	1A	.	.
 1E	.	2r	.
@@ -794,7 +771,6 @@
 .	.	1B-	.
 .	.	.	2g/
 =143	=143	=143	=143
-!!linebreak:default
 0r	0r	1A	2a/
 .	.	.	2.cc\
 .	.	1c	.
@@ -828,7 +804,6 @@
 .	.	.	2b-\
 .	1B-	.	1b-
 =149	=149	=149	=149
-!!linebreak:default
 0r	1c	0r	2r
 .	.	.	2.g/
 .	[1e-	.	.
@@ -870,7 +845,6 @@
 1B-	1d	2G/	.
 .	.	2B-\	.
 =155	=155	=155	=155
-!!linebreak:default
 2A\	0r	2c\	0r
 2.B-\	.	2d\	.
 .	.	2G/	.
@@ -908,7 +882,6 @@
 2F\	.	2A/	.
 [2G\	.	2B-\	.
 =161	=161	=161	=161
-!!pagebreak:default
 4G\]	0d_	2r	0r
 4A\	.	.	.
 4B-\	.	2G/	.
@@ -951,7 +924,6 @@
 .	2c\	.	2ee\
 .	[2d\	.	[2ff\
 =167	=167	=167	=167
-!!linebreak:default
 0r	4d\]	0r	4ff\]
 .	4e\	.	4ee\
 .	4f\	.	1dd
@@ -985,7 +957,6 @@
 4F\	.	4A/	.
 1G	1d	1B-	.
 =174	=174	=174	=174
-!!linebreak:default
 0D	1.f	0A	1r
 .	.	.	1a
 .	2f\	.	.
@@ -1017,7 +988,6 @@
 .	[1d	.	.
 .	.	2e\	.
 =181	=181	=181	=181
-!!linebreak:default
 0D]	2d\]	1.f	1r
 .	2e\	.	.
 .	[1f	.	[1a
@@ -1052,7 +1022,6 @@
 .	.	[1f	1a
 .	2e\	.	.
 =188	=188	=188	=188
-!!pagebreak:default
 0F	1c	2f\]	2.a/
 .	.	2e\	.
 .	.	.	4b-\
@@ -1094,7 +1063,6 @@
 0D]	0d]	0Al	0f]
 !!LO:LB:i:g=z
 =195||	=195||	=195||	=195||
-!!linebreak:default
 !!section: Tertia pars: Rubum, quem viderat Moyses
 !!!OMD: Tertia pars: Rubum, quem viderat Moyses
 *M2/1	*M2/1	*M2/1	*M2/1
@@ -1120,7 +1088,6 @@
 .	.	[1c	.
 .	2B-\	.	.
 =202	=202	=202	=202
-!!linebreak:default
 0r	1A	1c]	1a
 .	1G	1d	1b-
 =203	=203	=203	=203
@@ -1148,7 +1115,6 @@
 0E-i	1G	0e-]	1b-
 .	[1B-	.	1b-
 =209	=209	=209	=209
-!!linebreak:default
 0BB-	2B-\]	1.d	0b-
 .	2B-\	.	.
 .	2.B-\	.	.
@@ -1180,7 +1146,6 @@
 .	.	.	4cc\
 .	.	1f	[1dd
 =216	=216	=216	=216
-!!pagebreak:default
 0r	0r	2g\	1dd]
 .	.	2d\	.
 .	.	1e-i	1cc
@@ -1211,7 +1176,6 @@
 .	4A/	.	.
 .	4G/	.	.
 =223	=223	=223	=223
-!!linebreak:default
 1G]	2.B-\	0r	0r
 .	4c\	.	.
 1F	[1d	.	.
@@ -1243,7 +1207,6 @@
 .	2B-\	.	1dd
 .	2c\	2g\	.
 =230	=230	=230	=230
-!!linebreak:default
 0r	1d	1f	1.dd
 .	1B-	1d	.
 .	.	.	2dd\
@@ -1276,7 +1239,6 @@
 1E	1c	0r	0r
 1F	1A	.	.
 =237	=237	=237	=237
-!!linebreak:default
 2.G\	1B-	0r	0r
 4F\	.	.	.
 1E	1c	.	.
@@ -1304,7 +1266,6 @@
 4E\	.	.	.
 4D\	.	.	.
 =244	=244	=244	=244
-!!pagebreak:default
 2E\	1.c	0r	0r
 2F\	.	.	.
 2.C/	.	.	.
@@ -1345,7 +1306,6 @@
 .	.	4f#i\	.
 .	.	4e\	.
 =251	=251	=251	=251
-!!linebreak:default
 2r	0r	1g	2g/
 2G\	.	.	2b-\
 2G\	.	2.d\	2b-\
@@ -1379,7 +1339,6 @@
 0AAl	0A]	0el	0ccl
 !!LO:LB:i:g=z
 =258||	=258||	=258||	=258||
-!!linebreak:default
 !!section: Quarta pars: Germinavit radix Jesse
 !!!OMD: Quarta pars: Germinavit radix Jesse
 *M2/1	*M2/1	*M2/1	*M2/1
@@ -1409,7 +1368,6 @@
 .	4A/	.	.
 .	4G/	.	.
 =264	=264	=264	=264
-!!linebreak:default
 [0D	2.B-\	0r	0r
 .	4c\	.	.
 .	2A/	.	.
@@ -1443,7 +1401,6 @@
 .	.	.	4a/
 .	.	.	4g/
 =271	=271	=271	=271
-!!pagebreak:default
 0r	0r	1d	2.b-\
 .	.	.	4cc\
 .	.	1f	1a
@@ -1476,7 +1433,6 @@
 [1F	.	.	.
 .	.	2e\	.
 =277	=277	=277	=277
-!!linebreak:default
 2F\]	1r	1d	0f]
 2G\	.	.	.
 1A	1F	1c	.
@@ -1512,7 +1468,6 @@
 2G\	.	1r	1b-
 [2B-\	.	.	.
 =284	=284	=284	=284
-!!linebreak:default
 4B-\]	1c	1F	1cc
 4A\	.	.	.
 4A\	.	.	.
@@ -1556,7 +1511,6 @@
 1G	1B-	.	.
 .	.	2e\	.
 =290	=290	=290	=290
-!!linebreak:default
 [0F	2.c\	2f\	0r
 .	.	2c\	.
 .	4B-\	.	.
@@ -1598,7 +1552,6 @@
 .	[2f\	2F/	2dd\
 4G\	.	.	.
 =296	=296	=296	=296
-!!pagebreak:default
 2A\	2f\]	[0f	2cc\
 2B-\	2d\	.	2.b-\
 1F	1c	.	.
@@ -1638,7 +1591,6 @@
 .	4c\	4e-i\	.
 .	4B-\	4d\	.
 =303	=303	=303	=303
-!!linebreak:default
 2r	2A/	2c\	2r
 2G\	2G/	2.d\	2b-\
 2F\	1r	.	2a/
@@ -1674,7 +1626,6 @@
 1E	1e	.	1g
 .	.	2c#i\	.
 =310	=310	=310	=310
-!!linebreak:default
 0D	1f	1d	1a
 .	1d	1F	1r
 =311	=311	=311	=311
@@ -1703,7 +1654,6 @@
 1F	1A	2.f\	2.a/
 .	.	4e\	4b-\
 =317	=317	=317	=317
-!!linebreak:default
 2.E-i\	0G	2c\	2cc\
 .	.	1d	1b-
 4D\	.	.	.
@@ -1742,7 +1692,6 @@
 0Gl	0Gl	0d]	0gl
 !!LO:LB:i:g=z
 =324||	=324||	=324||	=324||
-!!pagebreak:default
 !!section: Quinta pars: Ecce Maria genuit
 !!!OMD: Quinta pars: Ecce Maria genuit
 *M2/1	*M2/1	*M2/1	*M2/1
@@ -1771,7 +1720,6 @@
 .	.	2e\	1cc
 .	.	[2f\	.
 =330	=330	=330	=330
-!!linebreak:default
 0r	0r	2f\]	1dd
 .	.	2g\	.
 .	.	2f\	[1dd
@@ -1808,7 +1756,6 @@
 1F	2.c\	.	.
 .	4d\	.	.
 =337	=337	=337	=337
-!!linebreak:default
 1G	2e-i\	0r	0r
 .	2.d\	.	.
 [1G	.	.	.
@@ -1849,7 +1796,6 @@
 .	.	4e-i\	.
 .	.	[2f\	.
 =344	=344	=344	=344
-!!linebreak:default
 0r	2A/	2f\]	0r
 .	2G/	4e-i\	.
 .	.	4d\	.
@@ -1891,7 +1837,6 @@
 .	2c\	.	.
 1BB-	1d	[1B-	[1dd
 =351	=351	=351	=351
-!!pagebreak:default
 1r	1.f	2B-\]	2dd\]
 .	.	4A/	4cc\
 .	.	4G/	4b-\
@@ -1940,7 +1885,6 @@
 .	.	4d\	[2b-\
 .	.	4c\	.
 =358	=358	=358	=358
-!!linebreak:default
 1r	0r	2B-\	4b-\]
 .	.	.	4a/
 .	.	2c\	1g
@@ -1984,7 +1928,6 @@
 .	.	.	2b-\
 1r	1r	1e	1cc
 =365	=365	=365	=365
-!!linebreak:default
 0.r	0.r	0f	1dd
 .	.	.	1.ff
 .	.	1d	.
@@ -2018,7 +1961,6 @@
 .	.	.	2g/
 .	.	1f	1a
 =372	=372	=372	=372
-!!linebreak:default
 0r	0r	2e\	2g/
 .	.	2d\	2f/
 .	.	1e	2.g/
@@ -2061,7 +2003,6 @@
 .	4e\	.	.
 2A\	2f\	.	.
 =379	=379	=379	=379
-!!pagebreak:default
 2G\	2e\	0r	0r
 2F\	2.d\	.	.
 1E	.	.	.
@@ -2106,7 +2047,6 @@
 .	4F/	2g\	[2dd\
 .	4E/	.	.
 =385	=385	=385	=385
-!!linebreak:default
 0r	1F	2.f\	4dd\]
 .	.	.	4cc\
 .	.	.	1cc
@@ -2145,7 +2085,6 @@
 2C/	2c\	2g\	4f/
 .	.	.	4e/
 =391	=391	=391	=391
-!!linebreak:default
 2D\	1A	2f\	1f
 2F\	.	2.d\	.
 1E	1G	.	1g

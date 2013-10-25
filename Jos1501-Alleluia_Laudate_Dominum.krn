@@ -48,7 +48,6 @@
 1G	0B	1d	1g
 1G	.	1r	1d
 =7	=7	=7	=7
-!!linebreak:default
 !	!	!LO:TX:Z=5:t=Altus is missing after m. 6	!
 1C	0c	0ryy	2r
 .	.	.	2g/
@@ -90,7 +89,6 @@
 [1C	.	.	2.e/
 .	.	.	4f/
 =14	=14	=14	=14
-!!linebreak:default
 1C]	1c	0ryy	2g/
 .	.	.	4c/
 .	.	.	4d/
@@ -130,7 +128,6 @@
 2r	.	.	2r
 [2C/	.	.	[2cc\
 =21	=21	=21	=21
-!!pagebreak:default
 2C/]	0e]	0ryy	2cc\]
 2C/	.	.	2cc\
 1C	.	.	1cc
@@ -165,7 +162,6 @@
 .	.	.	4e/
 1G	.	.	1d
 =28	=28	=28	=28
-!!linebreak:default
 0C	1c	0ryy	1c
 .	1c	.	1r
 =29	=29	=29	=29
@@ -196,7 +192,6 @@
 2.C/	.	.	.
 4BB/	.	.	.
 =35	=35	=35	=35
-!!linebreak:default
 2GG/	1d	0ryy	0r
 2BB/	.	.	.
 1AA	1c	.	.
@@ -232,7 +227,6 @@
 .	1G	.	.
 2C/	.	.	2g/
 =42	=42	=42	=42
-!!linebreak:default
 2E\	2G/	0ryy	2g/
 2F\	1A	.	2c/
 1D	.	.	1f
@@ -269,7 +263,6 @@
 1G	.	.	2g/
 .	.	.	2g/
 =49	=49	=49	=49
-!!pagebreak:default
 1G	1B]	0ryy	2d/
 .	.	.	2g/
 2D\	1B	.	2f/
@@ -304,7 +297,6 @@
 2r	[1g	.	2ee\
 2C/	.	.	2ee\
 =56	=56	=56	=56
-!!linebreak:default
 2G\	1g]	0ryy	2dd\
 2C/	.	.	2ee\
 2G\	1g	.	2dd\
@@ -343,7 +335,6 @@
 2r	.	.	.
 2C/	.	.	.
 =63	=63	=63	=63
-!!linebreak:default
 2C/	1e]	0ryy	2r
 2C/	.	.	2g/
 2.C/	1e	.	4g/
@@ -390,7 +381,6 @@
 2r	.	.	2r
 [2E\	.	.	[2a/
 =70	=70	=70	=70
-!!linebreak:default
 2E\]	[0c	0ryy	2a/]
 1F	.	.	1a
 2F\	.	.	2a/
@@ -431,7 +421,6 @@
 2G\	.	.	.
 .	4e\	.	.
 =77	=77	=77	=77
-!!pagebreak:default
 2F\	1f	0ryy	1a
 2D\	.	.	.
 2.F\	1f	.	2r
@@ -468,7 +457,6 @@
 2F\	.	.	2f/
 2F\	.	.	2c/
 =84	=84	=84	=84
-!!linebreak:default
 1C	1G	0ryy	4c/
 .	.	.	4B/
 .	.	.	4c/
@@ -517,7 +505,6 @@
 1F	.	.	2r
 .	.	.	[2cc\
 =91	=91	=91	=91
-!!linebreak:default
 1C	[0c	0ryy	2cc\]
 .	.	.	2cc\
 2r	.	.	1cc

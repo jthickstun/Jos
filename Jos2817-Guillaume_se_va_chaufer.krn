@@ -41,7 +41,6 @@
 .	.	.	2g/
 1D	.	1a	1f
 =7	=7	=7	=7
-!!linebreak:default
 1GG	0d_	1b-	1g
 1D	.	2a\	2r
 .	.	2a\	2a/
@@ -73,7 +72,6 @@
 1D	.	2a\	1r
 .	.	2a\	.
 =14	=14	=14	=14
-!!linebreak:default
 1GG	0d_	2g\	1r
 .	.	2g\	.
 1D	.	1f	1a
@@ -103,7 +101,6 @@
 1D	.	2a\	2r
 .	.	2a\	2a/
 =21	=21	=21	=21
-!!pagebreak:default
 1GG	0d_	2g\	1b-
 .	.	2g\	.
 1D	.	1f	2a/

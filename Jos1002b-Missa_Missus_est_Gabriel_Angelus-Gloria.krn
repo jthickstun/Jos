@@ -52,7 +52,6 @@
 .	.	2r	1dd
 .	.	2g\	.
 =7	=7	=7	=7
-!!linebreak:original
 0r	0r	2g\	2r
 .	.	2g\	2dd\
 .	.	1d	2dd\
@@ -89,7 +88,6 @@
 1D	.	1A	.
 .	.	.	2f#i/
 =14	=14	=14	=14
-!!linebreak:original
 2E\	1r	1G	1g
 2E\	.	.	.
 [1F	[1D	1r	1r
@@ -125,7 +123,6 @@
 2D\	4G/	.	.
 .	4F/	.	.
 =21	=21	=21	=21
-!!pagebreak:original
 2C/	2E/	0r	0r
 1F	2.D/	.	.
 .	4E/	.	.
@@ -167,7 +164,6 @@
 .	.	8e\L	.
 .	.	8d\J	.
 =28	=28	=28	=28
-!!linebreak:original
 2F\]	2A/]	2c\	0r
 2D\	2A/	2.d\	.
 1E	2G/	.	.
@@ -205,7 +201,6 @@
 2BB-/	2G/	.	.
 [2C/	[2A/	.	.
 =35	=35	=35	=35
-!!linebreak:original
 4C/]	4A/]	0r	0r
 4BB-/	4D/	.	.
 2GG/	1G	.	.
@@ -239,7 +234,6 @@
 .	2F/	.	.
 .	[2G/	.	.
 =42	=42	=42	=42
-!!linebreak:original
 1C	2G/]	2G/	1e
 .	1A	2c\	.
 1D	.	1F	1d
@@ -283,7 +277,6 @@
 .	.	4f\	[2dd\
 .	.	4e\	.
 =49	=49	=49	=49
-!!pagebreak:original
 0D	1r	2d\	4dd\]
 .	.	.	4cc\
 .	.	1f	2b-\
@@ -332,7 +325,6 @@
 2GG/	1G	2B-\	2g/
 [2G\	.	[2d\	[2b-\
 =56	=56	=56	=56
-!!linebreak:original
 2G\]	2r	4d\]	2b-\]
 .	.	4c\	.
 2G\	1d	4d\	2b-\
@@ -372,7 +364,6 @@
 1BB-	1d	1f	1b-
 1F	1c	1f	1a
 =63	=63	=63	=63
-!!linebreak:original
 1G	1B-	1d	1g
 1G	1B-	1e	[1g
 =64	=64	=64	=64
@@ -401,7 +392,6 @@
 =69	=69	=69	=69
 0D	0d	0f	0a
 =70	=70	=70	=70
-!!linebreak:original
 1G	1B-	1d	1g
 1F	1c	1f	1a
 =71	=71	=71	=71
@@ -421,7 +411,6 @@
 =76	=76	=76	=76
 0D	0d	0f	0a
 =77	=77	=77	=77
-!!pagebreak:original
 1r	1r	1r	1r
 1D	1d	1f	1a
 =78	=78	=78	=78
@@ -461,7 +450,6 @@
 2F\	.	1A	.
 2D\	2d\	.	.
 =84	=84	=84	=84
-!!linebreak:original
 2E\	2c\	0r	0r
 2F\	2A/	.	.
 2G\	2B-\	.	.
@@ -498,7 +486,6 @@
 1E	.	2r	.
 .	2c#i\	[2g\	.
 =91	=91	=91	=91
-!!linebreak:original
 1D	1d	2g\]	2r
 .	.	2f\	1dd
 1r	1r	2d\	.
@@ -544,7 +531,6 @@
 [2F\	2c\	4e\	[2a/
 .	.	4d\	.
 =98	=98	=98	=98
-!!linebreak:original
 2F\]	2A/	2.c\	2a/]
 4E\	2.c\	.	4g/
 4D\	.	4d\	4f/
@@ -571,7 +557,6 @@
 .	4A/	.	.
 .	4G/	.	.
 =105	=105	=105	=105
-!!pagebreak:original
 0D]	0A	1r	2r
 .	.	.	2f/
 .	.	1d	4f/
@@ -614,7 +599,6 @@
 .	2A/	.	2e/
 .	2A/	2c#i\	2e/
 =112	=112	=112	=112
-!!linebreak:original
 0r	1D	2.d\	4d/
 .	.	.	4e/
 .	.	.	4f/
@@ -655,7 +639,6 @@
 .	2E/	2c\	.
 .	2E/	2G/	[2g/
 =119	=119	=119	=119
-!!linebreak:original
 0D	1D	1B-	2g/]
 .	.	.	4f#i/
 .	.	.	4e/

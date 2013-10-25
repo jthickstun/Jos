@@ -34,7 +34,6 @@
 1C	1e	1c	2g/
 .	.	.	2a/
 =5	=5	=5	=5
-!!linebreak:original
 1.G	2.d\	1B	1.b
 .	4c\	.	.
 .	2d\	1G	.
@@ -78,7 +77,6 @@
 1BB	.	.	1r
 .	2G#i/	2D/	.
 =10	=10	=10	=10
-!!linebreak:original
 0AA	0.A	0E	1.cc
 .	.	.	2cc\
 1r	.	[1F	1cc
@@ -116,7 +114,6 @@
 4F#i\	.	.	.
 2G#i\	.	.	.
 =15	=15	=15	=15
-!!pagebreak:original
 1A	1.c	0e]	2A/
 .	.	.	2a/
 1r	.	.	2g/
@@ -143,7 +140,6 @@
 4E\	.	4e\	.
 =18	=18	=18	=18
 0.AAl	0.A]	0.el	0.cl
-!!linebreak:original
 !!LO:LB:i:g=z
 =19||	=19||	=19||	=19||
 *>B	*>B	*>B	*>B
@@ -192,7 +188,6 @@
 .	.	2.c\	2.e/
 .	.	4B\	4d/
 =24	=24	=24	=24
-!!linebreak:original
 0.r	0.r	2A/	4e/
 .	.	.	4f/
 .	.	1G	1g
@@ -227,7 +222,6 @@
 .	.	.	2g#i/
 =28	=28	=28	=28
 0.r	0.r	0.Al	0.al
-!!linebreak:original
 !!LO:LB:i:g=z
 =29||	=29||	=29||	=29||
 *>C	*>C	*>C	*>C
@@ -247,7 +241,6 @@
 0D	0A	0f	0dd
 =32	=32	=32	=32
 0.AAl	0.Al	0.el	0.ccl
-!!pagebreak:original
 !LO:TX:rj:i:t=fine	!	!	!
 !!LO:LB:i:g=z
 =33||	=33||	=33||	=33||
@@ -275,7 +268,6 @@
 =39	=39	=39	=39
 0C;	0c;	0e;	0g;
 =40	=40	=40	=40
-!!linebreak:original
 0C	0E	0c	0g
 =41	=41	=41	=41
 0C	0G	[0c	0e
@@ -293,7 +285,6 @@
 =46	=46	=46	=46
 0AA;	0c;	0A;	0e;
 =47	=47	=47	=47
-!!linebreak:original
 0AA	0e	0c	0cc
 =48	=48	=48	=48
 0C	0e	1c	0cc
@@ -312,7 +303,6 @@
 =53	=53	=53	=53
 0C	0e	0g	0cc
 =54	=54	=54	=54
-!!linebreak:original
 1G	1d	1g	1b
 1A	1c	1e	1a
 =55	=55	=55	=55
@@ -330,7 +320,6 @@
 1AA	1A	1c	.
 =60	=60	=60	=60
 0AAl	0Al	0cl	0e]
-!!pagebreak:original
 !!LO:LB:i:g=z
 =61||	=61||	=61||	=61||
 *>E	*>E	*>E	*>E
@@ -378,7 +367,6 @@
 2.C/	2.E/	.	.
 4BB/	4D/	.	.
 =66	=66	=66	=66
-!!linebreak:original
 2AA/	4E/	0.r	0.r
 .	4F/	.	.
 1GG	1G	.	.

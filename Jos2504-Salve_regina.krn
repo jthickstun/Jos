@@ -44,7 +44,6 @@
 .	.	4e/	4g/
 .	.	[2d/	[2b-\
 =7	=7	=7	=7
-!!linebreak:default
 1E	1G	2d/]	4b-\]
 .	.	.	4a/
 .	.	2c#i/	1g
@@ -89,7 +88,6 @@
 1D	1A	1d	.
 .	.	.	2f#i/
 =14	=14	=14	=14
-!!linebreak:default
 1r	1G	0r	1g
 1A	1r	.	1r
 =15	=15	=15	=15
@@ -123,7 +121,6 @@
 .	.	.	4a/
 .	.	2c#i/	[2g/
 =21	=21	=21	=21
-!!pagebreak:default
 1D	1A	1d	2g/]
 .	.	.	2f#i/
 1E	1G	2r	1g
@@ -166,7 +163,6 @@
 .	.	.	2f#i/
 1r	1G	1r	1g
 =28	=28	=28	=28
-!!linebreak:default
 0r	0r	1d	1r
 .	.	1c	1g
 =29	=29	=29	=29
@@ -198,7 +194,6 @@
 1D	1d	1r	1a
 1r	1G	1g	1r
 =35	=35	=35	=35
-!!linebreak:default
 1r	0r	2f/	1cc
 .	.	2e/	.
 2r	.	2.d/	2b-\
@@ -237,7 +232,6 @@
 .	.	2f/	1f
 .	.	2a/	.
 =42	=42	=42	=42
-!!linebreak:default
 1r	0r	2.g/	2b-\
 .	.	.	2dd\
 .	.	4f/	.
@@ -277,7 +271,6 @@
 .	2c\	.	.
 1G	1d	1d	1r
 =49	=49	=49	=49
-!!pagebreak:default
 1r	1c	1e	1g
 2r	1r	1f	1a
 2F\	.	.	.
@@ -316,7 +309,6 @@
 2A\	2c\	[2f/	.
 .	.	.	4b-\
 =56	=56	=56	=56
-!!linebreak:default
 1D	2d\	4f/]	4a/
 .	.	4e/	4g/
 .	2d\	1d	2.b-\
@@ -354,7 +346,6 @@
 .	.	4a/	.
 .	2c\	[2a/	[2ee\
 =63	=63	=63	=63
-!!linebreak:default
 1B	1d	2a/]	4ee\]
 .	.	.	4dd\
 .	.	2g#i/	1dd
@@ -395,7 +386,6 @@
 1G	1d	1g	.
 .	.	.	2bni\
 =70	=70	=70	=70
-!!linebreak:default
 0r	1c	2r	1cc
 .	.	2c/	.
 .	1r	2d/	2r
@@ -434,7 +424,6 @@
 .	.	.	2f#i/
 1r	1G	1r	1g
 =77	=77	=77	=77
-!!pagebreak:default
 0r	0r	1A	1r
 .	.	2B/	1d
 .	.	2d/	.
@@ -475,7 +464,6 @@
 .	.	8e/L	.
 .	.	8f/J	.
 =84	=84	=84	=84
-!!linebreak:default
 1r	1c	1g	2.g/
 .	.	.	8a/L
 .	.	.	8b-/J
@@ -516,7 +504,6 @@
 .	.	.	4cc\
 .	.	2f#i/	[2cc\
 =91	=91	=91	=91
-!!linebreak:default
 1G	1d	1g	2cc\]
 .	.	.	2bni\
 2r	1c	2r	1cc
@@ -556,7 +543,6 @@
 2r	1G	1r	1g
 2G\	.	.	.
 =98	=98	=98	=98
-!!linebreak:default
 1A	2r	1a	1r
 .	2c\	.	.
 1B	1d	1g	1dd
@@ -589,7 +575,6 @@
 .	2c\	.	.
 1B	1d	1g	1dd
 =105	=105	=105	=105
-!!pagebreak:default
 1A	1e	1a	1cc
 1r	1d	2r	1dd
 .	.	2a/	.
@@ -622,7 +607,6 @@
 2D\	1d	2r	1dd
 [2G\	.	2d/	.
 =112	=112	=112	=112
-!!linebreak:default
 4G\]	2G/	1e	2r
 4F\	.	.	.
 4E\	2.c\	.	2g/
@@ -661,7 +645,6 @@
 1E	2r	.	2r
 .	2G/	2c/	[2g/
 =119	=119	=119	=119
-!!linebreak:default
 1D	1A	2d/	2g/]
 .	.	2f/	2f/
 2r	1G	2e/	2g/

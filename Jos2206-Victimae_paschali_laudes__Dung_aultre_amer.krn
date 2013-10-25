@@ -45,7 +45,6 @@
 .	.	1.f	.
 1F	.	.	1cc
 =7	=7	=7	=7
-!!linebreak:default
 1.G	1G	4d\	1.b-
 .	.	4c\	.
 .	.	4B-\	.
@@ -80,7 +79,6 @@
 .	.	.	4d/
 .	[1B-	1d	[1d
 =14	=14	=14	=14
-!!linebreak:default
 [0D	2B-\]	0d	1d]
 .	4A/	.	.
 .	4G/	.	.
@@ -119,7 +117,6 @@
 .	.	2D/	.
 .	.	2F/	.
 =21	=21	=21	=21
-!!pagebreak:default
 0r	1c	2C/	0r
 .	.	1c	.
 .	2A/	.	.
@@ -157,7 +154,6 @@
 1D	.	1A	[1f
 .	2e\	.	.
 =28	=28	=28	=28
-!!linebreak:default
 2r	1f	1D	2f/]
 2D\	.	.	2d/
 2E\	[1g	2r	1c
@@ -191,7 +187,6 @@
 4G\	.	.	.
 1A	1c	1F	.
 =35	=35	=35	=35
-!!linebreak:default
 1B-	0d	1f	0b-
 1BB-	.	2d\	.
 .	.	[2f\	.
@@ -227,7 +222,6 @@
 2AA/	1c	2E/	2cc\
 2FF/	.	2F/	[2cc\
 =41	=41	=41	=41
-!!linebreak:default
 2C/	1G	2E/	2cc\]
 2GG/	.	2G/	2b-\
 2D\	2A/	2F/	2a/
@@ -263,7 +257,6 @@
 0GGl	0G]	0Dl	0g]
 !!LO:LB:i:g=z
 =47||	=47||	=47||	=47||
-!!pagebreak:default
 !!section: Secunda pars: Dic nobis Maria
 !!!OMD: Secunda pars: Doc nobis Maria
 !	!	!	!LO:TX:Z=5:t=Superius by Hayne van Ghizeghem
@@ -293,7 +286,6 @@
 1G	0r	0G	0r
 1C	.	.	.
 =54	=54	=54	=54
-!!linebreak:default
 1.F	0r	1r	0r
 .	.	1F	.
 2E\	.	.	.
@@ -323,7 +315,6 @@
 .	.	.	4f/
 .	.	.	4e/
 =61	=61	=61	=61
-!!linebreak:default
 0r	1B-	1G]	1d
 .	1c	1C	[1g
 =62	=62	=62	=62
@@ -354,7 +345,6 @@
 .	[1G	.	2g/
 .	.	.	2f/
 =68	=68	=68	=68
-!!linebreak:default
 0r	0G]	0r	1e
 .	.	.	[1d
 =69	=69	=69	=69
@@ -380,7 +370,6 @@
 0r	0r	1F	1r
 .	.	[1B-	1g
 =75	=75	=75	=75
-!!pagebreak:default
 0r	1B-	2B-\]	1b-
 .	.	2A/	.
 .	1d	1G	1b-
@@ -414,7 +403,6 @@
 4C/	.	2G/	4e/
 4BB-/	.	.	4d/
 =81	=81	=81	=81
-!!linebreak:default
 1AA	1r	2A/	1c
 .	.	1c	.
 1GG	1G	.	1d
@@ -448,7 +436,6 @@
 .	.	1d	2f/
 .	.	.	2g/
 =88	=88	=88	=88
-!!linebreak:default
 0r	0r	2c\	1.a
 .	.	1d	.
 .	.	2B-\	4g/
@@ -479,7 +466,6 @@
 1D	2d\	[1A	1f
 .	[2d\	.	.
 =95	=95	=95	=95
-!!linebreak:default
 1AA	2d\]	1A]	1e
 .	2c\	.	.
 2BB-/	1B-	1D	[1d
@@ -508,7 +494,6 @@
 2GG/	1g	[1d	1G
 [2G\	.	.	.
 =101	=101	=101	=101
-!!pagebreak:default
 2G\]	0d	2d\]	2B-/
 4F\	.	2e\	2c/
 4E\	.	.	.
@@ -540,7 +525,6 @@
 .	.	1A	1d
 .	2e\	.	.
 =107	=107	=107	=107
-!!linebreak:default
 1r	1d	1D	2f/
 .	.	.	2g/
 [1F	[1c	2r	[1a
@@ -579,7 +563,6 @@
 .	.	4B-\	.
 2C/	2c\	2e-i\	.
 =113	=113	=113	=113
-!!linebreak:default
 1D	0A	1d	0f
 2r	.	2r	.
 2D\	.	2d\	.

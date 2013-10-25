@@ -53,7 +53,6 @@
 1F	.	.	.	.
 .	.	2d\	.	.
 =5	=5	=5	=5	=5
-!!linebreak:default
 1E	1G	2e\	0.r	0.r
 .	.	2c\	.	.
 2D\	1A	2d\	.	.
@@ -80,7 +79,6 @@
 1D	1f	1d	.	.
 .	.	.	.	2dd\
 =9	=9	=9	=9	=9
-!!pagebreak:default
 1A	0e	2.c\	0.r	0ee
 .	.	8B/L	.	.
 .	.	8A/J	.	.
@@ -114,7 +112,6 @@
 .	.	.	.	4b\
 2D\	.	2d\	.	[2a/
 =13	=13	=13	=13	=13
-!!linebreak:default
 1E	[0.e	1B	0.r	2a/]
 .	.	.	.	2g/
 2AA/	.	2c\	.	2a/
@@ -146,7 +143,6 @@
 1C	.	2G/	.	.
 .	.	2c\	.	.
 =17	=17	=17	=17	=17
-!!linebreak:default
 1G	[0.d	2B\	0.r	0.r
 .	.	2G/	.	.
 2F\	.	2A/	.	.
@@ -178,7 +174,6 @@
 2d\	.	2G/	.	.
 2B\	.	2d\	.	.
 =21	=21	=21	=21	=21
-!!pagebreak:default
 2c\	0g	2.e\	0.r	1r
 1G	.	.	.	.
 .	.	4d\	.	.
@@ -209,7 +204,6 @@
 .	.	.	.	4e/
 2B\	.	2d\	.	2d/
 =25	=25	=25	=25	=25
-!!linebreak:default
 2c\	[0.el	2e\	0.r	1c
 2C/	.	2.g\	.	.
 2.c\	.	.	.	2r
@@ -245,7 +239,6 @@
 0.AAl	0.e]	0.Al	0.r	0.al
 !!LO:LB:i:g=z
 =29||	=29||	=29||	=29||	=29||
-!!linebreak:default
 *>B	*>B	*>B	*>B	*>B
 !!section: Agnus Dei II
 !!!OMD: Agnus Dei II
@@ -282,7 +275,6 @@
 .	.	.	.	2cc\
 .	.	.	.	[2b\
 =35	=35	=35	=35	=35
-!!pagebreak:default
 0r	0r	0r	0e]	2b\]
 .	.	.	.	2g/
 .	.	.	.	1g
@@ -311,7 +303,6 @@
 .	.	.	2cc\	1r
 .	.	.	[2b\	.
 =41	=41	=41	=41	=41
-!!linebreak:default
 0r	0r	0r	4b\]	1dd
 .	.	.	4a/	.
 .	.	.	2b\	.
@@ -348,7 +339,6 @@
 .	.	.	1r	2cc\
 .	.	.	.	2dd\
 =47	=47	=47	=47	=47
-!!linebreak:default
 0r	0r	0r	1dd	1.g
 .	.	.	2ee\	.
 .	.	.	[2dd\	2f/
@@ -380,7 +370,6 @@
 .	.	.	2cc\	2c/
 .	.	.	2b\	[2g/
 =53	=53	=53	=53	=53
-!!pagebreak:default
 0r	0r	0r	1e	2g/]
 .	.	.	.	4f/
 .	.	.	.	4e/
@@ -409,7 +398,6 @@
 .	.	.	1b	2d/
 .	.	.	.	[2e/
 =59	=59	=59	=59	=59
-!!linebreak:default
 0r	0r	0r	2e/	4e/]
 .	.	.	.	4c/
 .	.	.	2f/	2d/
@@ -443,7 +431,6 @@
 .	.	.	.	1a
 .	.	.	2b\	2g/
 =65	=65	=65	=65	=65
-!!linebreak:default
 0r	0r	0r	2.cc\	3a/V
 .	.	.	.	3f/
 .	.	.	.	3g/Z
@@ -465,7 +452,6 @@
 0r	0r	0r	0a	0Al
 !!LO:LB:i:g=z
 =68||	=68||	=68||	=68||	=68||
-!!pagebreak:default
 *>C	*>C	*>C	*>C	*>C
 !!section: Agnus Dei III
 !!!OMD: Agnus Dei III
@@ -503,7 +489,6 @@
 2A\	.	2c\	.	.
 2E\	.	[2g\	.	.
 =74	=74	=74	=74	=74
-!!linebreak:default
 2G\	0r	4g\]	0r	0r
 .	.	4f\	.	.
 2A\	.	1e	.	.
@@ -527,7 +512,6 @@
 0C	0e	1r	0r	0ee
 .	.	1e	.	.
 =80	=80	=80	=80	=80
-!!linebreak:default
 1D	0r	1.f	0r	1a
 1D	.	.	.	[1dd
 .	.	4e\	.	.
@@ -560,7 +544,6 @@
 .	.	2A/	.	1a
 .	.	2d\	.	.
 =86	=86	=86	=86	=86
-!!pagebreak:default
 1E	0e	2B\	0r	1.g
 .	.	2c\	.	.
 1E	.	2B\	.	.
@@ -592,7 +575,6 @@
 4F\	.	.	.	.
 [2E\	.	.	.	.
 =92	=92	=92	=92	=92
-!!linebreak:default
 2E\]	0f	1r	0r	0a
 4D\	.	.	.	.
 4C/	.	.	.	.
@@ -628,7 +610,6 @@
 .	2e\	.	.	.
 2G\	2g\	2B\	.	.
 =98	=98	=98	=98	=98
-!!linebreak:default
 1A	2f\	1c	0r	0r
 .	2.e\	.	.	.
 1G	.	1B	.	.
@@ -669,7 +650,6 @@
 .	.	4c\	.	.
 .	.	4d\	.	.
 =104	=104	=104	=104	=104
-!!pagebreak:default
 0AA	1A	2e\	0r	0ee
 .	.	1d	.	.
 .	2r	.	.	.
@@ -706,7 +686,6 @@
 2r	2B\	.	.	.
 2D\	2d\	.	.	.
 =110	=110	=110	=110	=110
-!!linebreak:default
 *	*	*M4/1	*	*
 *	*	*met(2)	*	*
 *	*	*rscale:2	*	*
@@ -745,7 +724,6 @@
 2BB/	2D/	2r	.	2dd\
 2AA/	[2A/	2c	.	[2ee\
 =116	=116	=116	=116	=116
-!!linebreak:default
 1BB	2A/]	2d	0r	4ee\]
 .	.	.	.	4dd\
 .	2D/	2d	.	1dd
@@ -786,7 +764,6 @@
 2AA	.	2A	.	4a/
 .	.	.	.	4g/
 =122	=122	=122	=122	=122
-!!pagebreak:default
 2BB-	1d	2D	0r	2f/
 2BB-	.	1B-	.	2.g/
 1F	1c	.	.	.
@@ -823,7 +800,6 @@
 1F	1A	2A	.	2f/
 .	.	2A	.	2a/
 =128	=128	=128	=128	=128
-!!linebreak:default
 2E	2r	1e	0r	2g/
 2G	2C	.	.	1e
 2F	2D	1f	.	.

@@ -38,7 +38,6 @@
 0r	0F	1r	0f
 .	.	[1d	.
 =7	=7	=7	=7
-!!linebreak:default
 0C	0r	2d\]	1r
 .	.	2c\	.
 .	.	[1c	[1g
@@ -62,7 +61,6 @@
 1G	1G	1e	1b-
 1G	1G	1g	1b-
 =14	=14	=14	=14
-!!linebreak:default
 1A	1c	1f	1a
 1A	1c	[1e	1cc
 =15	=15	=15	=15
@@ -85,7 +83,6 @@
 1G	1G	1e	1g
 1G	1G	[1d	1g
 =21	=21	=21	=21
-!!pagebreak:default
 0C	1c	2d\]	1a
 .	.	2c\	.
 .	1c	[1c	[1g
@@ -111,7 +108,6 @@
 0C	1G	0c	1f]
 .	1G	.	1e
 =28	=28	=28	=28
-!!linebreak:default
 0F	0F	0r	0f
 =29	=29	=29	=29
 0r	0B-	1.f	0r
@@ -135,7 +131,6 @@
 .	.	.	2g/
 .	.	1c#i	[1g
 =35	=35	=35	=35
-!!linebreak:default
 0D	0A	1d	1g]
 .	.	1f	1f#i
 =36	=36	=36	=36
