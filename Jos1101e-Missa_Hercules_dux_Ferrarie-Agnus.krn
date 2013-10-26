@@ -11,7 +11,6 @@
 !!!voices-OPR: 4(-6)
 **kern	**kern	**kern	**kern	**kern	**kern
 *staff6	*staff5	*staff4	*staff3	*staff1	*staff2
-*clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2	*clefG2
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus2	*I"Bassus1	*I"Tenor	*I"Altus	*I"Superius2	*I"Superius1
 *	*I"Bassus	*	*	*	*I"Superius
@@ -20,14 +19,14 @@
 *>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*M2/1	*M2/1
 *>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>A	*>A
 *>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*met(C|)	*met(C|)
+*>A	*>A	*>A	*>A	*>A	*>A
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2	*clefG2
 *k[]	*k[]	*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
-*>A	*>A	*>A	*>A	*>A	*>A
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-	=1-	=1-
 !!section: Agnus Dei I
 !!!OMD: Agnus Dei I
-*tacet	*	*	*	*tacet	*
 0r	0r	0d	1d	0r	0r
 .	.	.	2d\	.	.
 .	.	.	[2d\	.	.
@@ -280,12 +279,13 @@
 !!LO:LB:i:g=z
 =47||	=47||	=47||	=47||	=47||	=47||
 *>B	*>B	*>B	*>B	*>B	*>B
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
-!	!	!	!	!	!LO:TX:Z=10:t=3-ex-1 canon at the lower octave/lower fourth
-!!section: Agnus Dei II
 !!!OMD: Agnus Dei II
-*tacet	*tacet	*	*	*tacet	*
+!!section: Agnus Dei II
+!	!	!	!	!	!LO:TX:Z=10:t=3-ex-1 canon at the lower octave/lower fourth
 0r	0r	0r	0r	0r	2.d/
 .	.	.	.	.	4e/
 .	.	.	.	.	2f/
@@ -580,11 +580,12 @@
 !!LO:LB:i:g=z
 =97||	=97||	=97||	=97||	=97||	=97||
 *>C	*>C	*>C	*>C	*>C	*>C
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Agnus Dei III
 !!!OMD: Agnus Dei III
-*xtacet	*xtacet	*	*	*xtacet	*
+!!section: Agnus Dei III
 0r	0r	0r	1r	0r	0d
 .	.	.	1d	.	.
 =98	=98	=98	=98	=98	=98
@@ -873,12 +874,10 @@
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: V=start of tuplet marker
-!!!RDF**kern: Z=end of tuplet marker
 !!!ENC: Jesse Rodin; Victoria Chang 2011/09/11
 !!!END: 2011/04/07/
 !!!EED: Jesse Rodin
-!!!EEV: 2012/04/24/
+!!!EEV: 2013/10/25/
 !!attribution-level: 1 (secure)
 !!!ONB: Translated from MusicXML and edited on 2011/04/15/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v95,95,95,95,95,120Q16

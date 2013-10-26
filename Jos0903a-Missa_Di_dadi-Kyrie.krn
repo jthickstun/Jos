@@ -13,6 +13,7 @@
 *Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'A	*I'S
+*>A	*>A	*>A	*>A
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M3/1	*M3/1	*M3/1	*M3/1
@@ -120,11 +121,12 @@
 !!LO:LB:i:g=z
 =16||	=16||	=16||	=16||
 *>B	*>B	*>B	*>B
-!!section: Christe
-!!!OMD: Christe
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*	*tacet	*	*
+!!!OMD: Christe
+!!section: Christe
 1.G	0r	0G	0r
 4F\	.	.	.
 4E\	.	.	.
@@ -250,13 +252,14 @@
 !!LO:LB:i:g=z
 =40||	=40||	=40||	=40||
 *>C	*>C	*>C	*>C
-!!section: Kyrie II
-!!!OMD: Kyrie II
-*M3/1	*M3/1	*M3/1	*M3/1
-*met(O|)	*met(O|)	*met(O|)	*met(O|)
-!	!LO:TX:Z=10:t=Canon&colon; Two dice with faces two over one	!	!
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *	*rscale:1/2	*	*
-*	*xtacet	*	*
+*M3/1	*M3/0	*M3/1	*M3/1
+*met(O|)	*met(O|)	*met(O|)	*met(O|)
+!!!OMD: Kyrie II
+!!section: Kyrie II
+!	!LO:TX:Z=10:t=Canon&colon; Two dice with faces two over one	!	!
 [0.B-	0.r	0.r	1.d
 .	.	.	2e/
 .	.	.	1f

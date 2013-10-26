@@ -12,13 +12,12 @@
 *Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'A	*I'S
+*>A	*>A	*>A	*>A
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met()	*met()	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-
-*tacet	*tacet	*	*
 0r	0r	0G	0g
 =2	=2	=2	=2
 0r	0r	1r	1f
@@ -250,11 +249,13 @@
 0r	0r	0g	0g
 !!LO:LB:i:g=z
 =47||	=47||	=47||	=47||
+*>B	*>B	*>B	*>B
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Secunda pars: Domine, ne memineris
 !!!OMD: Secunda pars: Domine, ne memineris
-*xtacet	*xtacet	*tacet	*tacet
 0D	[0B-	0r	0r
 =48	=48	=48	=48
 1E-i	0B-]	0r	0r
@@ -525,9 +526,11 @@
 =105	=105	=105	=105
 0.BB-;l	0.B-;l	0.r;	0.r;
 =106||	=106||	=106||	=106||
+*>C	*>C	*>C	*>C
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*	*	*xtacet	*xtacet
 0BB-	0B-	0d	0f
 =107	=107	=107	=107
 0BB-	0B-	0d	0f
@@ -588,6 +591,9 @@
 0GG	0G	0B-	0g
 !!LO:LB:i:g=z
 =123||	=123||	=123||	=123||
+*>D	*>D	*>D	*>D
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Tertia pars: Adjuva nos, deus

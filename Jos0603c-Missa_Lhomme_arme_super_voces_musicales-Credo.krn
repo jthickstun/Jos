@@ -10,18 +10,18 @@
 !!!voices-OPR:	4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
-*clefF4	*clefGv2	*clefGv2	*clefG2
 *I"Bassus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'A	*I'S
 *>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *	*rscale:1/2	*	*
 *M3/1	*M9/1	*M3/1	*M3/1
 *met(O)	*met(O.)	*met(O)	*met(O)
 !!primary-mensuration: met(O)
-=1-	=1-	=1-	=1-
-!!section: Patrem
 !!!OMD: Patrem
+!!section: Patrem
+=1-	=1-	=1-	=1-
 0.r	0.r	1e	0.r
 .	.	1f	.
 .	.	1e	.
@@ -541,12 +541,14 @@
 !!LO:LB:g=z
 =59||	=59||	=59||	=59||
 *>B	*>B	*>B	*>B
-!!section: Et incarnatus est
-!!!OMD: Et incarnatus est
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *	*rscale:1/2	*	*
 *M2/1	*M9/1	*M2/1	*M2/1
 *met(C|)	*met(O.)	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
+!!!OMD: Et incarnatus est
+!!section: Et incarnatus est
 !	!LO:TX:X=-20:Z=6:t=Canon&colon; Tenor Et Incarnatus Verte cito	!	!
 !	!LO:N:vis=1.	!	!
 0D	0r	1.A	0f
@@ -989,11 +991,13 @@
 !!LO:LB:g=z
 =137||	=137||	=137||	=137||
 *>C	*>C	*>C	*>C
-!!section: Confiteor
-!!!OMD: Confiteor
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M9/2	*M2/1	*M2/1
 *met(C|)	*met(O.)	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
+!!section: Confiteor
+!!!OMD: Confiteor
 !	!LO:TX:Z=6:t=Canon&colon; Tenor. Confiteor&colon; Reverte citius	!	!
 0r	1.r	0r	1d
 .	.	.	2d/

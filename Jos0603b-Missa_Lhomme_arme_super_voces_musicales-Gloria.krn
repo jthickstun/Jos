@@ -16,16 +16,16 @@
 *>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
 *>Gloria[A]	*>Gloria[A]	*>Gloria[A]	*>Gloria[A]
 *>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]	*>QuiTollis[B]
+*>A	*>A	*>A	*>A
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
-*>A	*>A	*>A	*>A
 *	*rscale:1/2	*	*
 *M3/1	*M9/1	*M3/1	*M3/1
 *met(O)	*met(O.)	*met(O)	*met(O)
 !!primary-mensuration: met(O)
-=1-	=1-	=1-	=1-
 !!section: Et in terra pax
 !!!OMD: Et in terra pax
+=1-	=1-	=1-	=1-
 !	!LO:TX:Z=6:t=Tenor Supra dicta notes	!	!
 0D	0.r	0.r	0d
 1D	.	.	1f
@@ -583,12 +583,14 @@
 !!LO:LB:i:g=z
 =59||	=59||	=59||	=59||
 *>B	*>B	*>B	*>B
-!!section: Qui tollis
-!!!OMD: Qui tollis
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *	*rscale:1/2	*	*
 *M2/1	*M9/1	*M2/1	*M2/1
 *met(C|)	*met(O.)	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
+!!section: Qui tollis
+!!!OMD: Qui tollis
 !	!LO:TX:Z=6:t=Canon&colon; Tenor Verto cito	!	!
 !	!LO:N:vis=1.	!	!
 0D	0r	1d	0a

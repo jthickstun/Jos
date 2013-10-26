@@ -14,8 +14,8 @@
 *>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
 *>Part1[A]	*>Part1[A]	*>Part1[A]	*>Part1[A]	*>Part1[A]	*>Part1[A]
 *>Part2[B]	*>Part2[B]	*>Part2[B]	*>Part2[B]	*>Part2[B]	*>Part2[B]
-*clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2
 *>A	*>A	*>A	*>A	*>A	*>A
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(O2)	*met(C|)	*met(C|)	*met(C|)
@@ -715,10 +715,12 @@
 !!LO:LB:i:g=z
 =129||	=129||	=129||	=129||	=129||	=129||
 *>B	*>B	*>B	*>B	*>B	*>B
-!!section: Secunda pars: Tibi domina gloriosa
-!!!OMD: Secunda pars: Tibi domina gloriosa
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!!OMD: Secunda pars: Tibi domina gloriosa
+!!section: Secunda pars: Tibi domina gloriosa
 0r	0r	0r	0r	0A	0r
 =130	=130	=130	=130	=130	=130
 0r	0r	0r	0r	1c	0r

@@ -10,10 +10,10 @@
 *Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'A	*I'S
-*clefF4	*clefGv2	*clefGv2	*clefG2
 *>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]
 *>alt[A,B,C,E,C]	*>alt[A,B,C,E,C]	*>alt[A,B,C,E,C]	*>alt[A,B,C,E,C]
 *>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
@@ -143,12 +143,12 @@
 !!LO:LB:i:g=z
 =19||	=19||	=19||	=19||
 *>B	*>B	*>B	*>B
+*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
-!!section: Pleni
 !!!OMD: Pleni
-*tacet	*tacet	*	*
+!!section: Pleni
 0.r	0.r	0e	1e
 .	.	.	1g
 .	.	1f	2.a/
@@ -225,12 +225,12 @@
 !!LO:LB:i:g=z
 =29||	=29||	=29||	=29||
 *>C	*>C	*>C	*>C
+*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
-!!section: Osanna
 !!!OMD: Osanna
-*xtacet	*xtacet	*	*
+!!section: Osanna
 0F	0c	0f	0a
 1F	1c	1f	1a
 =30	=30	=30	=30
@@ -241,15 +241,16 @@
 0D	0A	0f	0dd
 =32	=32	=32	=32
 0.AAl	0.Al	0.el	0.ccl
-!LO:TX:rj:i:t=fine	!	!	!
+!!LO:TX:rj:i:t=fine
 !!LO:LB:i:g=z
 =33||	=33||	=33||	=33||
 *>D	*>D	*>D	*>D
-!!section: Honor et benedictio
-!!!OMD: Honor et benedictio
+*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!!OMD: Honor et benedictio
+!!section: Honor et benedictio
 0E	0E	0e	0g
 =34	=34	=34	=34
 0E;	0G;	0e;	0b;
@@ -323,11 +324,12 @@
 !!LO:LB:i:g=z
 =61||	=61||	=61||	=61||
 *>E	*>E	*>E	*>E
-!!section: Benedictus
-!!!OMD: Benedictus
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
-*	*	*tacet	*tacet
+!!!OMD: Benedictus
+!!section: Benedictus
 0E	1E	0.r	0.r
 .	1G	.	.
 1F	2.A/	.	.
@@ -401,7 +403,7 @@
 .	2G#i/	.	.
 =70	=70	=70	=70
 0.AAl	0.Al	0.r	0.r
-!LO:TX:i:Y=40:rj:t=Osanna ut supra	!	!	!
+!!LO:TX:i:Y=40:rj:t=Osanna ut supra
 =||	=||	=||	=||
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation

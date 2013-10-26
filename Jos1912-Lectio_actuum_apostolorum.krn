@@ -12,12 +12,12 @@
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor2	*I"Tenor1	*I"Altus	*I"Superius
 *I'B	*I'T2	*I'T1	*I'A	*I'S
+*>A	*>A	*>A	*>A	*>A
 *clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-	=1-
-*	*	*tacet	*	*
 [0AA	0A	0r	0e	0a
 =2	=2	=2	=2	=2
 1AA]	1c	0r	1e	1a
@@ -71,7 +71,11 @@
 0r	1A	0r	1e	1a
 .	1r	.	1r	1r
 =14||	=14||	=14||	=14||	=14||
-*	*	*xtacet	*	*
+*>B	*>B	*>B	*>B	*>B
+*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 0A	0A	0r	0e	0a
 =15	=15	=15	=15	=15
 1A	1c	0r	1e	1a
@@ -734,9 +738,13 @@
 0EE	0G	0E	0B	0e]
 !!LO:LB:g=z
 =127||	=127||	=127||	=127||	=127||
-!!!OMD: Facta autem hac voce
+*>C	*>C	*>C	*>C	*>C
+*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!!OMD: Facta autem hac voce
+!!section: Facta autem hac voce
 0r	0r	0r	0A	0r
 =128	=128	=128	=128	=128
 0r	0r	0r	1c	0e

@@ -21,9 +21,9 @@
 *>Benedictus[E]	*>Benedictus[E]	*>Benedictus[E]	*>Benedictus[E]
 *>QuiVenit[F]	*>QuiVenit[F]	*>QuiVenit[F]	*>QuiVenit[F]
 *>InNomine[G]	*>InNomine[G]	*>InNomine[G]	*>InNomine[G]
+*>A	*>A	*>A	*>A
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
-*>A	*>A	*>A	*>A
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
 =1-	=1-	=1-	=1-
@@ -149,12 +149,12 @@
 !!LO:LB:i:g=z
 =20||	=20||	=20||	=20||
 *>B	*>B	*>B	*>B
-!!section: Pleni sunt celi
-!!!OMD: Pleni sunt celi
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met()	*met()	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
-*tacet	*tacet	*	*
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!!OMD: Pleni sunt celi
+!!section: Pleni sunt celi
 0r	0r	0r	1.g
 .	.	.	4f/
 .	.	.	4e/
@@ -257,11 +257,12 @@
 !!LO:LB:i:g=z
 =39||	=39||	=39||	=39||
 *>C	*>C	*>C	*>C
-!!section: Gloria tua
-!!!OMD: Gloria tua
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*xtacet	*xtacet	*tacet	*tacet
+!!!OMD: Gloria tua
+!!section: Gloria tua
 0r	1.c	0r	0r
 .	4B-\	.	.
 .	4A/	.	.
@@ -364,12 +365,13 @@
 !!LO:LB:i:g=z
 =58||	=58||	=58||	=58||
 *>D	*>D	*>D	*>D
-!!section: Osanna
-!!!OMD: Osanna
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O|)	*met(O|)	*met(O|)	*met(O|)
+!!!OMD: Osanna
+!!section: Osanna
 !	!LO:TX:Z=6:t=Canon at the lower fifth	!	!
-*	*	*xtacet	*xtacet
 0.r	0C	0.r	1.e
 .	.	.	2f/
 .	1C	.	1g
@@ -492,15 +494,15 @@
 =75	=75	=75	=75
 0.FFl	0.C]	0.Fl	0.fl
 !!LO:LB:i:g=z
-!LO:TX:rj:i:t=fine	!	!	!
+!!LO:TX:rj:i:t=fine
 =76||	=76||	=76||	=76||
 *>E	*>E	*>E	*>E
-!!section: Benedictus
-!!!OMD: Benedictus
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met()	*met(C|)	*met()	*met(C|)
-!!primary-mensuration: met(C|)
-*tacet	*	*tacet	*
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!!OMD: Benedictus
+!!section: Benedictus
 0r	0r	0r	1.c
 .	.	.	2d/
 =77	=77	=77	=77
@@ -541,11 +543,12 @@
 !!LO:LB:i:g=z
 =85||	=85||	=85||	=85||
 *>F	*>F	*>F	*>F
-!!section: Qui venit
-!!!OMD: Qui venit
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*xtacet	*tacet	*xtacet	*tacet
+!!!OMD: Qui venit
+!!section: Qui venit
 1.F	0r	0F	0r
 4E\	.	.	.
 4D\	.	.	.
@@ -591,11 +594,12 @@
 !!LO:LB:i:g=z
 =94||	=94||	=94||	=94||
 *>G	*>G	*>G	*>G
-!!section: In nomine
-!!!OMD: In nomine
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*tacet	*xtacet	*tacet	*xtacet
+!!!OMD: In nomine
+!!section: In nomine
 0r	0r	0r	1.c
 .	.	.	2d/
 =95	=95	=95	=95
@@ -633,18 +637,16 @@
 .	.	.	2e/
 =102	=102	=102	=102
 0r	0Fl	0r	0fl
-!LO:TX:i:Y=40:rj:t=Osanna ut supra	!	!	!
+!!LO:TX:i:Y=40:rj:t=Osanna ut supra
 =||	=||	=||	=||
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: V=start of tuplet marker
-!!!RDF**kern: Z=end of tuplet marker
 !!!ENC: Jesse Rodin; Victoria Chang 2011/09/04
 !!!END: 2011/09/04/
 !!!SMS: Petrucci 1502
 !!!EED: Jesse Rodin
-!!!EEV: 2012/04/23/
+!!!EEV: 2013/10/25/
 !!attribution-level: 1 (secure)
 !!!ONB: Translated from MusicXML and edited on 2011/10/03/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100Q16

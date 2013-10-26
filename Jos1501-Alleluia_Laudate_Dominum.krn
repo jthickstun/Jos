@@ -9,17 +9,17 @@
 !!!ONB: Altus is missing after m. 6
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
-*clefF4	*clefGv2	*clefGv2	*clefG2
 *>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
 *>Part1[A]	*>Part1[A]	*>Part1[A]	*>Part1[A]
 *>Part2[B]	*>Part2[B]	*>Part2[B]	*>Part2[B]
 *Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'A	*I'S
+*>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*>A	*>A	*>A	*>A
 !!section: first part
 =1-	=1-	=1-	=1-
 0r	0c	1r	1cc
@@ -252,12 +252,12 @@
 !!LO:LB:i:g=z
 =48||	=48||	=48||	=48||
 *>B	*>B	*>B	*>B
+*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!!OMD: Secunda pars: Quoniam confirmata est
 !!section: Secunda pars: Quoniam confirmata est
-*	*	*tacet	*
 1G	[0B	0ryy	2r
 .	.	.	2g/
 1G	.	.	2g/
@@ -533,7 +533,7 @@
 !!!ONB1: Score is in NJE Critical Commentary 15, pp 4-10. 
 !!!ONB2: NJE only names four parts.  Only three are present in the edition.  
 !!!EED:	Jesse Rodin
-!!!EEV: 2012/04/24/
+!!!EEV:	2013/10/25/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/04/05/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2}^C^@{COA}?\n@{SCT}^i2I150v90,90,90,120Q16

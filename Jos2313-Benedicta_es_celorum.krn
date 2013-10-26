@@ -12,6 +12,7 @@
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus1	*I"Bassus2	*I"Tenor1	*I"Tenor2	*I"Altus	*I"Superius
 *I'B1	*I'B2	*I'T1	*I'T2	*I'A	*I'S
+*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
@@ -676,11 +677,13 @@
 0GG]	0G]	0Dl	0B]	0d]	0g]
 !!LO:LB:i:g=z
 =108||	=108||	=108||	=108||	=108||	=108||
-!!section: Secunda pars: Per illud ave prolatum
-!!!OMD: Secunda pars: Per illud ave prolatum
+*>B	*>B	*>B	*>B	*>B	*>B
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
-*tacet	*tacet	*tacet	*tacet	*	*
+!!!OMD: Secunda pars: Per illud ave prolatum
+!!section: Secunda pars: Per illud ave prolatum
 0r	0r	0r	0r	1d	1r
 .	.	.	.	2f\	1a
 .	.	.	.	2f\	.
@@ -860,11 +863,13 @@
 0r	0r	0r	0r	0Gl	0gl
 !!LO:LB:i:g=z
 =136||	=136||	=136||	=136||	=136||	=136||
-!!section: Tertia pars: Nunc mater exort natum
-!!!OMD: Tertia pars: Nunc mater exort natum
+*>C	*>C	*>C	*>C	*>C	*>C
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(C|3)	*met(C|3)	*met(C|3)	*met(C|3)	*met(C|3)	*met(C|3)
-*xtacet	*xtacet	*xtacet	*xtacet	*	*
+!!!OMD: Tertia pars: Nunc mater exort natum
+!!section: Tertia pars: Nunc mater exort natum
 0.r	0.r	0.r	0.r	1d	0.r
 .	.	.	.	1d	.
 .	.	.	.	1e	.

@@ -194,12 +194,13 @@
 !!LO:LB:i:g=z
 =43||	=43||	=43||	=43||
 *>B	*>B	*>B	*>B
-!!section: Pleni sunt celi
-!!!OMD: Pleni sunt celi
+*clefF4	*clefGv2	*clefGv2	*clefGv2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!!OMD: Pleni sunt celi
+!!section: Pleni sunt celi
 !	!	!LO:TX:Z=10:t=Canon at the upper second	!
-*tacet	*tacet	*	*
 0r	0r	1.G	0r
 .	.	4F/	.
 .	.	4G/	.
@@ -447,11 +448,12 @@
 !!LO:LB:i:g=z
 =87||	=87||	=87||	=87||
 *>C	*>C	*>C	*>C
-!!section: Osanna
-!!!OMD: Osanna
+*clefF4	*clefGv2	*clefGv2	*clefGv2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*xtacet	*xtacet	*	*
+!!!OMD: Osanna
+!!section: Osanna
 1.G	0r	0r	0r
 4F\	.	.	.
 4G\	.	.	.
@@ -718,12 +720,13 @@
 !!LO:TX:rj:i:t=fine
 =134||	=134||	=134||	=134||
 *>D	*>D	*>D	*>D
-!!section: Benedictus
-!!!OMD: Benedictus
+*clefF4	*clefGv2	*clefGv2	*clefGv2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!!OMD: Benedictus
+!!section: Benedictus
 !	!	!	!LO:TX:Z=10:t=Canon at the lower second
-*tacet	*tacet	*	*
 0r	0r	0r	1d
 .	.	.	1d
 =135	=135	=135	=135
@@ -1013,7 +1016,7 @@
 !!!ENC: Will Watson 17/08/2011
 !!!END: 2011/08/17/
 !!!EED:	Jesse Rodin
-!!!EEV: 2012/04/24/
+!!!EEV: 2013/10/25/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/10/28/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I100v90,90,90,90,120c80Q16

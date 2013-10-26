@@ -13,7 +13,6 @@
 *	*I"Bassus	*	*	*I"Altus	*	*I"Superius
 *I'B2	*I'B	*I'T	*I'A2	*I'A	*I'S2	*I'S
 *staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
-*clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2	*clefG2
 *>[A,B,C,D,E,F,C]	*>[A,B,C,D,E,F,C]	*>[A,B,C,D,E,F,C]	*>[A,B,C,D,E,F,C]	*>[A,B,C,D,E,F,C]	*>[A,B,C,D,E,F,C]	*>[A,B,C,D,E,F,C]
 *>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]
 *>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]
@@ -22,15 +21,15 @@
 *>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]
 *>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]
 *>A	*>A	*>A	*>A	*>A	*>A	*>A
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2	*clefG2
 *k[]	*k[]	*k[b-]	*k[]	*k[]	*k[]	*k[]
 *	*	*rscale:1/2	*	*	*	*
 *M3/1	*M3/1	*M9/1	*M3/1	*M3/1	*M3/1	*M3/1
-*met()	*met(O)	*met(O.)	*met()	*met(O)	*met()	*met(O)
+*met(O)	*met(O)	*met(O.)	*met(O)	*met(O)	*met(O)	*met(O)
 !!primary-mensuration: met(O)
-=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!!section: Sanctus
 !!!OMD: Sanctus
-*tacet	*	*	*tacet	*	*tacet	*
+!!section: Sanctus
+=1-	=1-	=1-	=1-	=1-	=1-	=1-
 0.r	0.r	0.r	0.r	2.D/	0.r	0.d
 .	.	.	.	4E/	.	.
 .	.	.	.	2F/	.	.
@@ -344,14 +343,13 @@
 *	*	*rscale:1	*	*	*	*
 =34||	=34||	=34||	=34||	=34||	=34||	=34||
 *>B	*>B	*>B	*>B	*>B	*>B	*>B
-!!section:Pleni
-!!section: Pleni
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2	*clefG2
+*k[]	*k[]	*k[b-]	*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
-*met()	*met(C)	*met()	*met()	*met(C)	*met()	*met(C)
-!!primary-mensuration: met(C)
+*met(C)	*met(C)	*met(C)	*met(C)	*met(C)	*met(C)	*met(C)
 !!!OMD:Pleni
+!!section: Pleni
 !	!	!LO:TX:Z=6:t=Canon&colon; Pleni&colon; Rescio vos&colon;	!	!	!	!
-*tacet	*	*tacet	*tacet	*	*tacet	*
 0r	1A	0r	0r	0r	0r	0r
 .	2D\	.	.	.	.	.
 .	[2A\	.	.	.	.	.
@@ -590,15 +588,16 @@
 !!LO:LB:i:g=z
 =68||	=68||	=68||	=68||	=68||	=68||	=68||
 *>C	*>C	*>C	*>C	*>C	*>C	*>C
-!!section: Osanna
-*tacet	*	*xtacet	*tacet	*	*tacet	*
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2	*clefG2
+*k[]	*k[]	*k[b-]	*k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1	*M3/1	*M3/1
-*met()	*met(C3)	*met(O.)	*met()	*met(C3)	*met()	*met(C3)
+*met(C3)	*met(C3)	*met(O.)	*met(C3)	*met(C3)	*met(C3)	*met(C3)
 !!primary-mensuration: met(C3)
+!!!OMD: Osanna
+!!section: Osanna
 !! menC3 is not yet rendered, so making a note of the actual mensuration in the score:
 !LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3	!	!LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3
 !	!	!LO:TX:X=-50:Z=6:t=Tenor  Osanna  Gaude cum gaudentibus	!	!	!	!
-!!!OMD: Osanna
 0.r	0.r	1.r	0.r	2.A/	0.r	2.a/
 .	.	.	.	4B\	.	4g/
 .	.	.	.	2c\	.	2e/
@@ -871,17 +870,17 @@
 =97	=97	=97	=97	=97	=97	=97
 0.r	0.Dl	0.r	0.r	0.D;l	0.r	0.dl
 !!LO:LB:i:g=z
-!! For some reason "t=fine" doesn't print, but "t= fine" does. 20110914
-!	!LO:TX:rj:Y=30:i:t= fine	!	!	!	!	!
+!!LO:TX:rj:i:t=fine
 =98||	=98||	=98||	=98||	=98||	=98||	=98||
 *>D	*>D	*>D	*>D	*>D	*>D	*>D
-!!section:Benedictus
-*xtacet	*	*tacet	*tacet	*tacet	*tacet	*tacet
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2	*clefG2
+*k[]	*k[]	*k[b-]	*k[]	*k[]	*k[]	*k[]
 *	*rscale:1/2	*	*	*	*	*
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
-*met(C|)	*met(C)	*met()	*met()	*met()	*met()	*met()
+*met(C|)	*met(C)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
 !!!OMD:Benedictus
+!!section:Benedictus
 !	!LO:TX:Z=6:t=Mensuration canon at the unison	!	!	!	!	!
 1.D	[0D	0r	0r	0r	0r	0r
 2E\	.	.	.	.	.	.
@@ -959,13 +958,14 @@
 !!LO:LB:i:g=z
 =115||	=115||	=115||	=115||	=115||	=115||	=115||
 *>E	*>E	*>E	*>E	*>E	*>E	*>E
-!!section:Qui_venit
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2	*clefG2
+*k[]	*k[]	*k[b-]	*k[]	*k[]	*k[]	*k[]
 *	*	*	*	*rscale:1/2	*	*
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
-*met(C|)	*met(C)	*met()	*met(C|)	*met(C|)	*met()	*met()
+*met(C|)	*met(C)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
-*tacet	*tacet	*tacet	*xtacet	*xtacet	*tacet	*tacet
 !!!OMD:Qui venit
+!!section:Qui_venit
 !	!	!	!	!LO:TX:Z=6:t=Mensuration canon at the unison	!	!
 0r	0r	0r	1A	0A	0r	0r
 .	.	.	[1c	.	.	.
@@ -1027,13 +1027,14 @@
 !!LO:LB:g=z
 =128||	=128||	=128||	=128||	=128||	=128||	=128||
 *>F	*>F	*>F	*>F	*>F	*>F	*>F
-!!section:In_nomine
-*tacet	*tacet	*tacet	*tacet	*tacet	*xtacet	*xtacet
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2	*clefG2
+*k[]	*k[]	*k[b-]	*k[]	*k[]	*k[]	*k[]
 *	*	*	*	*	*	*rscale:1/2
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
-*met(C|)	*met(C)	*met()	*met(C|)	*met(C|)	*met(C|)	*met(C)
+*met(C|)	*met(C)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C)
 !!primary-mensuration: met(C|)
 !!!OMD: In nomine
+!!section:In_nomine
 !	!	!	!	!	!	!LO:TX:Z=6:t=Mensuration canon at the unison
 0r	0r	0r	0r	0r	1.a	[0a
 .	.	.	.	.	2g/	.
@@ -1111,9 +1112,9 @@
 =146	=146	=146	=146	=146	=146	=146
 !	!	!	!	!	!	!LO:N:vis=1
 0r	0r	0r	0r	0r	0d]	0d
-!	!	!	!	!	!LO:TX:i:Y=20:rj:t=Osanna ut supra	!
-==	==	==	==	==	==	==
 *	*	*	*	*	*	*rscale:1
+!!LO:TX:i:Y=40:rj:t=Osanna ut supra
+=||	=||	=||	=||	=||	=||	=||
 *-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental

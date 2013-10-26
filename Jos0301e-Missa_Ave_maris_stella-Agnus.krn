@@ -16,9 +16,9 @@
 *>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]
 *>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]
 *>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]
+*>A	*>A	*>A	*>A
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
-*>A	*>A	*>A	*>A
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
 =1-	=1-	=1-	=1-
@@ -223,10 +223,10 @@
 *>B	*>B	*>B	*>B
 !!section: Agnus Dei II
 !!!OMD: Agnus Dei II
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met()	*met()	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
-*tacet	*tacet	*	*
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 0r	0r	0g	0r
 =25	=25	=25	=25
 0r	0r	1a	0cc
@@ -414,9 +414,10 @@
 *>C	*>C	*>C	*>C
 !!section: Agnus Dei III
 !!!OMD: Agnus Dei III
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*xtacet	*xtacet	*	*
 1G	0r	0r	0r
 [1d	.	.	.
 =57	=57	=57	=57
@@ -652,8 +653,7 @@
 !!!ENC: Jesse Rodin; Victoria Chang 2011/04/01/
 !!!END: 2011/04/01/
 !!!EED:	Jesse Rodin
-!!!EEV: 2012/04/24/
+!!!EEV: 2013/10/25/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/04/06/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100c94Q16
-!!onb: m35 removed extra tie in Altus [2011/04/06/]

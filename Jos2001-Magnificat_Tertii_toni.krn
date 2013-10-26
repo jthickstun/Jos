@@ -16,7 +16,6 @@
 *Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'A	*I'S
-*clefF4	*clefGv2	*clefGv2	*clefG2
 *>[A,B,C,D,E,F]	*>[A,B,C,D,E,F]	*>[A,B,C,D,E,F]	*>[A,B,C,D,E,F]
 *>Part1[A]	*>Part1[A]	*>Part1[A]	*>Part1[A]
 *>Part2[B]	*>Part2[B]	*>Part2[B]	*>Part2[B]
@@ -24,9 +23,10 @@
 *>Part4[D]	*>Part4[D]	*>Part4[D]	*>Part4[D]
 *>Part5[E]	*>Part5[E]	*>Part5[E]	*>Part5[E]
 *>Part6[F]	*>Part6[F]	*>Part6[F]	*>Part6[F]
+*>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
-*>A	*>A	*>A	*>A
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Et exsultavit spiritus meus
 !!!OMD: Et exsultavit spiritus meus
@@ -262,6 +262,8 @@
 !!LO:LB:i:g=z
 =40||	=40||	=40||	=40||
 *>B	*>B	*>B	*>B
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Quia fecit mihi magna
@@ -448,11 +450,12 @@
 !!LO:LB:i:g=z
 =71||	=71||	=71||	=71||
 *>C	*>C	*>C	*>C
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Fecit potentiam
 !!!OMD: Fecit potentiam
-*	*tacet	*	*
+!!section: Fecit potentiam
 0r	0r	2G/	0g
 .	.	4A/	.
 .	.	4B\	.
@@ -623,11 +626,12 @@
 !!LO:LB:i:g=z
 =100||	=100||	=100||	=100||
 *>D	*>D	*>D	*>D
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Esurientes implevit bonis
 !!!OMD: Esurientes implevit bonis
-*	*xtacet	*	*
 1C	0r	0r	0r
 2D\	.	.	.
 [2F\	.	.	.
@@ -761,11 +765,12 @@
 !!LO:LB:i:g=z
 =123||	=123||	=123||	=123||
 *>E	*>E	*>E	*>E
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Sicut locutus est
 !!!OMD: Sicut locutus est
-*	*	*	*tacet
 0r	1r	0r	0r
 .	1G	.	.
 =124	=124	=124	=124
@@ -959,11 +964,12 @@
 !!LO:LB:i:g=z
 =157||	=157||	=157||	=157||
 *>F	*>F	*>F	*>F
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Sicut erat in principio
 !!!OMD: Sicut erat in principio
-*	*	*	*xtacet
 0r	0D	0r	1.d
 .	.	.	2d/
 =158	=158	=158	=158
@@ -1135,7 +1141,7 @@
 !!!SMS: BerlS 40021
 !!!END:	2011/05/24/
 !!!EED:	Jesse Rodin
-!!!EEV: 2012/04/24/
+!!!EEV:	2013/10/25/
 !!attribution-level: 2 (less secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/08/18/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^I150v90,90,90,120c95i2I150Q16

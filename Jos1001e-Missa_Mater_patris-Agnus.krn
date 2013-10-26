@@ -18,15 +18,14 @@
 *>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]
 *>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]
 *>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]
+*>A	*>A	*>A	*>A	*>A
 *clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
-*>A	*>A	*>A	*>A	*>A
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-	=1-
 !!section: Agnus Dei I
 !!!OMD: Agnus Dei I
-*tacet	*	*	*	*
 0r	0G	0r	0r	0r
 =2	=2	=2	=2	=2
 0r	1G	0r	0r	0r
@@ -141,12 +140,13 @@
 !!LO:LB:i:g=z
 =30||	=30||	=30||	=30||	=30||
 *>B	*>B	*>B	*>B	*>B
-!!section: Agnus Dei II
-!!!OMD: Agnus Dei II
-!	!	!	!LO:TX:Z=6:t=Canon at the unison	!
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
-*tacet	*tacet	*tacet	*	*
+!!!OMD: Agnus Dei II
+!!section: Agnus Dei II
+!	!	!	!LO:TX:Z=6:t=Canon at the unison	!
 0r	0r	0r	1.d	0r
 .	.	.	2c\	.
 =31	=31	=31	=31	=31
@@ -327,12 +327,13 @@
 !!LO:LB:i:g=z
 =64||	=64||	=64||	=64||	=64||
 *>C	*>C	*>C	*>C	*>C
-!!section: Agnus Dei III
-!!!OMD: Agnus Dei III
-!	!	!	!	!LO:TX:Z=8:t=Inner three voices are an exact quotation from Brumel's motet
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
-*xtacet	*xtacet	*xtacet	*	*
+!!!OMD: Agnus Dei III
+!!section: Agnus Dei III
+!	!	!	!	!LO:TX:Z=8:t=Inner three voices are an exact quotation from Brumel's motet
 0G	0G	0r	0r	1d
 .	.	.	.	2G/
 .	.	.	.	[2d\
@@ -764,7 +765,7 @@
 !!!ENC: Will Watson 17/08/2011
 !!!END: 2011/08/17/
 !!!EED:	Jesse Rodin
-!!!EEV: 2012/06/05/
+!!!EEV: 2013/10/25/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/10/28/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I100v85,85,85,85,100c80Q16

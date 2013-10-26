@@ -256,7 +256,6 @@
 !!!OMD: Pleni sunt celi
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*	*tacet	*	*
 0r	0r	1G	0r
 .	.	2G/	.
 .	.	[2B\	.
@@ -567,7 +566,6 @@
 !!!OMD: Osanna
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(C|3)	*met(C|3)	*met(C|3)	*met(C|3)
-*	*xtacet	*	*
 0.r	0.G	1d	1.g
 .	.	1B	.
 .	.	.	2a/
@@ -704,7 +702,6 @@
 !!!OMD: Benedictus
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*	*tacet	*	*
 0r	0r	1G	0r
 .	.	2G/	.
 .	.	[2c\	.

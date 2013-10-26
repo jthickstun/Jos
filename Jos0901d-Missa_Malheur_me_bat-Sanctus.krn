@@ -20,14 +20,14 @@
 *>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]
 *>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]
 *>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]
-*clefF4	*clefGv2	*clefGv2	*clefG2
 *>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C)	*met(C)	*met(C)	*met(C)
-=1-	=1-	=1-	=1-
-!!section: Sanctus
 !!!OMD: Sanctus
+!!section: Sanctus
+=1-	=1-	=1-	=1-
 !	!	!LO:TX:Z=8:t=A by Malcort	!
 0r	0E	0e	0r
 =2	=2	=2	=2
@@ -400,12 +400,12 @@
 !!LO:LB:i:g=z
 =60||	=60||	=60||	=60||
 *>B	*>B	*>B	*>B
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Pleni sunt celi
 !!!OMD: Pleni sunt celi
-*M2/1	*M2/1	*M2/1	*M2/1
-*met()	*met()	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
-*tacet	*tacet	*	*
 0r	0r	0e	0g
 =61	=61	=61	=61
 0r	0r	1.d	1a
@@ -749,11 +749,12 @@
 !!LO:LB:i:g=z
 =120||	=120||	=120||	=120||
 *>C	*>C	*>C	*>C
-!!section: Osanna
-!!!OMD: Osanna
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*xtacet	*xtacet	*	*
+!!!OMD: Osanna
+!!section: Osanna
 2.E\	2.G/	0e	1g
 4F\	4A/	.	.
 2G\	2B\	.	2g/
@@ -1173,14 +1174,15 @@
 =175	=175	=175	=175
 0El	0E]	0B]	0e]
 !!LO:LB:i:g=z
-!LO:TX:rj:i:t=fine	!	!	!
+!!LO:TX:rj:i:t=fine
 =176||	=176||	=176||	=176||
 *>D	*>D	*>D	*>D
-!!section: Benedictus
-!!!OMD: Benedictus
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*tacet	*	*	*tacet
+!!!OMD: Benedictus
+!!section: Benedictus
 0r	1E	0e	0r
 .	[1G	.	.
 =177	=177	=177	=177
@@ -1244,11 +1246,12 @@
 !!LO:LB:i:g=z
 =187||	=187||	=187||	=187||
 *>E	*>E	*>E	*>E
-!!section: Qui venit
-!!!OMD: Qui venit
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*xtacet	*tacet	*	*tacet
+!!!OMD: Qui venit
+!!section: Qui venit
 1D	0r	0d	0r
 1G	.	.	.
 =188	=188	=188	=188
@@ -1310,11 +1313,12 @@
 !!LO:LB:i:g=z
 =198||	=198||	=198||	=198||
 *>F	*>F	*>F	*>F
-!!section: In nomine domine
-!!!OMD: In nomine domine
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*tacet	*xtacet	*tacet	*xtacet
+!!!OMD: In nomine domine
+!!section: In nomine domine
 0r	1A	0r	0a
 .	[1c	.	.
 =199	=199	=199	=199
@@ -1369,7 +1373,7 @@
 .	.	.	2d/
 =208	=208	=208	=208
 0r	0El	0r	0el
-!	!LO:TX:i:Y=20:rj:t=Osanna ut supra	!	!
+!!LO:TX:i:Y=40:rj:t=Osanna ut supra
 =||	=||	=||	=||
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
@@ -1377,7 +1381,7 @@
 !!!ENC:	Jesse Rodin; Victoria Chang 2011/05/08
 !!!END:	2011/05/08/
 !!!EED:	Jesse Rodin
-!!!EEV: 2012/04/24/
+!!!EEV: 2013/10/25/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/09/19/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100c120Q16

@@ -14,13 +14,13 @@
 *>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
 *>Part1[A]	*>Part1[A]	*>Part1[A]	*>Part1[A]	*>Part1[A]	*>Part1[A]
 *>Part2[B]	*>Part2[B]	*>Part2[B]	*>Part2[B]	*>Part2[B]	*>Part2[B]
+*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
-*M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
+*	*	*	*rscale:1/2	*	*
+*M2/1	*M2/1	*M2/1	*M3/0	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(O)	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
-*>A	*>A	*>A	*>A	*>A	*>A
-*	*	*	*rscale:1/2	*	*
 !!incipit: 6
 =1-	=1-	=1-	=1-	=1-	=1-
 !	!	!	!LO:N:vis=0.	!	!

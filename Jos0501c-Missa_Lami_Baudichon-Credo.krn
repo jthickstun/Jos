@@ -14,13 +14,14 @@
 *Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'A	*I'S
+*>A	*>A	*>A	*>A
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
-*M3/1	*M3/1	*M3/1	*M3/1
+*	*rscale:1/2	*	*
+*M3/1	*M9/1	*M3/1	*M3/1
 *met(O)	*met(O.)	*met(O)	*met(O)
 !!primary-mensuration: met(O)
 =1-	=1-	=1-	=1-
-*	*rscale:1/2	*	*
 0.r	0.r	0c	0cc
 .	.	2e\	1cc
 .	.	2f\	.
@@ -530,10 +531,13 @@
 0.Cl	0.el	0.cl	0.ccl
 !!LO:LB:i:g=z
 =74||	=74||	=74||	=74||
-!!section: Et incarnatus est
-!!!OMD: Et incarnatus est
+*>B	*>B	*>B	*>B
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!!OMD: Et incarnatus est
+!!section: Et incarnatus est
 0r	0r	0c	0cc
 =75	=75	=75	=75
 0r	0r	1G	1b
@@ -656,10 +660,12 @@
 0r	0r	0cl	0ccl
 !!LO:LB:i:g=z
 =101||	=101||	=101||	=101||
-!!section: Crucifixus
-!!!OMD: Crucifixus
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!!OMD: Crucifixus
+!!section: Crucifixus
 1C	0r	0c	0r
 1F	.	.	.
 =102	=102	=102	=102
@@ -773,10 +779,10 @@
 =126||	=126||	=126||	=126||
 !!section: Et resurrexit
 !!!OMD: Et resurrexit
-*M2/1	*M2/1	*M2/1	*M2/1
+*	*rscale:1/2	*	*
+*M2/1	*M3/0	*M2/1	*M2/1
 *met(O2)	*met(O)	*met(O2)	*met(O2)
 !!primary-mensuration: met(O2)
-*	*rscale:1/2	*	*
 !	!LO:N:vis=0	!	!
 0C	[y0g	[0c	0cc
 =127.	=127-	=127.	=127.
@@ -1486,8 +1492,6 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: V=start of tuplet marker
-!!!RDF**kern: Z=end of tuplet marker
 !!!ENC:	Jesse Rodin; Victoria Chang 2012/02/01
 !!!END:	2012/02/01/
 !!!EED:	Jesse Rodin

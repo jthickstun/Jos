@@ -212,10 +212,10 @@
 *>B	*>B	*>B	*>B
 !!section: Pleni sunt
 !!!OMD: Pleni sunt
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(C|)	*met()	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
-*	*tacet	*	*
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 [0d	0r	0r	0r
 =22	=22	=22	=22
 1d]	0r	0r	0r
@@ -561,9 +561,10 @@
 *>C	*>C	*>C	*>C
 !!section: Osanna
 !!!OMD: Osanna
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*	*xtacet	*	*
 1.B-	[0G	1r	0r
 .	.	[1B-	.
 2c\	.	.	.
@@ -654,7 +655,7 @@
 .	.	1c	.
 .	.	.	2a/
 =99	=99	=99	=99
-*M3/1	*	*	*
+*M2/1	*	*	*
 *met(3)	*	*	*
 3%2.B-	0d	1B-	1b-
 3c\	.	1G	[1dd
@@ -680,7 +681,7 @@
 3%2F	.	.	.
 .	.	.	2a/
 =103	=103	=103	=103
-*	*	*M3/1	*
+*	*	*M2/1	*
 *	*	*met(3)	*
 3%2.G	1B-	3%2d	1.b-
 .	.	3%2G	.
@@ -787,9 +788,10 @@
 *>D	*>D	*>D	*>D
 !!section: Benedictus
 !!!OMD: Benedictus
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*tacet	*tacet	*	*
 0r	0r	[0g	1dd
 .	.	.	2ee-i\
 .	.	.	[2dd\
@@ -885,9 +887,10 @@
 *>E	*>E	*>E	*>E
 !!section: Qui venit
 !!!OMD: Qui venit
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*xtacet	*tacet	*	*tacet
 1G	0r	[0d	0r
 2F\	.	.	.
 [2G\	.	.	.
@@ -1008,7 +1011,7 @@
 !!!ENC: Jesse Rodin; Victoria Chang 2011/04/01/
 !!!END: 2011/04/01/
 !!!EED:	Jesse Rodin
-!!!EEV: 2012/04/24/
+!!!EEV: 2013/10/25/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/04/06/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100c80Q16

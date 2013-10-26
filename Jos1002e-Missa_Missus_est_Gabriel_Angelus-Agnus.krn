@@ -14,18 +14,18 @@
 *Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'A	*I'S
-*clefF4	*clefGv2	*clefGv2	*clefG2
-*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
 *>AgnusI[A]	*>AgnusI[A]	*>AgnusI[A]	*>AgnusI[A]
 *>AgnusII[B]	*>AgnusII[B]	*>AgnusII[B]	*>AgnusII[B]
 *>AgnusIII[C]	*>AgnusIII[C]	*>AgnusIII[C]	*>AgnusIII[C]
 *>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-=1-	=1-	=1-	=1-
-!!section: Agnus Dei I
 !!!OMD: Agnus Dei I
+!!section: Agnus Dei I
+=1-	=1-	=1-	=1-
 0r	0r	0r	0G
 =2	=2	=2	=2
 0r	0r	0r	1G
@@ -210,11 +210,12 @@
 !!LO:LB:i:g=z
 =31||	=31||	=31||	=31||
 *>B	*>B	*>B	*>B
-!!section: Agnus Dei II
-!!!OMD: Agnus Dei II
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*	*	*tacet	*tacet
+!!!OMD: Agnus Dei II
+!!section: Agnus Dei II
 0D	0r	0r	0r
 =32	=32	=32	=32
 1D	0r	0r	0r
@@ -338,11 +339,12 @@
 !!LO:LB:i:g=z
 =54||	=54||	=54||	=54||
 *>C	*>C	*>C	*>C
-!!section: Agnus Dei III
-!!!OMD: Agnus Dei III
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*	*	*xtacet	*xtacet
+!!section: Agnus Dei III
+!!!OMD: Agnus Dei III
 0r	0r	0d	1r
 .	.	.	[1a
 =55	=55	=55	=55
@@ -475,7 +477,7 @@
 !!!ENC:	Will Watson 07/08/2011
 !!!END:	2011/07/08/
 !!!EED:	Jesse Rodin
-!!!EEV: 2012/04/24/
+!!!EEV:	2013/10/25/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2011/12/26/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}{/}@{COA}?\n@{SCT}^i2I100v85,85,85,100c95Q16

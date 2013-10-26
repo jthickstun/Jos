@@ -23,9 +23,9 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
-=1-	=1-	=1-	=1-
-!!section: Sanctus
 !!!OMD: Sanctus
+!!section: Sanctus
+=1-	=1-	=1-	=1-
 0.r	0.B-	1.B-	0.r
 .	.	2G/	.
 .	.	1G	.
@@ -217,12 +217,12 @@
 !!LO:LB:i:g=z
 =23||	=23||	=23||	=23||
 *>B	*>B	*>B	*>B
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Pleni sunt celi
 !!!OMD: Pleni sunt celi
-*M2/1	*M2/1	*M2/1	*M2/1
-*met(C|)	*met()	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
-*	*tacet	*	*
 1D	0r	0r	0r
 [1F	.	.	.
 =24	=24	=24	=24
@@ -477,12 +477,13 @@
 !!LO:LB:i:g=z
 =68||	=68||	=68||	=68||
 *>C	*>C	*>C	*>C
-!!section: Osanna
-!!!OMD: Osanna
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!!OMD: Osanna
+!!section: Osanna
 !LO:TX:Z=10:t=Canon at upper octave	!	!	!
-*	*xtacet	*	*
 1BB-	0r	2r	0r
 .	.	2D/	.
 1GG	.	4E/	.
@@ -654,13 +655,15 @@
 =97	=97	=97	=97
 0GGl	0Gl	0d]	0gl
 !!LO:LB:i:g=z
-!LO:TX:rj:i:t=fine	!	!	!
+!!LO:TX:rj:i:t=fine
 =98||	=98||	=98||	=98||
 *>D	*>D	*>D	*>D
-!!section: Benedictus
-!!!OMD: Benedictus
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!!OMD: Benedictus
+!!section: Benedictus
 0r	0B-	0r	2.d/
 .	.	.	4e/
 .	.	.	2f/
@@ -872,7 +875,7 @@
 .	.	.	1f#i
 =142	=142	=142	=142
 0.GGl	0.Gl	0.dl	0.gl
-!LO:TX:i:Y=40:rj:t=Osanna ut supra	!	!	!
+!!LO:TX:i:Y=40:rj:t=Osanna ut supra
 =||	=||	=||	=||
 *-	*-	*-	*-
 !!!RDF**kern: %=rational rhythm
@@ -882,7 +885,7 @@
 !!!ENC: Jesse Rodin; Victoria Chang 2011/09/06
 !!!END: 2011/09/06/
 !!!EED:	Jesse Rodin
-!!!EEV: 2012/04/24/
+!!!EEV: 2013/10/25/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/09/18/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100Q16

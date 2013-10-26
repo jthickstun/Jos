@@ -14,8 +14,6 @@
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
-*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
-*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *>[A,B,C,D,E,F,C]	*>[A,B,C,D,E,F,C]	*>[A,B,C,D,E,F,C]	*>[A,B,C,D,E,F,C]	*>[A,B,C,D,E,F,C]	*>[A,B,C,D,E,F,C]	*>[A,B,C,D,E,F,C]	*>[A,B,C,D,E,F,C]
 *>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]
 *>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]
@@ -24,8 +22,8 @@
 *>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]	*>Qui_venit[E]
 *>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]	*>In_nomine[F]
 *>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
-!!LO:PB
-!LO:SHOW	!	!LO:SHOW	!	!LO:SHOW	!	!LO:SHOW	!
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
@@ -232,16 +230,16 @@
 .	.	.	.	4c\	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24
 0.AA/l	-oth.	0.A]	.	0.c\l	-oth.	0.ee\l	-ctus,
-*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
-!!!voices: 3
 !!LO:LB:i:g=z
-!!section:Pleni
-!LO:SHOW	!	!LO:HIDE	!	!LO:SHOW	!	!LO:SHOW	!
 =25||	=25||	=25||	=25||	=25||	=25||	=25||	=25||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+!!!voices: 3
+!!section:Pleni
 !!!OMD:Pleni
-*	*	*tacet	*	*	*	*	*
 1.A	Ple-	0.r	.	0.r	.	0.r	.
 2B\	.	.	.	.	.	.	.
 1c	-ni	.	.	.	.	.	.
@@ -478,16 +476,16 @@
 .	.	.	.	.	.	4f#i/	.
 =49	=49	=49	=49	=49	=49	=49	=49
 0.G\l	-a.	0.r	.	0.G/l	-a.	0.g/l	-a.
-*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 !!LO:LB:i:g=z
-!!section:Osanna
-!!!voices: 4
-!LO:SHOW	!	!LO:SHOW	!	!LO:SHOW	!	!LO:SHOW	!
 =50||	=50||	=50||	=50||	=50||	=50||	=50||	=50||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(C|3)	*	*met(C|3)	*	*met(C|3)	*	*met(C|3)	*
+!!!voices: 4
 !!!OMD:Osanna
-*	*	*xtacet	*	*	*	*	*
+!!section:Osanna
 0.r	.	0G	O-	0.r	.	0.r	.
 .	.	1A	.	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51	=51
@@ -672,17 +670,16 @@
 =86	=86	=86	=86	=86	=86	=86	=86
 0.AA/l	-sis.	0.A/l	-sis.	0.e]	.	0.a/l	-sis.
 !!LO:TX:rj:Y=12:i:t=fine
-*>D	*>D	*>D	*>D	*>D	*>D	*>D	*>D
 !!LO:LB:i:g=z
 =87||	=87||	=87||	=87||	=87||	=87||	=87||	=87||
-!!section:Benedictus
-!!!voices: 2
-!LO:SHOW	!	!LO:SHOW	!	!LO:HIDE	!	!LO:HIDE	!
+*>D	*>D	*>D	*>D	*>D	*>D	*>D	*>D
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
-*met(C|)	*	*met(C|)	*	*met()	*	*met()	*
-!!primary-mensuration: met(C|)
+*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!!voices: 2
 !!!OMD:Benedictus
-*	*	*	*	*tacet	*	*tacet	*
+!!section:Benedictus
 [0E	Be-	0B	Be-	0r	.	0r	.
 =88	=88	=88	=88	=88	=88	=88	=88
 0E]	.	1c	.	0r	.	0r	.
@@ -751,16 +748,16 @@
 .	.	2G#i/	.	.	.	.	.
 =103	=103	=103	=103	=103	=103	=103	=103
 0AA/l	-tus	0A/l	-tus	0r	.	0r	.
-*>E	*>E	*>E	*>E	*>E	*>E	*>E	*>E
 !!LO:LB:i:g=z
-!!section:Qui_venit
-!!!voices: 2
-!LO:HIDE	!	!LO:HIDE	!	!LO:HIDE	!	!LO:HIDE	!
 =104||	=104||	=104||	=104||	=104||	=104||	=104||	=104||
+*>E	*>E	*>E	*>E	*>E	*>E	*>E	*>E
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!!voices: 2
 !!!OMD:Qui venit
-*tacet	*	*tacet	*	*xtacet	*	*xtacet	*
+!!section:Qui_venit
 0r	.	0r	.	0r	.	1.e	Qui
 .	.	.	.	.	.	4f/	.
 .	.	.	.	.	.	4g/	.
@@ -834,16 +831,16 @@
 .	.	.	.	.	.	2d/	.
 =117	=117	=117	=117	=117	=117	=117	=117
 0r	.	0r	.	0E/l	-nit	0e/l	-nit
-*>F	*>F	*>F	*>F	*>F	*>F	*>F	*>F
 !!LO:LB:g=z
-!!section:In_nomine
-!!!voices: 2
-!LO:SHOW	!	!LO:SHOW	!	!LO:HIDE	!	!LO:HIDE	!
 =118||	=118||	=118||	=118||	=118||	=118||	=118||	=118||
+*>F	*>F	*>F	*>F	*>F	*>F	*>F	*>F
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+!!!voices: 2
 !!!OMD: In nomine
-*xtacet	*	*xtacet	*	*tacet	*	*tacet	*
+!!section:In_nomine
 0D	In	0r	.	0r	.	0r	.
 =119	=119	=119	=119	=119	=119	=119	=119
 1E	no-	0r	.	0r	.	0r	.

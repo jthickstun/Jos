@@ -13,6 +13,8 @@
 *Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'A	*I'S
+*>[A,B,C,D,E,F,C]	*>[A,B,C,D,E,F,C]	*>[A,B,C,D,E,F,C]	*>[A,B,C,D,E,F,C]
+*>A	*>A	*>A	*>A
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1
@@ -272,12 +274,13 @@
 *	*	*v	*v	*
 !!LO:LB:i:g=z
 =36||	=36||	=36||	=36||
-!!section: Pleni
-!!!OMD: Pleni
+*>B	*>B	*>B	*>B
+*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1
-*met()	*met()	*met(O)	*met(O)
-*tacet	*tacet	*	*
+*met(O)	*met(O)	*met(O)	*met(O)
+!!section: Pleni
+!!!OMD: Pleni
 0.r	0.r	0.c	0cc
 .	.	.	1cc
 =37	=37	=37	=37
@@ -499,12 +502,14 @@
 0.r	0.r	0.cl	0.cl
 !!LO:LB:i:g=z
 =64||	=64||	=64||	=64||
-!!section: Osanna
-!!!OMD: Osanna
+*>C	*>C	*>C	*>C
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*	*rscale:1/2	*	*
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C)	*met(C|)	*met(C|)
-*	*rscale:1/2	*	*
-*xtacet	*xtacet	*	*
+!!!OMD: Osanna
+!!section: Osanna
 !	!LO:N:vis=0	!	!
 [0c	[y0g	[0e	[0cc
 =65	=65-	=65	=65
@@ -614,11 +619,13 @@
 !!LO:TX:rj:i:t=fine
 !!LO:LB:i:g=z
 =91||	=91||	=91||	=91||
-!!section: Benedictus
-!!!OMD: Benedictus
+*>D	*>D	*>D	*>D
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*tacet	*tacet	*	*
+!!!OMD: Benedictus
+!!section: Benedictus
 0r	0r	[0c	0g
 =92	=92	=92	=92
 0r	0r	0c_	1a
@@ -681,11 +688,13 @@
 0r	0r	0c]	0cl
 !!LO:LB:i:g=z
 =107||	=107||	=107||	=107||
-!!section: Qui venit
-!!!OMD: Qui venit
+*>E	*>E	*>E	*>E
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met()	*met(C|)	*met(C|)
-*xtacet	*tacet	*	*tacet
+!!!OMD: Qui venit
+!!section: Qui venit
 1C	0r	[0c	0r
 1F	.	.	.
 =108	=108	=108	=108
@@ -738,11 +747,13 @@
 0Cl	0r	0cl	0r
 !!LO:LB:i:g=z
 =121||	=121||	=121||	=121||
-!!section: In nomine
-!!!OMD: In nomine
+*>F	*>F	*>F	*>F
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(C|)	*met()	*met(C|)	*met(C|)
-*tacet	*tacet	*	*xtacet
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!!OMD: In nomine
+!!section: In nomine
 0r	0r	[0c	1c
 .	.	.	[1e
 =122	=122	=122	=122
@@ -805,8 +816,6 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: V=start of tuplet marker
-!!!RDF**kern: Z=end of tuplet marker
 !!!ENC:	Jesse Rodin; Victoria Chang 2012/02/07
 !!!END:	2012/02/07/
 !!!EED:	Jesse Rodin

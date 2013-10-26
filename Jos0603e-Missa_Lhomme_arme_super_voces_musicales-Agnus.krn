@@ -17,16 +17,16 @@
 *>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]
 *>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]
 *>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]
-*clefF4	*clefGv2	*clefGv2	*clefG2
 *>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *	*rscale:1/2	*	*
 *M3/1	*M9/1	*M3/1	*M3/1
 *met(O)	*met(O.)	*met(O)	*met(O)
 !!primary-mensuration: met(O)
-=1-	=1-	=1-	=1-
 !!!OMD: Agnus Dei I
 !!section: Agnus Dei I
+=1-	=1-	=1-	=1-
 0.r	0.r	0.A	0a
 .	.	.	1cc
 =2	=2-	=2	=2
@@ -331,14 +331,15 @@
 !!LO:LB:g=z
 =36||	=36||	=36||	=36||
 *>B	*>B	*>B	*>B
-!!section: Agnus Dei II
-!!!OMD: Agnus Dei II
-*M2/1	*M2/1	*M2/1	*M2/1
-*met(C|)	*met()	*met(C)	*met(3)
-!!primary-mensuration: met(C|)
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *rscale:1	*	*rscale:1/2	*rscale:3/2
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C)	*met(3)
+!!primary-mensuration: met(C|)
+!!!OMD: Agnus Dei II
+!!section: Agnus Dei II
 !	!	!	!LO:TX:X=-50:Z=6:t=Canon&colon; Trintas.  3-ex-1 mensuration canon.
-*	*tacet	*	*
 1D	0r	0A	3%2d
 .	.	.	3%2d
 1D	.	.	.
@@ -468,17 +469,17 @@
 4F\	.	.	.
 4E\	.	.	.
 =60	=60	=60	=60
-*	*	*	*rscale:1
 !LO:N:vis=1	!	!LO:N:vis=1	!
 0D	0r	0d	0fl
 !!LO:LB:g=z
+*rscale:1	*rscale:1	*rscale:1	*rscale:1
 =61||	=61||	=61||	=61||
 *>C	*>C	*>C	*>C
 !!section: Agnus Dei III
 !!!OMD: Agnus Dei III
-*	*xtacet	*	*
-*	*k[b-]	*	*
-*rscale:1	*rscale:1	*rscale:1	*rscale:1/4
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[b-]	*k[]	*k[]
+*	*	*	*rscale:1/4
 *M2/1	*M2/1	*M2/1	*M9/0
 *met(C|)	*met(C|)	*met(C|)	*met(O.)
 !!primary-mensuration: met(C|)

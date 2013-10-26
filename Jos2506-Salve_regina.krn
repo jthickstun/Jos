@@ -13,12 +13,12 @@
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Sextus	*I"Quintus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'Sx	*I'Q	*I'T	*I'A	*I'S
-*clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2	*clefG2
 *>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
 *>Part1[A]	*>Part1[A]	*>Part1[A]	*>Part1[A]	*>Part1[A]	*>Part1[A]
 *>Part2[B]	*>Part2[B]	*>Part2[B]	*>Part2[B]	*>Part2[B]	*>Part2[B]
 *>Part3[C]	*>Part3[C]	*>Part3[C]	*>Part3[C]	*>Part3[C]	*>Part3[C]
 *>A	*>A	*>A	*>A	*>A	*>A
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
@@ -762,12 +762,13 @@
 0GG]	0D]	0B-l	0G]	0dl	0g]
 !!LO:LB:i:g=z
 =131||	=131||	=131||	=131||	=131||	=131||
-!!section: Secunda pars: Eja ergo
-!!!OMD: Secunda pars: Eja ergo
 *>B	*>B	*>B	*>B	*>B	*>B
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
-*	*tacet	*	*tacet	*tacet	*tacet
+!!!OMD: Secunda pars: Eja ergo
+!!section: Secunda pars: Eja ergo
 1r	0r	1B-	0r	0r	0r
 1F	.	1c	.	.	.
 =132	=132	=132	=132	=132	=132
@@ -957,11 +958,12 @@
 !!LO:LB:i:g=z
 =166||	=166||	=166||	=166||	=166||	=166||
 *>C	*>C	*>C	*>C	*>C	*>C
-!!section: Tertia pars: Et Jseum
-!!!OMD: Tertia pars: Et Jseum
+*clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
-*	*xtacet	*	*xtacet	*xtacet	*xtacet
+!!!OMD: Tertia pars: Et Jseum
+!!section: Tertia pars: Et Jseum
 0r	1r	0r	0r	0g	0r
 .	[1G	.	.	.	.
 =167	=167	=167	=167	=167	=167

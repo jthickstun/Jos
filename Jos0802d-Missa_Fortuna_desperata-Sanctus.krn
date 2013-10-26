@@ -18,9 +18,9 @@
 *>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]
 *>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]
 *>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]
+*>A	*>A	*>A	*>A
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
-*>A	*>A	*>A	*>A
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-
@@ -348,12 +348,12 @@
 !!LO:LB:i:g=z
 =66||	=66||	=66||	=66||
 *>B	*>B	*>B	*>B
-!!section: Pleni sunt celi
-!!!OMD: Pleni sunt celi
+*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*	*	*tacet	*
+!!!OMD: Pleni sunt celi
+!!section: Pleni sunt celi
 1C	0r	0r	0r
 2C/	.	.	.
 2D\	.	.	.
@@ -697,14 +697,14 @@
 !!LO:LB:i:g=z
 =126||	=126||	=126||	=126||
 *>C	*>C	*>C	*>C
-!!section: Osanna
-!!!OMD: Osanna
+*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
+*	*	*rscale:2	*
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*	*	*rscale:2	*
+!!!OMD: Osanna
+!!section: Osanna
 !	!	!LO:TX:Z=6:t=Canon&colon; Decrescit in diapente	!
-*	*	*xtacet	*
 1r	0r	0r	1f
 1F	.	.	2d/
 .	.	.	2c/
@@ -918,15 +918,15 @@
 0Fl	0Fl	0c]	0fl
 *	*	*rscale:1	*
 !!LO:LB:i:g=z
-!LO:TX:rj:i:t=fine	!	!	!
+!!LO:TX:rj:i:t=fine
 =161||	=161||	=161||	=161||
 *>D	*>D	*>D	*>D
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Benedictus
 !!!OMD: Benedictus
-*	*	*M2/1	*
-*	*	*tacet	*
+!!section: Benedictus
 0r	0r	0r	1f
 .	.	.	[1cc
 =162	=162	=162	=162
@@ -1176,7 +1176,7 @@
 2E\	.	.	2g/
 =205	=205	=205	=205
 0Fl	0Al	0r	0cl
-!LO:TX:i:Y=40:rj:t=Osanna ut supra	!	!	!
+!!LO:TX:i:Y=40:rj:t=Osanna ut supra
 =||	=||	=||	=||
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation

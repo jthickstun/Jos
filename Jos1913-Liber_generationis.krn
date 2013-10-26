@@ -14,11 +14,11 @@
 *>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
 *>Part1[A]	*>Part1[A]	*>Part1[A]	*>Part1[A]
 *>Part2[B]	*>Part2[B]	*>Part2[B]	*>Part2[B]
+*>A	*>A	*>A	*>A
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*>A	*>A	*>A	*>A
 =1-	=1-	=1-	=1-
 0r	0r	0r	[0g
 =2	=2	=2	=2
@@ -774,11 +774,12 @@
 !!LO:LB:i:g=z
 =156||	=156||	=156||	=156||
 *>B	*>B	*>B	*>B
-!!section: Secunda pars: Solomon autem genuit
-!!!OMD: Secunda pars: Solomon autem genuit
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*	*	*	*tacet
+!!!OMD: Secunda pars: Solomon autem genuit
+!!section: Secunda pars: Solomon autem genuit
 0r	1r	1d	0r
 .	1G	2d\	.
 .	.	2d\	.
@@ -1372,11 +1373,13 @@
 0.AAl	0.Al	0.El	0.r
 !!LO:LB:i:g=z
 =261||	=261||	=261||	=261||
-!!section: Tertia pars: Et post transmigrationem
-!!!OMD: Tertia pars: Et post transmigrationem
+*>C	*>C	*>C	*>C
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*	*	*	*xtacet
+!!!OMD: Tertia pars: Et post transmigrationem
+!!section: Tertia pars: Et post transmigrationem
 0r	0r	0A	0r
 =262	=262	=262	=262
 0AA	0r	[0c	0r

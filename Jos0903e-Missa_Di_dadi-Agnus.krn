@@ -13,17 +13,17 @@
 *Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'A	*I'S
-*clefF4	*clefGv2	*clefGv2	*clefG2
 *>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
 *>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
+*	*rscale:1/2	*	*
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(O)	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
-*	*rscale:1/2	*	*
-=1-	=1-	=1-	=1-
-!!section: Agnus Dei I
 !!!OMD: Agnus Dei I
+!!section: Agnus Dei I
+=1-	=1-	=1-	=1-
 1G	0G	0r	1g
 2G\	.	.	2.b-\
 [2B-\	.	.	.
@@ -452,12 +452,12 @@
 !!LO:LB:i:g=z
 =68||	=68||	=68||	=68||
 *>B	*>B	*>B	*>B
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(C|)	*met(O)	*met(C|)	*met(C|)
-!!primary-mensuration: met(C|)
-!!section: Agnus Dei II
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!!OMD: Agnus Dei II
-*	*tacet	*	*tacet
+!!section: Agnus Dei II
 [0G	0r	0d	0r
 =69	=69	=69	=69
 0G]	0r	1e-i	0r
@@ -733,13 +733,14 @@
 !!LO:LB:i:g=z
 =121||	=121||	=121||	=121||
 *>C	*>C	*>C	*>C
-!!section: Agnus Dei III
-!!!OMD: Agnus Dei III
-*M2/1	*M2/1	*M2/1	*M2/1
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*rscale:1/2	*	*	*
+*M3/0	*M2/1	*M2/1	*M2/1
 *met(O)	*met(C|)	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
-*rscale:1/2	*	*	*
-*	*xtacet	*	*xtacet
+!!!OMD: Agnus Dei III
+!!section: Agnus Dei III
 0r	0G	0G	0r
 =122-	=122	=122	=122
 0r	1B-	1G	0r
@@ -1154,12 +1155,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: V=start of tuplet marker
-!!!RDF**kern: Z=end of tuplet marker
 !!!ENC:	Jesse Rodin; Victoria Chang 2012/01/28
 !!!END:	2012/01/28/
 !!!EED:	Jesse Rodin
-!!!EEV: 2012/04/24/
+!!!EEV:	2013/10/25/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2012/03/22/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v85,85,85,100Q16

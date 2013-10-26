@@ -14,14 +14,14 @@
 *Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor	*I"Altus	*I"Superius
 *I'B	*I'T	*I'A	*I'S
-*clefF4	*clefGv2	*clefGv2	*clefG2
-*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]	*>[A,B,C,D,C]
 *>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]	*>Sanctus[A]
 *>Pleni[B]	*>Pleni[B]	*>Pleni[B]	*>Pleni[B]
 *>Osanna[C]	*>Osanna[C]	*>Osanna[C]	*>Osanna[C]
 *>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]	*>Benedictus[D]
 *>A	*>A	*>A	*>A
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-
@@ -175,11 +175,12 @@
 !!LO:LB:i:g=z
 =24||	=24||	=24||	=24||
 *>B	*>B	*>B	*>B
-!!section: Pleni sunt celi
-!!!OMD: Pleni sunt celi
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*tacet	*tacet	*	*
+!!!OMD: Pleni sunt celi
+!!section: Pleni sunt celi
 0r	0r	0d	0r
 =25	=25	=25	=25
 0r	0r	1d	0r
@@ -366,11 +367,12 @@
 !!LO:LB:i:g=z
 =55||	=55||	=55||	=55||
 *>C	*>C	*>C	*>C
-!!section: Osanna
-!!!OMD: Osanna
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*xtacet	*xtacet	*	*
+!!!OMD: Osanna
+!!section: Osanna
 [0G	[0B-	1.d	0r
 .	.	[2B-\	.
 =56	=56	=56	=56
@@ -484,11 +486,12 @@
 !!LO:TX:rj:i:Y=30:t=fine
 =75||	=75||	=75||	=75||
 *>D	*>D	*>D	*>D
-!!section: Benedictus
-!!!OMD: Benedictus
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-*	*tacet	*	*
+!!!OMD: Benedictus
+!!section: Benedictus
 0r	0r	0d	0r
 =76	=76	=76	=76
 0r	0r	1.d	0r
