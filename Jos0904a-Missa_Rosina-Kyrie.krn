@@ -3,10 +3,10 @@
 !!!OPR:	Missa Rosina
 !!!ONM:	1
 !!!OTL:	Kyrie
-!!!AGN:	Mass; Kyrie
+!!!AGN:	Fragment; Mass; Kyrie
 !!!SCT:	NJE 9.4
 !!!SCA:	New Josquin Edition 9.4
-!!!voices:	1
+!!!voices:	4
 **kern
 *staff1
 *Ivox
@@ -57,25 +57,25 @@
 =14
 0A
 =15
-*M4/1
+*M2/1
 *met(C|2)
 0r
-=16-
-0ryy
+=16.
+0r
 =17
 1.E
 2F/
-=18-
+=18.
 1G
 1G
 =19
 1A
 1c
-=20-
+=20.
 0B
 =21
 0A
-=22-
+=22.
 0Al
 !!LO:LB:i:g=z
 =23||
@@ -112,10 +112,9 @@
 =32
 0e
 =33
-!LO:TX:Z=28:X=-40:t=Mensuration not 
-!LO:TX:Z=8:X=-40:t=specified (probably C)
 *M2/1
 *met(C)
+!LO:TX:X=-30:Z=8:t=Mensuration not specified (probably C)
 0r
 =34
 1.A
@@ -125,8 +124,6 @@
 1E
 1C
 =36
-*M2/1
-*met(C|)
 0r
 =37
 1.A
@@ -148,20 +145,20 @@
 !!!OMD: Kyrie II
 1c
 2B\
-=41-
+=41.
 1A
 2G/
 =42
 1.F
-=43-
+=43.
 [1.E
 =44
 1.E]
-=45-
+=45.
 1.r
 =46
 1.r
-=47
+=47.
 *M2/1
 *met(C)
 1c
@@ -176,8 +173,6 @@
 =50
 0r
 =51
-*M2/1
-*met(C|)
 1c
 2B\
 [2A/
@@ -194,12 +189,10 @@
 ==
 *-
 !!!RDF**kern: l=long note in original notation
-!!!RDF**kern: V=start of tuplet marker
-!!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Rob Wegman; Jesse Rodin (May 2013)
+!!!ENC:	Jesse Rodin (May 2013)
 !!!END:	2013/05/10/
 !!!EED:	Jesse Rodin
-!!!EEV:	2013/05/13/
+!!!EEV:	2014/01/08/
 !!attribution-level: 3 (other)
-!!!ONB:	Translated from MusicXML and edited on 2013/05/13/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I250v130z21c120Q16
+!!!ONB:	Translated from MusicXML and edited on 2014/01/08/ by Craig Sapp
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I250v110z21c120Q16
