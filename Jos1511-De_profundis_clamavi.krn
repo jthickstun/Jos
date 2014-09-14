@@ -469,8 +469,8 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!section: A custodia
-!!!OMD: A custodia
+!!section: Secunda pars: A custodia
+!!!OMD: Secunda pars
 1.C	A	1r	.	0r	.	0r	.
 .	.	[1G	A	.	.	.	.
 2C/	cus-	.	.	.	.	.	.
@@ -850,4 +850,4 @@
 !!!EEV:	2014/06/17/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2014/06/17/ by Craig Sapp
-!!muse2ps: C^@{COA}\n@{SCT}^u^(2) @{OTL2}^i2I100v90,90,90,90,120Q16
+!!muse2ps: C^@{COA}\n@{SCT}^u^(2) @{OTL2}^i2I100v110,105,105,105,110c180
