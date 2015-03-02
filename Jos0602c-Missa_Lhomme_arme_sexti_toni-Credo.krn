@@ -630,7 +630,7 @@
 4GG/	.	4BB-/	4g/
 2AA/	.	2C/	1f
 2BB-/	1G	2D/	.
-2C/	.	2E-i/	2e/
+2C/	.	2E-i/	2eni/
 =77	=77	=77	=77
 [0.FFl	[0.Fl	0.C	[0.fl
 =78	=78	=78	=78
@@ -1542,4 +1542,4 @@
 !!!EEV: 2011/10/03/
 !!attribution-level: 1 (secure)
 !!!ONB: Translated from MusicXML and edited on 2011/10/03/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100c92Q16
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,150c92Q16

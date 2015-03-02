@@ -420,9 +420,9 @@
 1C	.	[1cl	.
 .	.	.	2e/
 =70	=70	=70	=70
-!!*^	*	*	*
-0.FF/l 0.F/l	0.Fl	0.c]	0.fl
-!!*v	*v	*	*	*
+*^	*	*	*
+0.FF\l	0.F/l	0.Fl	0.c]	0.fl
+*v	*v	*	*	*
 ==	==	==	==
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
@@ -433,4 +433,4 @@
 !!!EEV:	2011/04/14/
 !!attribution-level: 1 (secure)
 !!!ONB:	Translated from MusicXML and edited on 2011/04/14/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,100c95Q16
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,150c95Q16

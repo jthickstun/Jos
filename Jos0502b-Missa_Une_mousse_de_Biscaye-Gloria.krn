@@ -417,7 +417,7 @@
 !LO:N:vis=0	!	!	!
 [y1BB-	[1B-l	1G	[1dl
 =-	=	=-	=-
-1BB-]yy	.	2F/	.
+1BB-]yy	1B_	2F/	1d_
 .	.	[2G/	.
 =48	=48-	=48	=48
 [1BB-l	1B-_	2G/]	1d_
@@ -874,4 +874,4 @@
 !!!EEV:	2013/10/25/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2012/08/03/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v85,85,85,100Q16
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v85,85,85,150Q16
