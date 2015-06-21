@@ -777,8 +777,6 @@
 =123	=123	=123	=123
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(C3)	*met(C3)	*met(C3)	*met(C3)
-!! menC3 is not yet rendered, so making a note of the actual mensuration in the score:
-!LO:TX:X=-25:Z=6:t=menC3	!LO:TX:X=-25:Z=6:t=menC3	!LO:TX:X=-25:Z=6:t=menC3	!LO:TX:X=-25:Z=6:t=menC3
 1GG	1B	2G/	1g
 .	.	2.d\	.
 2GG/	2B\	.	2r
@@ -884,8 +882,6 @@
 =137	=137	=137	=137
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(C3)	*met(C3)	*met(C3)	*met(C3)
-!LO:TX:X=-25:Z=6:t=menC3	!LO:TX:X=-25:Z=6:t=menC3	!LO:TX:X=-25:Z=6:t=menC3	!LO:TX:X=-25:Z=6:t=menC3
-!! menC3 is not yet rendered, so making a note of the actual mensuration in the score:
 1AA	1E	1A	1cc
 2r	2e\	1E	4b\
 .	.	.	4a/
@@ -967,8 +963,6 @@
 =147	=147	=147	=147
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(C3)	*met(C3)	*met(C3)	*met(C3)
-!LO:TX:X=-25:Z=6:t=menC3	!LO:TX:X=-25:Z=6:t=menC3	!LO:TX:X=-25:Z=6:t=menC3	!LO:TX:X=-25:Z=6:t=menC3
-!! menC3 is not yet rendered, so making a note of the actual mensuration in the score:
 1AA	0.e	2.E/	1c
 .	.	4F/	.
 2GG/	.	2G/	2B/
@@ -1008,8 +1002,6 @@
 =152	=152	=152	=152
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(C3)	*met(C3)	*met(C3)	*met(C3)
-!LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3
-!! menC3 is not yet rendered, so making a note of the actual mensuration in the score:
 0.r	1A	1F	2f/
 .	.	.	2c/
 .	2G/	2E/	2e/
@@ -1062,8 +1054,6 @@
 =159	=159	=159	=159
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(C3)	*met(C3)	*met(C3)	*met(C3)
-!LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3
-!! menC3 is not yet rendered, so making a note of the actual mensuration in the score:
 0.r	2B\	2E/	2g/
 .	2.d\	2D/	2.f/
 .	.	2F/	.
@@ -1126,8 +1116,6 @@
 =168	=168	=168	=168
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(C3)	*met(C3)	*met(C3)	*met(C3)
-!LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3
-!! menC3 is not yet rendered, so making a note of the actual mensuration in the score:
 2C/	2G/	1c	2e/
 1F	1A	.	1a
 .	.	2d\	.

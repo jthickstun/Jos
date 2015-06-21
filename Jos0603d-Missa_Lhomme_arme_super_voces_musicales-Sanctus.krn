@@ -595,8 +595,6 @@
 !!primary-mensuration: met(C3)
 !!!OMD: Osanna
 !!section: Osanna
-!! menC3 is not yet rendered, so making a note of the actual mensuration in the score:
-!LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3	!	!LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3	!LO:TX:X=-65:Z=6:t=menC3
 !	!	!LO:TX:X=-50:Z=6:t=Tenor  Osanna  Gaude cum gaudentibus	!	!	!	!
 0.r	0.r	1.r	0.r	2.A/	0.r	2.a/
 .	.	.	.	4B\	.	4g/
