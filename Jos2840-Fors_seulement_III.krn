@@ -1,10 +1,10 @@
 !!!COA: Josquin des Prez
 !!!CDT: ~1450-1521/08/27
 !!!COM: Ghiselin
-!!!OTL@@FRA: Fors seulement
+!!!OTL@@FRA: Fors seulement III
 !!!AGN: Chanson
-!!!SCT: NJE 28.16
-!!!SCA: New Josquin Edition 28.16
+!!!SCT: NJE 28.40 (fake)
+!!!SCA: New Josquin Edition 28.40 (fake)
 !!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
@@ -433,10 +433,11 @@
 !!!RDF**kern: Z=end of tuplet marker
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
+!!!SMS: Picker 1981
 !!!ENC: Will Watson 23/10/2011
 !!!END: 2011/10/23/
 !!!EED: Jesse Rodin
-!!!EEV: 2011/11/02/
+!!!EEV: 2015/09/09/
 !!attribution-level: 3 (other)
 !!!ONB: Translated from MusicXML and edited on 2011/11/02/ by Craig Sapp
 !!muse2ps:  C^@{COA}?\n@{SCT}^v90,100,90,150I150Q16
