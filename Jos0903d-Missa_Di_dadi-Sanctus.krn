@@ -495,8 +495,7 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M3/1	*M3/1	*M3/1	*M3/1
-*met(O)	*met(O)	*met(O)	*met(O|)
-!!primary-mensuration: met(O)
+*met(O|)	*met(O|)	*met(O|)	*met(O|)
 !!!OMD: Osanna
 !!section: Osanna
 1G	1G	1B-	1g
