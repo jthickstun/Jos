@@ -16,6 +16,7 @@
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C)	*met(C)	*met(C|)
+!!primary-mensuration: met(C|)
 =1-	=1-	=1-	=1-
 *	*rscale:1/2	*rscale:1/2	*
 !	!	!LO:TX:Z=8:t=Canon at the lower fifth	!
@@ -499,7 +500,7 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(C|)	*met(C)	*met(C)	*met(C|)
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Et incarnatus est
 !!!OMD: Et incarnatus est
 0G	0G	1.B	0g
@@ -569,7 +570,7 @@
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[]	*k[]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
-*met(C|)	*met(C)	*met(C)	*met(C|)
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Crucifixus
 !!!OMD: Crucifixus
 0r	0r	0r	1g

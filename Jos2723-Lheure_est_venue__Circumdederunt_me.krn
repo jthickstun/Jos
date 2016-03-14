@@ -17,7 +17,7 @@
 *>A	*>A	*>A
 *clefF4	*clefGv2	*clefG2
 *k[b-]	*k[]	*k[]
-*M2/00	*M2/00	*M2/00
+*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-
 !!LO:TX:Z=30:t=Form&colon; virelai (AbbaA)
@@ -530,4 +530,4 @@
 !!!EEV:	2012/06/21/
 !!attribution-level: 3 (other)
 !!!ONB:	Translated from MusicXML and edited on 2012/06/21/ by Craig Sapp
-!!muse2ps: C^Agricola/Josquin?\n@{SCT}^i2I150v85,85,150Q16
+!!muse2ps: C^Agricola/Josquin?\n@{SCT}^i2I150v85,85,150Q16c80
