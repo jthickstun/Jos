@@ -1,4 +1,5 @@
-!!!COA: Josquin des Prez
+!!!COA1: Therache
+!!!COA2: Josquin des Prez
 !!!CDT: ~1450-1521/08/27
 !!!OTL@@LAT: Mittit ad virginem
 !!!OTL2@@LAT: Accede, nuntia
@@ -1263,4 +1264,4 @@
 !!!EEV:	2011/11/03/
 !!attribution-level@Jos: 4 (questionable)
 !!!ONB:	Translated from MusicXML and edited on 2011/11/03/ by Craig Sapp
-!!muse2ps: u^(2) @{OTL2}^C^@{COA}?\n@{SCT}^i2I150v90,90,90,150c90Q16
+!!muse2ps: u^(2) @{OTL2}^C^@{COA1}?/@{COA2}?\n@{SCT}^i2I150v90,90,90,150c90Q16
